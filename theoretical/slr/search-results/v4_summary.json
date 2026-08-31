@@ -1,0 +1,20 @@
+{
+  "yields": {
+    "ACM": 48,
+    "IEEE": 27,
+    "Springer": 27,
+    "Scopus": 175,
+    "WoS": 28
+  },
+  "total_raw": 305,
+  "total_unique_after_cross_db_dedup": 290,
+  "duplicates_across_dbs": 15,
+  "phase_distribution_against_mendeley": {
+    "phase1_exc": 36,
+    "phase1_inc": 11,
+    "star": 2,
+    "NEW": 214,
+    "untagged": 27
+  },
+  "mendeley_library_size": 436
+}

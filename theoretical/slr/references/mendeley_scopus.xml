@@ -1,0 +1,5126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Environmental Footprints of Query Processing: A Vision for Sustainable Database Architectures</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>7</b:Month>
+    <b:StandardNumber>2150-8097</b:StandardNumber>
+    <b:Publisher>VLDB Endowment</b:Publisher>
+    <b:Pages>4064-4072</b:Pages>
+    <b:JournalName>Proc. VLDB Endow.</b:JournalName>
+    <b:Volume>18</b:Volume>
+    <b:Issue>11</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Michail</b:First>
+            <b:Last>Bachras</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hans-Arno</b:First>
+            <b:Last>Jacobsen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.14778&#x2F;3749646.3749676</b:URL>
+    <b:Tag>phase1_exc--environmental-footprints-of-query-processing:-a-vision-for-sustainable-database-architectures</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Oracle AutoML: a fast and predictive AutoML pipeline</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Month>8</b:Month>
+    <b:StandardNumber>2150-8097</b:StandardNumber>
+    <b:Publisher>VLDB Endowment</b:Publisher>
+    <b:Pages>3166-3180</b:Pages>
+    <b:JournalName>Proc. VLDB Endow.</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>12</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Anatoly</b:First>
+            <b:Last>Yakovlev</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hesam Fathi</b:First>
+            <b:Last>Moghadam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ali</b:First>
+            <b:Last>Moharrer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jingxiao</b:First>
+            <b:Last>Cai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nikan</b:First>
+            <b:Last>Chavoshi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Venkatanathan</b:First>
+            <b:Last>Varadarajan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sandeep R</b:First>
+            <b:Last>Agrawal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sam</b:First>
+            <b:Last>Idicula</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tomas</b:First>
+            <b:Last>Karnagel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sanjay</b:First>
+            <b:Last>Jinturkar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nipun</b:First>
+            <b:Last>Agarwal</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.14778&#x2F;3415478.3415542</b:URL>
+    <b:Tag>phase1_inc--oracle-automl:-a-fast-and-predictive-automl-pipeline</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Large-scale e-learning recommender system based on Spark and Hadoop</b:Title>
+    <b:Year>2019</b:Year>
+    <b:JournalName>Journal of Big Data</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Karim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Dahdouh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Ahmed</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Dakkak</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Lahcen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Oughdir</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Abdelali</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Ibriz</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;link.springer.com&#x2F;article&#x2F;10.1186&#x2F;s40537-019-0169-4</b:URL>
+    <b:Tag>large-scale-e-learning-recommender-system-based-on-spark-and-hadoop</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Improving microservice-based applications with runtime placement adaptation</b:Title>
+    <b:Year>2019</b:Year>
+    <b:JournalName>Journal of Internet Services and Applications</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Adalberto</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>R.</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Sampaio</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Jr.</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Julia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Rubin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Ivan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Beschastnikh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Nelson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>S.</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Rosa</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;link.springer.com&#x2F;article&#x2F;10.1186&#x2F;s13174-019-0104-0</b:URL>
+    <b:Tag>improving-microservice-based-applications-with-runtime-placement-adaptation</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A model-based approach for converting CGMES power system models into operational networks</b:Title>
+    <b:Year>2023</b:Year>
+    <b:JournalName>Energy Informatics</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Ammar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Memari</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Adam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Aljamous</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;link.springer.com&#x2F;article&#x2F;10.1186&#x2F;s42162-023-00290-3</b:URL>
+    <b:Tag>a-model-based-approach-for-converting-cgmes-power-system-models-into-operational-networks</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Shadowkube: enhancing Kubernetes security with behavioral monitoring and honeypot integration</b:Title>
+    <b:Year>2025</b:Year>
+    <b:JournalName>Cybersecurity</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Qingwang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Yuling</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Ru</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Tan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Ze</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Jin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Juxin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Xiao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Xiao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Fangjiao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Qixu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;link.springer.com&#x2F;article&#x2F;10.1186&#x2F;s42400-025-00372-7</b:URL>
+    <b:Tag>shadowkube:-enhancing-kubernetes-security-with-behavioral-monitoring-and-honeypot-integration</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>IMPLEMENTATION OF CONTENTANALYZER FOR INFORMATION LEAKAGE DETECTION AND PREVENTION ON ANDROID SMART DEVICES</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>1309-4653</b:StandardNumber>
+    <b:Publisher>Ninety Nine Publication</b:Publisher>
+    <b:Pages>217-227</b:Pages>
+    <b:JournalName>Turkish journal of computer and mathematics education</b:JournalName>
+    <b:Volume>12</b:Volume>
+    <b:Issue>14</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>T</b:First>
+            <b:Last>Okebule</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>O A</b:First>
+            <b:Last>Adeyemo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>K A</b:First>
+            <b:Last>Olatunji</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>A S</b:First>
+            <b:Last>Awe</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Gurgaon</b:City>
+    <b:Tag>implementation-of-contentanalyzer-for-information-leakage-detection-and-prevention-on-android-smart-devices</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Performance And Analysis Of Suitable Algorithms For Symmetric Encryption Of Messages In Mobile Phones</b:Title>
+    <b:Year>2014</b:Year>
+    <b:StandardNumber>2350-1413</b:StandardNumber>
+    <b:Publisher>iManager Publications</b:Publisher>
+    <b:Pages>33</b:Pages>
+    <b:JournalName>I-manager&#39;s Journal on Mobile Applications and Technologies</b:JournalName>
+    <b:Volume>1</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>P</b:First>
+            <b:Last>Padmanabham</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shahebaz Ahmed</b:First>
+            <b:Last>Khan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Nagercoil</b:City>
+    <b:Tag>performance-and-analysis-of-suitable-algorithms-for-symmetric-encryption-of-messages-in-mobile-phones</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Complex brain activity analysis and recognition based on multiagent methods</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1532-0626</b:StandardNumber>
+    <b:Publisher>John Wiley &amp; Sons, Inc</b:Publisher>
+    <b:JournalName>Concurrency and computation</b:JournalName>
+    <b:Volume>34</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hao Lan</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiming</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Margaret G</b:First>
+            <b:Last>Dowens</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hoboken, USA</b:City>
+    <b:Tag>complex-brain-activity-analysis-and-recognition-based-on-multiagent-methods</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Spring Show @ Home: Exhibitors</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>0274-8541</b:StandardNumber>
+    <b:Publisher>Future US Holdings Inc. d&#x2F;b&#x2F;a Future US LLC</b:Publisher>
+    <b:Pages>26-37</b:Pages>
+    <b:JournalName>Radio world (Falls Church, Va.)</b:JournalName>
+    <b:Volume>44</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Alexandria</b:City>
+    <b:Tag>spring-show-@-home:-exhibitors</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Study on Intelligently Designed Business Innovation Service Models Driven by Big Data</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1024-123X</b:StandardNumber>
+    <b:Publisher>Hindawi</b:Publisher>
+    <b:Pages>1-15</b:Pages>
+    <b:JournalName>Mathematical problems in engineering</b:JournalName>
+    <b:Volume>2022</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Huiying</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jianfeng</b:First>
+            <b:Last>Shang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gang</b:First>
+            <b:Last>Wan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hangjun</b:First>
+            <b:Last>Che</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>New York</b:City>
+    <b:Tag>study-on-intelligently-designed-business-innovation-service-models-driven-by-big-data</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Improving Performance in Component Based Distributed Systems</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>2032-9407</b:StandardNumber>
+    <b:Publisher>European Alliance for Innovation (EAI)</b:Publisher>
+    <b:Pages>159357</b:Pages>
+    <b:JournalName>EAI endorsed transactions on scalable information systems</b:JournalName>
+    <b:Volume>6</b:Volume>
+    <b:Issue>22</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Fahd</b:First>
+            <b:Last>Al-Wesabi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Huda</b:First>
+            <b:Last>Iskandar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mokhtar</b:First>
+            <b:Last>Ghilan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Ghent</b:City>
+    <b:Tag>improving-performance-in-component-based-distributed-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Estimation of Cloud Node Acquisition</b:Title>
+    <b:Year>2014</b:Year>
+    <b:StandardNumber>1007-0214</b:StandardNumber>
+    <b:Publisher>Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology(TNLIST), Tsinghua University, Beijing 100084, China</b:Publisher>
+    <b:Pages>1-12</b:Pages>
+    <b:JournalName>Tsinghua science and technology</b:JournalName>
+    <b:Volume>19</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Waseem</b:First>
+            <b:Last>Ahmed</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yongwei</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>estimation-of-cloud-node-acquisition</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Comparison of NARX and Dual Polarization Models for Estimation of the VRLA Battery Charging&#x2F;Discharging Dynamics in Pulse Cycle</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>1996-1073</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>3160</b:Pages>
+    <b:JournalName>Energies (Basel)</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>11</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Adrian</b:First>
+            <b:Last>Chmielewski</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jakub</b:First>
+            <b:Last>Możaryn</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Piotr</b:First>
+            <b:Last>Piórkowski</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Krzysztof</b:First>
+            <b:Last>Bogdziński</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>comparison-of-narx-and-dual-polarization-models-for-estimation-of-the-vrla-battery-charging&#x2F;discharging-dynamics-in-pulse-cycle</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Root Contracting: A Novel Method and Utility for Implementing Design by Contract in Domain-Driven Design with Event Sourcing</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2079-9292</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>4205</b:Pages>
+    <b:JournalName>Electronics (Basel)</b:JournalName>
+    <b:Volume>14</b:Volume>
+    <b:Issue>21</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Chien-Tsun</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yi-Chun</b:First>
+            <b:Last>Yen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yu-Hsiang</b:First>
+            <b:Last>Hu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yu Chin</b:First>
+            <b:Last>Cheng</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>root-contracting:-a-novel-method-and-utility-for-implementing-design-by-contract-in-domain-driven-design-with-event-sourcing</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>AGENT BASED OPTIMIZED REPLICA MANAGEMENT IN DATA GRIDS</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>0257-4306</b:StandardNumber>
+    <b:Publisher>Editorial Universitaria de la Republica de Cuba</b:Publisher>
+    <b:Pages>232</b:Pages>
+    <b:JournalName>Investigación operacional</b:JournalName>
+    <b:Volume>41</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Priyanka</b:First>
+            <b:Last>Vashisht</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vijay</b:First>
+            <b:Last>Kumar</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>agent-based-optimized-replica-management-in-data-grids</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Verification and Validation of Formal Data-Centric Business Models</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>1843-8121</b:StandardNumber>
+    <b:Publisher>Alexandru Ioan Cuza University of Iasi</b:Publisher>
+    <b:Pages>317</b:Pages>
+    <b:JournalName>Scientific annals of computer science</b:JournalName>
+    <b:Volume>25</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Timur</b:First>
+            <b:Last>Umarov</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Iasi</b:City>
+    <b:Tag>verification-and-validation-of-formal-data-centric-business-models</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Pipeline pattern in an object-oriented, task-parallel environment</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>1532-0626</b:StandardNumber>
+    <b:Publisher>Blackwell Publishing Ltd</b:Publisher>
+    <b:Pages>1273-1291</b:Pages>
+    <b:JournalName>Concurrency and computation</b:JournalName>
+    <b:Volume>27</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jonathan</b:First>
+            <b:Last>Chow</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nasser</b:First>
+            <b:Last>Giacaman</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Oliver</b:First>
+            <b:Last>Sinnen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>pipeline-pattern-in-an-object-oriented,-task-parallel-environment</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A multithreaded hybrid framework for mining frequent itemsets</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>2088-8708</b:StandardNumber>
+    <b:Publisher>IAES Institute of Advanced Engineering and Science</b:Publisher>
+    <b:Pages>3249</b:Pages>
+    <b:JournalName>International journal of electrical and computer engineering (Malacca, Malacca)</b:JournalName>
+    <b:Volume>12</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jashma Suresh</b:First>
+            <b:Last>Ponmudiyan Poovan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dinesh Acharya</b:First>
+            <b:Last>Udupi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nandanavana Veerappareddy</b:First>
+            <b:Last>Subba Reddy</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Yogyakarta</b:City>
+    <b:Tag>a-multithreaded-hybrid-framework-for-mining-frequent-itemsets</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Identifying Concurrent Behaviours in Erlang Legacy Systems</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>0324-721X</b:StandardNumber>
+    <b:Publisher>Laszlo Nyul</b:Publisher>
+    <b:Pages>405-429</b:Pages>
+    <b:JournalName>Acta cybernetica (Szeged)</b:JournalName>
+    <b:Volume>26</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zsófia</b:First>
+            <b:Last>Erdei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Melinda</b:First>
+            <b:Last>Tóth</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>István</b:First>
+            <b:Last>Bozó</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Szeged</b:City>
+    <b:Tag>identifying-concurrent-behaviours-in-erlang-legacy-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>RECAST: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2573-0142</b:StandardNumber>
+    <b:Publisher>ACM</b:Publisher>
+    <b:Pages>1-26</b:Pages>
+    <b:JournalName>Proceedings of the ACM on human-computer interaction</b:JournalName>
+    <b:Volume>5</b:Volume>
+    <b:Issue>CSCW1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Austin P</b:First>
+            <b:Last>Wright</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Omar</b:First>
+            <b:Last>Shaikh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haekyu</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Will</b:First>
+            <b:Last>Epperson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Muhammed</b:First>
+            <b:Last>Ahmed</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Stephane</b:First>
+            <b:Last>Pinel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Duen Horng (Polo)</b:First>
+            <b:Last>Chau</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Diyi</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>recast:-enabling-user-recourse-and-interpretability-of-toxicity-detection-models-with-interactive-visualization</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>An Efficient Approach for Storage of Big Data Streams in Distributed Stream Processing Systems</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>2158-107X</b:StandardNumber>
+    <b:Publisher>Science and Information (SAI) Organization Limited</b:Publisher>
+    <b:JournalName>International journal of advanced computer science &amp; applications</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sultan</b:First>
+            <b:Last>Alshamrani</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Quadri</b:First>
+            <b:Last>Waseem</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Abdullah</b:First>
+            <b:Last>Alharbi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wael</b:First>
+            <b:Last>Alosaimi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hamza</b:First>
+            <b:Last>Turabieh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hashem</b:First>
+            <b:Last>Alyami</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>West Yorkshire</b:City>
+    <b:Tag>an-efficient-approach-for-storage-of-big-data-streams-in-distributed-stream-processing-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Social based Web Service Discovery for Multiple Domains and Recommendation</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1735-188X</b:StandardNumber>
+    <b:Publisher>Dr. Alireza Noruzi, University of Tehran, Department of Library and Information Science</b:Publisher>
+    <b:Pages>6396-6407</b:Pages>
+    <b:JournalName>Webology</b:JournalName>
+    <b:Volume>19</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>J Brindha</b:First>
+            <b:Last>Merin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>W Aisha</b:First>
+            <b:Last>Banu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Tehran</b:City>
+    <b:Tag>social-based-web-service-discovery-for-multiple-domains-and-recommendation</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Survey of Spark Scheduling Strategy Optimization Techniques and Development Trends</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>1546-2226</b:StandardNumber>
+    <b:Publisher>Tech Science Press</b:Publisher>
+    <b:Pages>3843-3875</b:Pages>
+    <b:JournalName>Computers, materials &amp; continua</b:JournalName>
+    <b:Volume>83</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Chuan</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xuanlin</b:First>
+            <b:Last>Wen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Henderson</b:City>
+    <b:Tag>a-survey-of-spark-scheduling-strategy-optimization-techniques-and-development-trends</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Queue‐Aware Extension to BBR for Low‐Latency Transport in Video Applications</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>1751-8628</b:StandardNumber>
+    <b:Publisher>John Wiley &amp; Sons, Inc</b:Publisher>
+    <b:JournalName>IET communications</b:JournalName>
+    <b:Volume>20</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ziyi</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiao</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuqing</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Peisheng</b:First>
+            <b:Last>Guo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiafeng</b:First>
+            <b:Last>Jiang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Stevenage</b:City>
+    <b:Tag>a-queue‐aware-extension-to-bbr-for-low‐latency-transport-in-video-applications</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Optimizing time delay in cloud using enhanced multi‐hold inherited maximization algorithm to reduce cost and improve bandwidth</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>0266-4720</b:StandardNumber>
+    <b:JournalName>Expert systems</b:JournalName>
+    <b:Volume>40</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dharmalingam Sundaram</b:First>
+            <b:Last>Manoj Kumar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Premkumar</b:First>
+            <b:Last>Sriramya</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>optimizing-time-delay-in-cloud-using-enhanced-multi‐hold-inherited-maximization-algorithm-to-reduce-cost-and-improve-bandwidth</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Semantic - based service discovery in grid environment</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>1064-1246</b:StandardNumber>
+    <b:Publisher>SAGE Publications</b:Publisher>
+    <b:Pages>5263-5272</b:Pages>
+    <b:JournalName>Journal of intelligent &amp; fuzzy systems</b:JournalName>
+    <b:Volume>39</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kun</b:First>
+            <b:Last>Shang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>London, England</b:City>
+    <b:Tag>semantic---based-service-discovery-in-grid-environment</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Autonomic Execution of Web Service Composition Using AI Planning Method</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>1935-570X</b:StandardNumber>
+    <b:Publisher>IGI Global</b:Publisher>
+    <b:Pages>28-45</b:Pages>
+    <b:JournalName>International journal of information technologies and systems approach</b:JournalName>
+    <b:Volume>8</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Chao-Qun</b:First>
+            <b:Last>Yuan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fang-Fang</b:First>
+            <b:Last>Chua</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hershey</b:City>
+    <b:Tag>autonomic-execution-of-web-service-composition-using-ai-planning-method</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>An Empirical Perspective of Roundtrip Engineering for the Development of Secure Web Application Using UML 2.0</b:Title>
+    <b:Year>2017</b:Year>
+    <b:StandardNumber>2074-904X</b:StandardNumber>
+    <b:Publisher>Modern Education and Computer Science Press</b:Publisher>
+    <b:Pages>43-54</b:Pages>
+    <b:JournalName>International journal of intelligent systems and applications</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Nitish</b:First>
+            <b:Last>Pathak</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>B M</b:First>
+            <b:Last>Singh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Girish</b:First>
+            <b:Last>Sharma</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hong Kong</b:City>
+    <b:Tag>an-empirical-perspective-of-roundtrip-engineering-for-the-development-of-secure-web-application-using-uml-2.0</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Quantitative Assessment of Generative Large Language Models on Design Pattern Application</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>1546-2226</b:StandardNumber>
+    <b:Publisher>Tech Science Press</b:Publisher>
+    <b:Pages>3843-3872</b:Pages>
+    <b:JournalName>Computers, materials &amp; continua</b:JournalName>
+    <b:Volume>82</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dae-Kyoo</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Henderson</b:City>
+    <b:Tag>quantitative-assessment-of-generative-large-language-models-on-design-pattern-application</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Seeking Certainty from Uncertainty: A Training Framework for Android Malware Detection Resilient to Label Noise</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:JournalName>ACM transactions on software engineering and methodology</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Cuiying</b:First>
+            <b:Last>Gao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hanwen</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Heng</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Zhou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haolan</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yueming</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Yuan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>seeking-certainty-from-uncertainty:-a-training-framework-for-android-malware-detection-resilient-to-label-noise</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Entropy, a new dynamics governing parameter in real time distributed system: a simulation study</b:Title>
+    <b:Year>2014</b:Year>
+    <b:StandardNumber>1744-5760</b:StandardNumber>
+    <b:Publisher>Taylor &amp; Francis</b:Publisher>
+    <b:Pages>562-586</b:Pages>
+    <b:JournalName>International journal of parallel, emergent and distributed systems</b:JournalName>
+    <b:Volume>29</b:Volume>
+    <b:Issue>6</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rashmi</b:First>
+            <b:Last>Sharma</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Abingdon</b:City>
+    <b:Tag>entropy,-a-new-dynamics-governing-parameter-in-real-time-distributed-system:-a-simulation-study</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>INNOVATION IN DIGITAL BANKING AWARDS 2020</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>0005-5395</b:StandardNumber>
+    <b:Publisher>The Financial Times Limited</b:Publisher>
+    <b:Pages>28</b:Pages>
+    <b:JournalName>The Banker</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>London</b:City>
+    <b:Tag>innovation-in-digital-banking-awards-2020</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A General Deep Learning Method for Computing Molecular Parameters of a Viscoelastic Constitutive Model by Solving an Inverse Problem</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>2073-4360</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>3592</b:Pages>
+    <b:JournalName>Polymers</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>17</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Minghui</b:First>
+            <b:Last>Ye</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuan-Qi</b:First>
+            <b:Last>Fan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xue-Feng</b:First>
+            <b:Last>Yuan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>a-general-deep-learning-method-for-computing-molecular-parameters-of-a-viscoelastic-constitutive-model-by-solving-an-inverse-problem</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Modeling Radiation Belt Electrons With Information Theory Informed Neural Networks</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1542-7390</b:StandardNumber>
+    <b:Publisher>John Wiley &amp; Sons, Inc</b:Publisher>
+    <b:JournalName>Space Weather</b:JournalName>
+    <b:Volume>20</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Simon</b:First>
+            <b:Last>Wing</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Drew L</b:First>
+            <b:Last>Turner</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Aleksandr Y</b:First>
+            <b:Last>Ukhorskiy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jay R</b:First>
+            <b:Last>Johnson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Thomas</b:First>
+            <b:Last>Sotirelis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Romina</b:First>
+            <b:Last>Nikoukar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Giuseppe</b:First>
+            <b:Last>Romeo</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Washington</b:City>
+    <b:Tag>modeling-radiation-belt-electrons-with-information-theory-informed-neural-networks</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Review on Conformance Checking Technique for the Evaluation of Process Mining Algorithms</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>2217-8309</b:StandardNumber>
+    <b:Publisher>UIKTEN - Association for Information Communication Technology Education and Science</b:Publisher>
+    <b:Pages>1232-1241</b:Pages>
+    <b:JournalName>TEM Journal</b:JournalName>
+    <b:Volume>8</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Naderifar</b:First>
+            <b:Last>Vahideh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shahnorbanun</b:First>
+            <b:Last>Sahran</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zarina</b:First>
+            <b:Last>Shukur</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Novi Pazar</b:City>
+    <b:Tag>a-review-on-conformance-checking-technique-for-the-evaluation-of-process-mining-algorithms</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Solving Task Scheduling Problem in the Cloud Using a Hybrid Particle Swarm Optimization Approach</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1947-8283</b:StandardNumber>
+    <b:Publisher>IGI Global</b:Publisher>
+    <b:Pages>1-25</b:Pages>
+    <b:JournalName>International journal of applied metaheuristic computing</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Salmi</b:First>
+            <b:Last>Cheikh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jessie J</b:First>
+            <b:Last>Walker</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>solving-task-scheduling-problem-in-the-cloud-using-a-hybrid-particle-swarm-optimization-approach</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Code Edit Recommendation Using a Recurrent Neural Network</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>9286</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>19</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Seonah</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jaejun</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sungwon</b:First>
+            <b:Last>Kang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jongsun</b:First>
+            <b:Last>Ahn</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Heetae</b:First>
+            <b:Last>Cho</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>code-edit-recommendation-using-a-recurrent-neural-network</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Multimodal Deep Learning Model Using Text, Image, and Code Data for Improving Issue Classification Tasks</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>9456</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>16</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Changwon</b:First>
+            <b:Last>Kwak</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pilsu</b:First>
+            <b:Last>Jung</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Seonah</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>a-multimodal-deep-learning-model-using-text,-image,-and-code-data-for-improving-issue-classification-tasks</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>RETRACTED ARTICLE: DOOR: Distributed Object Oriented Software Restructuring Approach Using Neural Network</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>0361-7688</b:StandardNumber>
+    <b:Publisher>Pleiades Publishing</b:Publisher>
+    <b:Pages>570-580</b:Pages>
+    <b:JournalName>Programming and computer software</b:JournalName>
+    <b:Volume>45</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ahmed</b:First>
+            <b:Last>Khan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Moscow</b:City>
+    <b:Tag>retracted-article:-door:-distributed-object-oriented-software-restructuring-approach-using-neural-network</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Analysis of Behavior-Driven Development: A Thematic Synthesis</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>0361-7688</b:StandardNumber>
+    <b:Publisher>Pleiades Publishing</b:Publisher>
+    <b:Pages>701-713</b:Pages>
+    <b:JournalName>Programming and computer software</b:JournalName>
+    <b:Volume>50</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Víctor M</b:First>
+            <b:Last>Arredondo-Reyes</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Saúl</b:First>
+            <b:Last>Domínguez-Isidro</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ángel J</b:First>
+            <b:Last>Sánchez-García</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jorge Octavio</b:First>
+            <b:Last>Ocharán-Hernández</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Moscow</b:City>
+    <b:Tag>analysis-of-behavior-driven-development:-a-thematic-synthesis</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Design Guide for Usable Web APIs</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>0361-7688</b:StandardNumber>
+    <b:Publisher>Pleiades Publishing</b:Publisher>
+    <b:Pages>584-593</b:Pages>
+    <b:JournalName>Programming and computer software</b:JournalName>
+    <b:Volume>46</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>M</b:First>
+            <b:Last>Tello-Rodríguez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J O</b:First>
+            <b:Last>Ocharán-Hernández</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J C</b:First>
+            <b:Last>Pérez-Arriaga</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>X</b:First>
+            <b:Last>Limón</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Á J</b:First>
+            <b:Last>Sánchez-García</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Moscow</b:City>
+    <b:Tag>a-design-guide-for-usable-web-apis</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Software Artefacts Consistency Management towards Continuous Integration: A Roadmap</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>2158-107X</b:StandardNumber>
+    <b:Publisher>Science and Information (SAI) Organization Limited</b:Publisher>
+    <b:JournalName>International journal of advanced computer science &amp; applications</b:JournalName>
+    <b:Volume>10</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>D A</b:First>
+            <b:Last>Meedeniya</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>I</b:First>
+            <b:Last>D.</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>I</b:First>
+            <b:Last>Perera</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>West Yorkshire</b:City>
+    <b:Tag>software-artefacts-consistency-management-towards-continuous-integration:-a-roadmap</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Controlled Comparative Evaluation of Infrastructure as Code Tools: Deployment Performance and Maintainability Across Terraform, Pulumi, and AWS CloudFormation</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>2971</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>16</b:Volume>
+    <b:Issue>6</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Damir</b:First>
+            <b:Last>Regvart</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ivan</b:First>
+            <b:Last>Vlahović</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mislav</b:First>
+            <b:Last>Balković</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>a-controlled-comparative-evaluation-of-infrastructure-as-code-tools:-deployment-performance-and-maintainability-across-terraform,-pulumi,-and-aws-cloudformation</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>The Business Transformation Enterprise Architecture Framework: Intelligent Strategic Development and Operations (iSDevOps)</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2637-7888</b:StandardNumber>
+    <b:Publisher>IGI Global</b:Publisher>
+    <b:Pages>74-101</b:Pages>
+    <b:JournalName>International journal of distributed artificial intelligence</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Antoine</b:First>
+            <b:Last>Trad</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hershey</b:City>
+    <b:Tag>the-business-transformation-enterprise-architecture-framework:-intelligent-strategic-development-and-operations-(isdevops)</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Fair Resource Allocation in Virtualized O-RAN Platforms</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>2476-1249</b:StandardNumber>
+    <b:Publisher>ACM</b:Publisher>
+    <b:Pages>1-34</b:Pages>
+    <b:JournalName>Proceedings of the ACM on measurement and analysis of computing systems</b:JournalName>
+    <b:Volume>8</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Fatih</b:First>
+            <b:Last>Aslan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>George</b:First>
+            <b:Last>Iosifidis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jose A</b:First>
+            <b:Last>Ayala-Romero</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andres</b:First>
+            <b:Last>Garcia-Saavedra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xavier</b:First>
+            <b:Last>Costa-Perez</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>fair-resource-allocation-in-virtualized-o-ran-platforms</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>An Enterprise Architecture-Driven Service Integration Model for Enhancing Fiscal Oversight in Supreme Audit Institutions</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>2571-5577</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>16</b:Pages>
+    <b:JournalName>Applied system innovation</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rosse Mary</b:First>
+            <b:Last>Villamil</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jaime A</b:First>
+            <b:Last>Restrepo-Carmona</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alejandro</b:First>
+            <b:Last>Escobar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alexánder</b:First>
+            <b:Last>Aponte-Moreno</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Juliana Arévalo</b:First>
+            <b:Last>Herrera</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sergio Armando</b:First>
+            <b:Last>Gutiérrez-Betancur</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Luis</b:First>
+            <b:Last>Fletscher</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>an-enterprise-architecture-driven-service-integration-model-for-enhancing-fiscal-oversight-in-supreme-audit-institutions</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Bots in Software Development: A Systematic Literature Review and Thematic Analysis</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>0361-7688</b:StandardNumber>
+    <b:Publisher>Pleiades Publishing</b:Publisher>
+    <b:Pages>712-734</b:Pages>
+    <b:JournalName>Programming and computer software</b:JournalName>
+    <b:Volume>49</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>R</b:First>
+            <b:Last>Moguel-Sánchez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>C S Sergio</b:First>
+            <b:Last>Martínez-Palacios</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J O</b:First>
+            <b:Last>Ocharán-Hernández</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>X</b:First>
+            <b:Last>Limón</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>A J</b:First>
+            <b:Last>Sánchez-García</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Moscow</b:City>
+    <b:Tag>bots-in-software-development:-a-systematic-literature-review-and-thematic-analysis</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Model-based Resource Management for Fine-grained Services</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>0163-5999</b:StandardNumber>
+    <b:Publisher>ACM</b:Publisher>
+    <b:Pages>28-31</b:Pages>
+    <b:JournalName>Performance evaluation review</b:JournalName>
+    <b:Volume>50</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Alim Ul</b:First>
+            <b:Last>Gias</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>model-based-resource-management-for-fine-grained-services</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Comparison of Machine Learning Algorithms for Automatic Cloud Resource Scaling on a Multi-Tenant Platform</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>1742-6588</b:StandardNumber>
+    <b:Publisher>IOP Publishing</b:Publisher>
+    <b:Pages>12039</b:Pages>
+    <b:JournalName>Journal of physics. Conference series</b:JournalName>
+    <b:Volume>1828</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Chun-Hsiang</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhengda</b:First>
+            <b:Last>He</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhaofeng</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xu</b:First>
+            <b:Last>Lu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jian</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chao</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Bristol</b:City>
+    <b:Tag>a-comparison-of-machine-learning-algorithms-for-automatic-cloud-resource-scaling-on-a-multi-tenant-platform</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Context-Aware Personalization: A Systems Engineering Framework</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>2078-2489</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>608</b:Pages>
+    <b:JournalName>Information (Basel)</b:JournalName>
+    <b:Volume>14</b:Volume>
+    <b:Issue>11</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Olurotimi</b:First>
+            <b:Last>Oguntola</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Steven</b:First>
+            <b:Last>Simske</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>context-aware-personalization:-a-systems-engineering-framework</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Review of Uncertainty-Based Multidisciplinary Design Optimization Methods Based on Intelligent Strategies</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>2073-8994</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>1875</b:Pages>
+    <b:JournalName>Symmetry (Basel)</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>10</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Chong</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haoran</b:First>
+            <b:Last>Fan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xin</b:First>
+            <b:Last>Qiang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>a-review-of-uncertainty-based-multidisciplinary-design-optimization-methods-based-on-intelligent-strategies</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>AttenFlow: Context-Aware Architecture with Consensus-Based Retrieval and Graph Attention for Automated Document Processing</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>7517</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>13</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xianfeng</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bin</b:First>
+            <b:Last>Hu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shukan</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qiao</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lin</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>attenflow:-context-aware-architecture-with-consensus-based-retrieval-and-graph-attention-for-automated-document-processing</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>The parallel agile process: Applying parallel processing techniques to software engineering</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>2047-7473</b:StandardNumber>
+    <b:Publisher>Wiley Subscription Services, Inc</b:Publisher>
+    <b:JournalName>Journal of software : evolution and process</b:JournalName>
+    <b:Volume>31</b:Volume>
+    <b:Issue>6</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Raffo</b:First>
+            <b:Last>David</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Doug</b:First>
+            <b:Last>Rosenberg</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Barry W</b:First>
+            <b:Last>Boehm</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bo</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kan</b:First>
+            <b:Last>Qi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Chichester</b:City>
+    <b:Tag>the-parallel-agile-process:-applying-parallel-processing-techniques-to-software-engineering</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Toward efficient and accurate function‐call graph matching of binary codes</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>1532-0626</b:StandardNumber>
+    <b:Publisher>Wiley Subscription Services, Inc</b:Publisher>
+    <b:JournalName>Concurrency and computation</b:JournalName>
+    <b:Volume>31</b:Volume>
+    <b:Issue>21</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>DongXing</b:First>
+            <b:Last>Huang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yong</b:First>
+            <b:Last>Tang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yi</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>ShuNing</b:First>
+            <b:Last>Wei</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hoboken</b:City>
+    <b:Tag>toward-efficient-and-accurate-function‐call-graph-matching-of-binary-codes</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Morpheus Web Testing: A Tool for Generating Test Cases for Widget Based Web Applications</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1540-9589</b:StandardNumber>
+    <b:Publisher>River Publishers</b:Publisher>
+    <b:Pages>119</b:Pages>
+    <b:JournalName>Journal of web engineering</b:JournalName>
+    <b:Volume>21</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Romulo de Almeida</b:First>
+            <b:Last>Neves</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Willian Massami</b:First>
+            <b:Last>Watanabe</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rafael</b:First>
+            <b:Last>Oliveira</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Milan</b:City>
+    <b:Tag>morpheus-web-testing:-a-tool-for-generating-test-cases-for-widget-based-web-applications</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Reproducibility in the technical debt domain</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>1844-6086</b:StandardNumber>
+    <b:Publisher>De Gruyter Brill Sp. z o.o., Paradigm Publishing Services</b:Publisher>
+    <b:Pages>335-360</b:Pages>
+    <b:JournalName>Acta Universitatis Sapientiae. Informatica</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kristóf</b:First>
+            <b:Last>Szabados</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Izabella Ingrid</b:First>
+            <b:Last>Farkas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Attila</b:First>
+            <b:Last>Kovács</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Cluj-Napoca</b:City>
+    <b:Tag>reproducibility-in-the-technical-debt-domain</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Selection of DevOps best test practices: A hybrid approach using ISM and fuzzy TOPSIS analysis</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>2047-7473</b:StandardNumber>
+    <b:Publisher>Wiley Subscription Services, Inc</b:Publisher>
+    <b:JournalName>Journal of software : evolution and process</b:JournalName>
+    <b:Volume>34</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Saima</b:First>
+            <b:Last>Rafi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Muhammad Azeem</b:First>
+            <b:Last>Akbar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sajjad</b:First>
+            <b:Last>Mahmood</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ahmed</b:First>
+            <b:Last>Alsanad</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Abdulrahman</b:First>
+            <b:Last>Alothaim</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Chichester</b:City>
+    <b:Tag>selection-of-devops-best-test-practices:-a-hybrid-approach-using-ism-and-fuzzy-topsis-analysis</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Review of Prediction and Optimization for Sequence-Driven Scheduling in Job Shop Flexible Manufacturing Systems</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2227-9717</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>1391</b:Pages>
+    <b:JournalName>Processes</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Prita</b:First>
+            <b:Last>Meilanitasari</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Seung-Jun</b:First>
+            <b:Last>Shin</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>a-review-of-prediction-and-optimization-for-sequence-driven-scheduling-in-job-shop-flexible-manufacturing-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Reverse engineering approach for improving the quality of mobile applications</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>2167-9843</b:StandardNumber>
+    <b:Publisher>PeerJ, Inc</b:Publisher>
+    <b:JournalName>PeerJ preprints</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Eman K</b:First>
+            <b:Last>Elsayed</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kamal A</b:First>
+            <b:Last>ElDahshan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Enas E</b:First>
+            <b:Last>El-Sharawy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Naglaa E</b:First>
+            <b:Last>Ghannam</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>San Diego</b:City>
+    <b:Tag>reverse-engineering-approach-for-improving-the-quality-of-mobile-applications</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Feature-Based Method for Detecting Design Patterns in Source Code</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>2073-8994</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>1491</b:Pages>
+    <b:JournalName>Symmetry (Basel)</b:JournalName>
+    <b:Volume>14</b:Volume>
+    <b:Issue>7</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mariam</b:First>
+            <b:Last>Kouli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Abbas</b:First>
+            <b:Last>Rasoolzadegan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>a-feature-based-method-for-detecting-design-patterns-in-source-code</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Formal Model for Legacy System Understanding</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>2074-904X</b:StandardNumber>
+    <b:Publisher>Modern Education and Computer Science Press</b:Publisher>
+    <b:Pages>27-41</b:Pages>
+    <b:JournalName>International journal of intelligent systems and applications</b:JournalName>
+    <b:Volume>10</b:Volume>
+    <b:Issue>10</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>A.Sivagnana</b:First>
+            <b:Last>Ganesan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>T</b:First>
+            <b:Last>Chithralekha</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>M</b:First>
+            <b:Last>Rajapandian</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hong Kong</b:City>
+    <b:Tag>a-formal-model-for-legacy-system-understanding</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Research on SoftMan Component Dynamic Evolution System and Its Distributed Multi-tasks Collaboration Mechanism Based on Game Theory</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>1022-4653</b:StandardNumber>
+    <b:Publisher>Published by the IET on behalf of the CIE</b:Publisher>
+    <b:Pages>783-791</b:Pages>
+    <b:JournalName>Chinese Journal of Electronics</b:JournalName>
+    <b:Volume>27</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Qingchuan</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Min</b:First>
+            <b:Last>Zuo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qian</b:First>
+            <b:Last>Cao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Caifeng</b:First>
+            <b:Last>Cao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mingwen</b:First>
+            <b:Last>Bi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ruifang</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>research-on-softman-component-dynamic-evolution-system-and-its-distributed-multi-tasks-collaboration-mechanism-based-on-game-theory</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Enhancing the viewing, browsing and searching of knowledge graphs with virtual properties</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>1744-0084</b:StandardNumber>
+    <b:Publisher>Emerald Group Publishing Limited</b:Publisher>
+    <b:Pages>624-647</b:Pages>
+    <b:JournalName>International journal of Web information systems</b:JournalName>
+    <b:Volume>21</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Henrik</b:First>
+            <b:Last>Dibowski</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Bingley</b:City>
+    <b:Tag>enhancing-the-viewing,-browsing-and-searching-of-knowledge-graphs-with-virtual-properties</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Distributed ItemCF Recommendation Algorithm Based on the Combination of MapReduce and Hive</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>2079-9292</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>3398</b:Pages>
+    <b:JournalName>Electronics (Basel)</b:JournalName>
+    <b:Volume>12</b:Volume>
+    <b:Issue>16</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yijia</b:First>
+            <b:Last>Feng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lei</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>distributed-itemcf-recommendation-algorithm-based-on-the-combination-of-mapreduce-and-hive</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>An Intelligent Data Processing Method for Residential Load Analysis</b:Title>
+    <b:Year>2016</b:Year>
+    <b:StandardNumber>1694-0814</b:StandardNumber>
+    <b:Publisher>International Journal of Computer Science Issues (IJCSI)</b:Publisher>
+    <b:Pages>32-40</b:Pages>
+    <b:JournalName>International journal of computer science issues</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Gao-Chao</b:First>
+            <b:Last>Cui</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Li</b:First>
+            <b:Last>Zhu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dong-Sheng</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jian-Ting</b:First>
+            <b:Last>Cao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Mahebourg</b:City>
+    <b:Tag>an-intelligent-data-processing-method-for-residential-load-analysis</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Un Modelo de Legibilidad Basado en la Organización de Código Fuente</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>1646-9895</b:StandardNumber>
+    <b:Publisher>Associação Ibérica de Sistemas e Tecnologias de Informacao</b:Publisher>
+    <b:Pages>608-619</b:Pages>
+    <b:JournalName>RISTI : Revista Ibérica de Sistemas e Tecnologias de Informação</b:JournalName>
+    <b:Issue>E57</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Paul Mendoza</b:First>
+            <b:Last>del Carpio</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Lousada</b:City>
+    <b:Tag>un-modelo-de-legibilidad-basado-en-la-organización-de-código-fuente</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>An adaptive plan‐oriented and continuous software migration to cloud in dynamic enterprises</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>0038-0644</b:StandardNumber>
+    <b:Publisher>Wiley Subscription Services, Inc</b:Publisher>
+    <b:Pages>1365-1378</b:Pages>
+    <b:JournalName>Software, practice &amp; experience</b:JournalName>
+    <b:Volume>49</b:Volume>
+    <b:Issue>9</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Seyyed Yahya</b:First>
+            <b:Last>Nabavi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Omid</b:First>
+            <b:Last>Bushehrian</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Bognor Regis</b:City>
+    <b:Tag>an-adaptive-plan‐oriented-and-continuous-software-migration-to-cloud-in-dynamic-enterprises</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Introduction from the Guest Editors</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2245-800X</b:StandardNumber>
+    <b:Publisher>River Publishers</b:Publisher>
+    <b:Pages>1</b:Pages>
+    <b:JournalName>Journal of ICT Standardization</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Nurit</b:First>
+            <b:Last>Sprecher</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vishnu</b:First>
+            <b:Last>Ram</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Csaba</b:First>
+            <b:Last>Vulkán</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Tokyo</b:City>
+    <b:Tag>introduction-from-the-guest-editors</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Semi-automated software service integration in virtual organisations</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>1751-7575</b:StandardNumber>
+    <b:Publisher>Taylor &amp; Francis</b:Publisher>
+    <b:Pages>528-555</b:Pages>
+    <b:JournalName>Enterprise information systems</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>5-6</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hamideh</b:First>
+            <b:Last>Afsarmanesh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mahdi</b:First>
+            <b:Last>Sargolzaei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mahdieh</b:First>
+            <b:Last>Shadi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>semi-automated-software-service-integration-in-virtual-organisations</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Benchmark for Performance Evaluation of a Multi-Model Database vs. Polyglot Persistence</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>1063-8016</b:StandardNumber>
+    <b:Publisher>IGI Global</b:Publisher>
+    <b:Pages>1-20</b:Pages>
+    <b:JournalName>Journal of database management</b:JournalName>
+    <b:Volume>34</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Nadia</b:First>
+            <b:Last>Nedjah</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Feng</b:First>
+            <b:Last>Ye</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xinjun</b:First>
+            <b:Last>Sheng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jun</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Peng</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hershey</b:City>
+    <b:Tag>a-benchmark-for-performance-evaluation-of-a-multi-model-database-vs.-polyglot-persistence</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Exploring the Impacts of Antipatterns on Object‐Oriented, Service‐Oriented, and Mobile‐Oriented Systems</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>0038-0644</b:StandardNumber>
+    <b:Publisher>John Wiley &amp; Sons, Inc</b:Publisher>
+    <b:Pages>190-217</b:Pages>
+    <b:JournalName>Software, practice &amp; experience</b:JournalName>
+    <b:Volume>56</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Khalid</b:First>
+            <b:Last>Mahmood</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jean</b:First>
+            <b:Last>Baptiste Minani</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ghulam</b:First>
+            <b:Last>Rasool</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fatima</b:First>
+            <b:Last>Sabir</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fehmi</b:First>
+            <b:Last>Jaafar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yann‐Gaël</b:First>
+            <b:Last>Guéhéneuc</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hoboken, USA</b:City>
+    <b:Tag>exploring-the-impacts-of-antipatterns-on-object‐oriented,-service‐oriented,-and-mobile‐oriented-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>An analysis of tools for automatic software development and automatic code generation&#x2F;Un análisis de herramientas para el desarrollo y generación automática de software y de código</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>0120-6230</b:StandardNumber>
+    <b:Publisher>Universidad de Antioquía</b:Publisher>
+    <b:Pages>75</b:Pages>
+    <b:JournalName>Revista Facultad de Ingeniería</b:JournalName>
+    <b:Issue>77</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Viviana Yarel</b:First>
+            <b:Last>Rosales-Morales</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Giner</b:First>
+            <b:Last>Alor-Hernández</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jorge Luis</b:First>
+            <b:Last>García-Alcaráz</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ramón</b:First>
+            <b:Last>Zatarain-Cabada</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>María Lucía</b:First>
+            <b:Last>Barrón-Estrada</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Medellín</b:City>
+    <b:Tag>an-analysis-of-tools-for-automatic-software-development-and-automatic-code-generation&#x2F;un-análisis-de-herramientas-para-el-desarrollo-y-generación-automática-de-software-y-de-código</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>MuRanker: a mutant ranking tool</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>0960-0833</b:StandardNumber>
+    <b:Publisher>Blackwell Publishing Ltd</b:Publisher>
+    <b:Pages>572-604</b:Pages>
+    <b:JournalName>Software testing, verification &amp; reliability</b:JournalName>
+    <b:Volume>25</b:Volume>
+    <b:Issue>5-7</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Akbar Siami</b:First>
+            <b:Last>Namin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaozhen</b:First>
+            <b:Last>Xue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Omar</b:First>
+            <b:Last>Rosas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pankaj</b:First>
+            <b:Last>Sharma</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Chichester</b:City>
+    <b:Tag>muranker:-a-mutant-ranking-tool</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Multiple Phases Approach for Design Patterns Recovery Based on Structural and Method Signature Features</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>2166-7160</b:StandardNumber>
+    <b:Publisher>IGI Global</b:Publisher>
+    <b:Pages>36-52</b:Pages>
+    <b:JournalName>International journal of software innovation</b:JournalName>
+    <b:Volume>6</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mohammed Ghazi</b:First>
+            <b:Last>Al-Obeidallah</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Miltos</b:First>
+            <b:Last>Petridis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Stelios</b:First>
+            <b:Last>Kapetanakis</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Mount Pleasant</b:City>
+    <b:Tag>a-multiple-phases-approach-for-design-patterns-recovery-based-on-structural-and-method-signature-features</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Un anÃ¡lisis de herramientas para el desarrollo y generaciÃ³n automÃ¡tica de software y de cÃ³digo</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>0120-6230</b:StandardNumber>
+    <b:Publisher>Universidad de Antioquia, Facultad de Ingenieria</b:Publisher>
+    <b:Pages>75</b:Pages>
+    <b:JournalName>Revista Facultad de Ingeniería</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Viviana Yarel</b:First>
+            <b:Last>Rosales-Morales</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Giner</b:First>
+            <b:Last>Alor-HernÃ¡ndez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jorge Luis</b:First>
+            <b:Last>GarcÃ­a-AlcarÃ¡z</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>RamÃ³n</b:First>
+            <b:Last>Zatarain-Cabada</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>MarÃ­a LucÃ­a</b:First>
+            <b:Last>BarrÃ³n-Estrada</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>un-anã¡lisis-de-herramientas-para-el-desarrollo-y-generaciã³n-automã¡tica-de-software-y-de-cã³digo</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Predicting Security-Vulnerable Developers Based on Their Techno-Behavioral Characteristics</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1930-1650</b:StandardNumber>
+    <b:Publisher>IGI Global</b:Publisher>
+    <b:Pages>1-26</b:Pages>
+    <b:JournalName>International journal of information security and privacy</b:JournalName>
+    <b:Volume>16</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>M D J S</b:First>
+            <b:Last>Goonetillake</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rangana</b:First>
+            <b:Last>Jayashanka</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>S V</b:First>
+            <b:Last>Rathnayaka</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>predicting-security-vulnerable-developers-based-on-their-techno-behavioral-characteristics</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Game of Streaming Players: Is Consensus Viable or an Illusion?</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>1551-6857</b:StandardNumber>
+    <b:Publisher>ACM</b:Publisher>
+    <b:Pages>1-30</b:Pages>
+    <b:JournalName>ACM transactions on multimedia computing communications and applications</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>2s</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Abdelhak</b:First>
+            <b:Last>Bentaleb</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ali C</b:First>
+            <b:Last>Begen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Saad</b:First>
+            <b:Last>Harous</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Roger</b:First>
+            <b:Last>Zimmermann</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>game-of-streaming-players:-is-consensus-viable-or-an-illusion?</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Refactoring for Java-Structured Concurrency</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>2407</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gaojie</b:First>
+            <b:Last>Shen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Liyan</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Meiyan</b:First>
+            <b:Last>Zheng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kun</b:First>
+            <b:Last>Zheng</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>refactoring-for-java-structured-concurrency</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>RESTful API Testing Methodologies: Rationale, Challenges, and Solution Directions</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>4369</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>12</b:Volume>
+    <b:Issue>9</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Adeel</b:First>
+            <b:Last>Ehsan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohammed Ahmad M E</b:First>
+            <b:Last>Abuhaliqa</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Cagatay</b:First>
+            <b:Last>Catal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Deepti</b:First>
+            <b:Last>Mishra</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>restful-api-testing-methodologies:-rationale,-challenges,-and-solution-directions</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A novel adaptive structure for SOA system effort estimation</b:Title>
+    <b:Year>2016</b:Year>
+    <b:StandardNumber>2161-3915</b:StandardNumber>
+    <b:Publisher>Blackwell Publishing Ltd</b:Publisher>
+    <b:Pages>1115-1127</b:Pages>
+    <b:JournalName>Transactions on emerging telecommunications technologies</b:JournalName>
+    <b:Volume>27</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Siba</b:First>
+            <b:Last>Mishra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chiranjeev</b:First>
+            <b:Last>Kumar</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>a-novel-adaptive-structure-for-soa-system-effort-estimation</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Generic event-based monitoring and adaptation methodology for heterogeneous distributed systems</b:Title>
+    <b:Year>2014</b:Year>
+    <b:StandardNumber>0038-0644</b:StandardNumber>
+    <b:Publisher>Blackwell Publishing Ltd</b:Publisher>
+    <b:Pages>805-822</b:Pages>
+    <b:JournalName>Software, practice &amp; experience</b:JournalName>
+    <b:Volume>44</b:Volume>
+    <b:Issue>7</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Christian</b:First>
+            <b:Last>Inzinger</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Waldemar</b:First>
+            <b:Last>Hummer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Benjamin</b:First>
+            <b:Last>Satzger</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Philipp</b:First>
+            <b:Last>Leitner</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Schahram</b:First>
+            <b:Last>Dustdar</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Bognor Regis</b:City>
+    <b:Tag>generic-event-based-monitoring-and-adaptation-methodology-for-heterogeneous-distributed-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Software Performance Engineering for Foundation Model-Powered Software</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:JournalName>ACM transactions on software engineering and methodology</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Haoxiang</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shi</b:First>
+            <b:Last>Chang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Arthur</b:First>
+            <b:Last>Leung</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kishanthan</b:First>
+            <b:Last>Thangarajah</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Boyuan</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hanan</b:First>
+            <b:Last>Lutfiyya</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ahmed E</b:First>
+            <b:Last>Hassan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>software-performance-engineering-for-foundation-model-powered-software</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Practical DB-OS Co-Design with Privileged Kernel Bypass</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2836-6573</b:StandardNumber>
+    <b:Publisher>ACM</b:Publisher>
+    <b:Pages>1-27</b:Pages>
+    <b:JournalName>Proceedings of the ACM on management of data</b:JournalName>
+    <b:Volume>3</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xinjing</b:First>
+            <b:Last>Zhou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Viktor</b:First>
+            <b:Last>Leis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jinming</b:First>
+            <b:Last>Hu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiangyao</b:First>
+            <b:Last>Yu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Stonebraker</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>practical-db-os-co-design-with-privileged-kernel-bypass</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A REST API Fuzz Testing Framework Based on GUI Interaction and Specification Completion</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>1546-2226</b:StandardNumber>
+    <b:Publisher>Tech Science Press</b:Publisher>
+    <b:Pages>1-10</b:Pages>
+    <b:JournalName>Computers, materials &amp; continua</b:JournalName>
+    <b:Volume>86</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zonglin</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xu</b:First>
+            <b:Last>Zhao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yan</b:First>
+            <b:Last>Cao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yazhe</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yihong</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Henderson</b:City>
+    <b:Tag>a-rest-api-fuzz-testing-framework-based-on-gui-interaction-and-specification-completion</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Test effort estimation in early stages using Use Case and Class models for web applications</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>1327-2314</b:StandardNumber>
+    <b:Publisher>SAGE Publications</b:Publisher>
+    <b:Pages>215-229</b:Pages>
+    <b:JournalName>International journal of knowledge-based and intelligent engineering systems</b:JournalName>
+    <b:Volume>22</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Pulak</b:First>
+            <b:Last>Sahoo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J R</b:First>
+            <b:Last>Mohanty</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>London, England</b:City>
+    <b:Tag>test-effort-estimation-in-early-stages-using-use-case-and-class-models-for-web-applications</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Introspection on the Research Avenues of Robotic Process Automation as a Service (RPAaaS)</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>0975-3303</b:StandardNumber>
+    <b:Publisher>CHRIST (Deemed to be University)</b:Publisher>
+    <b:JournalName>Mapana Journal of Sciences</b:JournalName>
+    <b:Volume>22</b:Volume>
+    <b:Issue>Special Issue 2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yashwanth</b:First>
+            <b:Last>Balan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>R Arokia Paul</b:First>
+            <b:Last>Rajan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Bengaluru</b:City>
+    <b:Tag>phase1_exc--introspection-on-the-research-avenues-of-robotic-process-automation-as-a-service-(rpaaas)</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>The Product Circularity Data Sheet—A Standardized Digital Fingerprint for Circular Economy Data about Products</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1996-1073</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>3397</b:Pages>
+    <b:JournalName>Energies (Basel)</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>9</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Douglas</b:First>
+            <b:Last>Mulhall</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anne-Christine</b:First>
+            <b:Last>Ayed</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jeannot</b:First>
+            <b:Last>Schroeder</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Katja</b:First>
+            <b:Last>Hansen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Thibaut</b:First>
+            <b:Last>Wautelet</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_exc--the-product-circularity-data-sheet—a-standardized-digital-fingerprint-for-circular-economy-data-about-products</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Code Smell Prioritization with Business Process Mining and Static Code Analysis: A Case Study</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>2079-9292</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>1880</b:Pages>
+    <b:JournalName>Electronics (Basel)</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>12</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Md Rofiqul</b:First>
+            <b:Last>Islam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Abdullah</b:First>
+            <b:Last>Al Maruf</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tomas</b:First>
+            <b:Last>Cerny</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_inc--code-smell-prioritization-with-business-process-mining-and-static-code-analysis:-a-case-study</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>DSL Approach to Deep Learning Lifecycle Data Management</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>2255-8950</b:StandardNumber>
+    <b:Publisher>University of Latvia</b:Publisher>
+    <b:Pages>597-617</b:Pages>
+    <b:JournalName>Baltic Journal of Modern Computing</b:JournalName>
+    <b:Volume>8</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Edgars</b:First>
+            <b:Last>Celms</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Janis</b:First>
+            <b:Last>Barzdins</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Audris</b:First>
+            <b:Last>Kalnins</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Paulis</b:First>
+            <b:Last>Barzdins</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Arturs</b:First>
+            <b:Last>Sprogis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mikus</b:First>
+            <b:Last>Grasmanis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sergejs</b:First>
+            <b:Last>Rikacovs</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Riga</b:City>
+    <b:Tag>phase1_exc--dsl-approach-to-deep-learning-lifecycle-data-management</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Tracing Optimization for Performance Modeling and Regression Detection</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:JournalName>ACM transactions on software engineering and methodology</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kaveh</b:First>
+            <b:Last>Shahedi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Heng</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Maxime</b:First>
+            <b:Last>Lamothe</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Foutse</b:First>
+            <b:Last>Khomh</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>phase1_inc--tracing-optimization-for-performance-modeling-and-regression-detection</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Catalog, Impact, and Evaluation of Microservice Bad Smells: A Systematic Literature Review</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>0038-0644</b:StandardNumber>
+    <b:Publisher>John Wiley &amp; Sons, Inc</b:Publisher>
+    <b:Pages>372-423</b:Pages>
+    <b:JournalName>Software, practice &amp; experience</b:JournalName>
+    <b:Volume>56</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yongchao</b:First>
+            <b:Last>Xing</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhiying</b:First>
+            <b:Last>Tu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dianhui</b:First>
+            <b:Last>Chu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Weipan</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yiming</b:First>
+            <b:Last>Lv</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hoboken, USA</b:City>
+    <b:Tag>phase1_inc--catalog,-impact,-and-evaluation-of-microservice-bad-smells:-a-systematic-literature-review</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>XBoot: A RAPID and Instructional Low-Code Generator for Spring Boot Applications</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>10621</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>19</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Basem Y</b:First>
+            <b:Last>Alkazemi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohamed K</b:First>
+            <b:Last>Nour</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_inc--xboot:-a-rapid-and-instructional-low-code-generator-for-spring-boot-applications</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Creating and Validating a Ground Truth Dataset of Unified Modeling Language Diagrams Using Deep Learning Techniques</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>10873</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>14</b:Volume>
+    <b:Issue>23</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Javier</b:First>
+            <b:Last>Torcal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Valentín</b:First>
+            <b:Last>Moreno</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Juan</b:First>
+            <b:Last>Llorens</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ana</b:First>
+            <b:Last>Granados</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_inc--creating-and-validating-a-ground-truth-dataset-of-unified-modeling-language-diagrams-using-deep-learning-techniques</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A novel model‐driven approach for seamless integration</b:Title>
+    <b:Year>2017</b:Year>
+    <b:StandardNumber>0038-0644</b:StandardNumber>
+    <b:Publisher>Wiley Subscription Services, Inc</b:Publisher>
+    <b:Pages>689-708</b:Pages>
+    <b:JournalName>Software, practice &amp; experience</b:JournalName>
+    <b:Volume>47</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ahmet F</b:First>
+            <b:Last>Mustacoglu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Bognor Regis</b:City>
+    <b:Tag>phase1_exc--a-novel-model‐driven-approach-for-seamless-integration</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Cloud architecture continuity: Change models and change rules for sustainable cloud software architectures</b:Title>
+    <b:Year>2017</b:Year>
+    <b:StandardNumber>2047-7473</b:StandardNumber>
+    <b:Publisher>John Wiley &amp; Sons, Ltd</b:Publisher>
+    <b:JournalName>Journal of software : evolution and process</b:JournalName>
+    <b:Volume>29</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Claus</b:First>
+            <b:Last>Pahl</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pooyan</b:First>
+            <b:Last>Jamshidi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Danny</b:First>
+            <b:Last>Weyns</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Chichester, UK</b:City>
+    <b:Tag>phase1_exc--cloud-architecture-continuity:-change-models-and-change-rules-for-sustainable-cloud-software-architectures</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Cloud Game-Based Educative Platform Architecture: The CyberScratch Project</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>807</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Llanos</b:First>
+            <b:Last>Tobarra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alejandro</b:First>
+            <b:Last>Utrilla</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Antonio</b:First>
+            <b:Last>Robles-Gómez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rafael</b:First>
+            <b:Last>Pastor-Vargas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Roberto</b:First>
+            <b:Last>Hernández</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_exc--a-cloud-game-based-educative-platform-architecture:-the-cyberscratch-project</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Mobile User Interface Adaptation Based on Usability Reward Model and Multi-Agent Reinforcement Learning</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>2414-4088</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>26</b:Pages>
+    <b:JournalName>Multimodal technologies and interaction</b:JournalName>
+    <b:Volume>8</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dmitry</b:First>
+            <b:Last>Vidmanov</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alexander</b:First>
+            <b:Last>Alfimtsev</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_exc--mobile-user-interface-adaptation-based-on-usability-reward-model-and-multi-agent-reinforcement-learning</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Physics-based fluid simulation in computer graphics: Survey, research trends, and challenges</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>2096-0433</b:StandardNumber>
+    <b:Publisher>Tsinghua University Press</b:Publisher>
+    <b:Pages>803-858</b:Pages>
+    <b:JournalName>Computational visual media (Beijing)</b:JournalName>
+    <b:Volume>10</b:Volume>
+    <b:Issue>5</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xiaokun</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yanrui</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sinuo</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bo</b:First>
+            <b:Last>Ren</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiří</b:First>
+            <b:Last>Kosinka</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alexandru C</b:First>
+            <b:Last>Telea</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiamin</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chongming</b:First>
+            <b:Last>Song</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jian</b:First>
+            <b:Last>Chang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chenfeng</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jian Jun</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaojuan</b:First>
+            <b:Last>Ban</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Beijing</b:City>
+    <b:Tag>phase1_exc--physics-based-fluid-simulation-in-computer-graphics:-survey,-research-trends,-and-challenges</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Novel Framework for Evaluating Application Performance in Distributed Systems</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>12837</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>23</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Alexandru-Lucian</b:First>
+            <b:Last>Gherghe</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Cătălin</b:First>
+            <b:Last>Tudose</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_inc--a-novel-framework-for-evaluating-application-performance-in-distributed-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Model-Driven and Business Approach to Autonomic Network Management</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2245-800X</b:StandardNumber>
+    <b:Publisher>River Publishers</b:Publisher>
+    <b:Pages>229</b:Pages>
+    <b:JournalName>Journal of ICT Standardization</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mehdi</b:First>
+            <b:Last>Bezahaf</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Stephen</b:First>
+            <b:Last>Cassidy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David</b:First>
+            <b:Last>Hutchison</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Daniel</b:First>
+            <b:Last>King</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nicholas</b:First>
+            <b:Last>Race</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Charalampos</b:First>
+            <b:Last>Rotsos</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Tokyo</b:City>
+    <b:Tag>phase1_exc--a-model-driven-and-business-approach-to-autonomic-network-management</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>CodeDive: A Web-Based IDE with Real-Time Code Activity Monitoring for Programming Education</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2076-3417</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>10403</b:Pages>
+    <b:JournalName>Applied sciences</b:JournalName>
+    <b:Volume>15</b:Volume>
+    <b:Issue>19</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hyunchan</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Youngpil</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kyungwoon</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Soonheon</b:First>
+            <b:Last>Jin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jinseok</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yan</b:First>
+            <b:Last>Heo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gyuho</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eunhye</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_exc--codedive:-a-web-based-ide-with-real-time-code-activity-monitoring-for-programming-education</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Horizontal Scaling Implementation with Container Orchestrator. Reliability Analysis during Stress and Performance Testing</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>1582-7445</b:StandardNumber>
+    <b:Publisher>Stefan cel Mare University of Suceava</b:Publisher>
+    <b:Pages>23-32</b:Pages>
+    <b:JournalName>Advances in electrical and computer engineering</b:JournalName>
+    <b:Volume>24</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>A.-M.</b:First>
+            <b:Last>DINCA</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>S.-D.</b:First>
+            <b:Last>AXINTE</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>I</b:First>
+            <b:Last>BACIVAROV</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>G</b:First>
+            <b:Last>PETRICA</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Suceava</b:City>
+    <b:Tag>phase1_exc--horizontal-scaling-implementation-with-container-orchestrator.-reliability-analysis-during-stress-and-performance-testing</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>iDARE-a reference architecture for integrated software environments</b:Title>
+    <b:Year>2014</b:Year>
+    <b:StandardNumber>0038-0644</b:StandardNumber>
+    <b:Publisher>Blackwell Publishing Ltd</b:Publisher>
+    <b:Pages>299-316</b:Pages>
+    <b:JournalName>Software, practice &amp; experience</b:JournalName>
+    <b:Volume>44</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hossein</b:First>
+            <b:Last>Tajalli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nenad</b:First>
+            <b:Last>Medvidović</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Bognor Regis</b:City>
+    <b:Tag>phase1_exc--idare-a-reference-architecture-for-integrated-software-environments</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>How Far Is Machine Learning From the Detection of Complex Microservice Bad Smells?</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2047-7473</b:StandardNumber>
+    <b:Publisher>Wiley Subscription Services, Inc</b:Publisher>
+    <b:JournalName>Journal of software : evolution and process</b:JournalName>
+    <b:Volume>37</b:Volume>
+    <b:Issue>11</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yongchao</b:First>
+            <b:Last>Xing</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Weipan</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yiming</b:First>
+            <b:Last>Lv</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dianhui</b:First>
+            <b:Last>Chu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhiying</b:First>
+            <b:Last>Tu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Chichester</b:City>
+    <b:Tag>phase1_inc--how-far-is-machine-learning-from-the-detection-of-complex-microservice-bad-smells?</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>On automated RBAC assessment by constructing a centralized perspective for microservice mesh</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>2376-5992</b:StandardNumber>
+    <b:Publisher>PeerJ. Ltd</b:Publisher>
+    <b:Pages>e376-</b:Pages>
+    <b:JournalName>PeerJ. Computer science</b:JournalName>
+    <b:Volume>7</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dipta</b:First>
+            <b:Last>Das</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrew</b:First>
+            <b:Last>Walker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vincent</b:First>
+            <b:Last>Bushong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jan</b:First>
+            <b:Last>Svacina</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tomas</b:First>
+            <b:Last>Cerny</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vashek</b:First>
+            <b:Last>Matyas</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>United States</b:City>
+    <b:Tag>phase1_exc--on-automated-rbac-assessment-by-constructing-a-centralized-perspective-for-microservice-mesh</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Exploring the impact of cloud computing on software architecture for sustainability: A practitioners’ perspective</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:JournalName>ACM transactions on software engineering and methodology</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sahar</b:First>
+            <b:Last>Ahmadisakha</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vasilios</b:First>
+            <b:Last>Andrikopoulos</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>phase1_exc--exploring-the-impact-of-cloud-computing-on-software-architecture-for-sustainability:-a-practitioners’-perspective</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Developing Data Workflows: From Conceptual Blueprints to Physical Implementation</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>2306-5729</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>97</b:Pages>
+    <b:JournalName>Data (Basel)</b:JournalName>
+    <b:Volume>10</b:Volume>
+    <b:Issue>7</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Bruno</b:First>
+            <b:Last>Oliveira</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Óscar</b:First>
+            <b:Last>Oliveira</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_exc--developing-data-workflows:-from-conceptual-blueprints-to-physical-implementation</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Software Architecture Assisting Workflow Executions on Cloud Resources</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>2300-1933</b:StandardNumber>
+    <b:Publisher>De Gruyter Open</b:Publisher>
+    <b:Pages>17-23</b:Pages>
+    <b:JournalName>International Journal of Electronics and Telecommunications</b:JournalName>
+    <b:Volume>61</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Grzegorz</b:First>
+            <b:Last>Borowik</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marcin</b:First>
+            <b:Last>Woźniak</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrea</b:First>
+            <b:Last>Fornaia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rosario</b:First>
+            <b:Last>Giunta</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Christian</b:First>
+            <b:Last>Napoli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Giuseppe</b:First>
+            <b:Last>Pappalardo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Emiliano</b:First>
+            <b:Last>Tramontana</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Warsaw</b:City>
+    <b:Tag>phase1_exc--a-software-architecture-assisting-workflow-executions-on-cloud-resources</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>When debugging encounters artificial intelligence: state of the art and open challenges</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>1674-733X</b:StandardNumber>
+    <b:Publisher>Science China Press</b:Publisher>
+    <b:Pages>141101</b:Pages>
+    <b:JournalName>Science China. Information sciences</b:JournalName>
+    <b:Volume>67</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yi</b:First>
+            <b:Last>Song</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaoyuan</b:First>
+            <b:Last>Xie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Baowen</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Beijing</b:City>
+    <b:Tag>phase1_exc--when-debugging-encounters-artificial-intelligence:-state-of-the-art-and-open-challenges</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Traceability of Architectural Design Decisions and Software Artifacts: A Systematic Mapping Study</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>2300-3405</b:StandardNumber>
+    <b:Publisher>Sciendo</b:Publisher>
+    <b:Pages>401-423</b:Pages>
+    <b:JournalName>Foundations of computing and decision sciences</b:JournalName>
+    <b:Volume>48</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Santiago</b:First>
+            <b:Last>Hyun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Julio Ariel</b:First>
+            <b:Last>Hurtado</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Poznan</b:City>
+    <b:Tag>phase1_inc--traceability-of-architectural-design-decisions-and-software-artifacts:-a-systematic-mapping-study</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A deep recurrent Q network towards self‐adapting distributed microservice architecture</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>0038-0644</b:StandardNumber>
+    <b:Publisher>Wiley Subscription Services, Inc</b:Publisher>
+    <b:Pages>116-135</b:Pages>
+    <b:JournalName>Software, practice &amp; experience</b:JournalName>
+    <b:Volume>50</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Basel</b:First>
+            <b:Last>Magableh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Muder</b:First>
+            <b:Last>Almiani</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Bognor Regis</b:City>
+    <b:Tag>phase1_exc--a-deep-recurrent-q-network-towards-self‐adapting-distributed-microservice-architecture</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Workflow provenance in the lifecycle of scientific machine learning</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>1532-0626</b:StandardNumber>
+    <b:Publisher>Wiley Subscription Services, Inc</b:Publisher>
+    <b:JournalName>Concurrency and computation</b:JournalName>
+    <b:Volume>34</b:Volume>
+    <b:Issue>14</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Renan</b:First>
+            <b:Last>Souza</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Leonardo G</b:First>
+            <b:Last>Azevedo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vítor</b:First>
+            <b:Last>Lourenço</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Elton</b:First>
+            <b:Last>Soares</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Raphael</b:First>
+            <b:Last>Thiago</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rafael</b:First>
+            <b:Last>Brandão</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Daniel</b:First>
+            <b:Last>Civitarese</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Emilio</b:First>
+            <b:Last>Vital Brazil</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marcio</b:First>
+            <b:Last>Moreno</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Patrick</b:First>
+            <b:Last>Valduriez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marta</b:First>
+            <b:Last>Mattoso</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Renato</b:First>
+            <b:Last>Cerqueira</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marco A S</b:First>
+            <b:Last>Netto</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Hoboken</b:City>
+    <b:Tag>phase1_exc--workflow-provenance-in-the-lifecycle-of-scientific-machine-learning</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Runtime metric meets developer - Building better cloud applications using feedback</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>2167-9843</b:StandardNumber>
+    <b:Publisher>PeerJ, Inc</b:Publisher>
+    <b:JournalName>PeerJ preprints</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jürgen</b:First>
+            <b:Last>Cito</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Philipp</b:First>
+            <b:Last>Leitner</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Harald C</b:First>
+            <b:Last>Gall</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Aryan</b:First>
+            <b:Last>Dadashi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anne</b:First>
+            <b:Last>Keller</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andreas</b:First>
+            <b:Last>Roth</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>San Diego</b:City>
+    <b:Tag>phase1_inc--star--runtime-metric-meets-developer---building-better-cloud-applications-using-feedback</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Zynerator: Bridging Model-Driven Architecture and Microservices for Enhanced Software Development</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>2079-9292</b:StandardNumber>
+    <b:Publisher>MDPI AG</b:Publisher>
+    <b:Pages>2237</b:Pages>
+    <b:JournalName>Electronics (Basel)</b:JournalName>
+    <b:Volume>13</b:Volume>
+    <b:Issue>12</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Younes</b:First>
+            <b:Last>Zouani</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohamed</b:First>
+            <b:Last>Lachgar</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Basel</b:City>
+    <b:Tag>phase1_inc--zynerator:-bridging-model-driven-architecture-and-microservices-for-enhanced-software-development</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>22nd International Conference on Software Engineering Research and Practice, SERP 2024, and 23rd International Conference on e-Learning, e-Business, Enterprise Information Systems, and e-Government, EEE 2024, held as part of the World Congress in Computer Science, Computer Engineering and Applied Computing, CSCE 2024</b:Title>
+    <b:Year>2025</b:Year>
+    <b:JournalName>Communications in Computer and Information Science</b:JournalName>
+    <b:Volume>2263 CCIS</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;105003633623?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--22nd-international-conference-on-software-engineering-research-and-practice,-serp-2024,-and-23rd-international-conference-on-e-learning,-e-business,-enterprise-information-systems,-and-e-government,-eee-2024,-held-as-part-of-the-world-congress-in-computer-science,-computer-engineering-and-applied-computing,-csce-2024</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Proceedings - 2021 International Conference on Computing Sciences, ICCS 2021</b:Title>
+    <b:Year>2021</b:Year>
+    <b:JournalName>Proceedings - 2021 International Conference on Computing Sciences, ICCS 2021</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85132876628?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--proceedings---2021-international-conference-on-computing-sciences,-iccs-2021</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Towards Generating a Dataset for Failure Prediction in Microservices Applications</b:Title>
+    <b:Year>2024</b:Year>
+    <b:Pages>225 - 230</b:Pages>
+    <b:JournalName>Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</b:JournalName>
+    <b:Volume>14783 LNCS</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ilyass</b:First>
+            <b:Last>Tarhri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Driss</b:First>
+            <b:Last>Allaki</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hamza</b:First>
+            <b:Last>Kamal Idrissi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85202613636?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_inc--towards-generating-a-dataset-for-failure-prediction-in-microservices-applications</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A novel approach to feature collection for anomaly detection in Kubernetes environment and agent for metrics collection from Kubernetes nodes; [Новый способ сбора данных для обнаружения аномального поведения в среде Kubernetes и агент для сбора метрик с узлов]</b:Title>
+    <b:Year>2023</b:Year>
+    <b:Pages>538 - 546</b:Pages>
+    <b:JournalName>Scientific and Technical Journal of Information Technologies, Mechanics and Optics</b:JournalName>
+    <b:Volume>23</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ghadeer</b:First>
+            <b:Last>Darwesh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jaafar</b:First>
+            <b:Last>Hammoud</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alisa A</b:First>
+            <b:Last>Vorobeva</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85166756074?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--a-novel-approach-to-feature-collection-for-anomaly-detection-in-kubernetes-environment-and-agent-for-metrics-collection-from-kubernetes-nodes;-[новый-способ-сбора-данных-для-обнаружения-аномального-поведения-в-среде-kubernetes-и-агент-для-сбора-метрик-с-узлов]</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>CausIL: Causal Graph for Instance Level Microservice Data</b:Title>
+    <b:Year>2023</b:Year>
+    <b:Pages>2905 - 2915</b:Pages>
+    <b:JournalName>ACM Web Conference 2023 - Proceedings of the World Wide Web Conference, WWW 2023</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sarthak</b:First>
+            <b:Last>Chakraborty</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shaddy</b:First>
+            <b:Last>Garg</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shubham</b:First>
+            <b:Last>Agarwal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ayush</b:First>
+            <b:Last>Chauhan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shiv Kumar</b:First>
+            <b:Last>Saini</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85159323067?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--causil:-causal-graph-for-instance-level-microservice-data</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>On black-box monitoring techniques for multi-component services</b:Title>
+    <b:Year>2018</b:Year>
+    <b:JournalName>NCA 2018 - 2018 IEEE 17th International Symposium on Network Computing and Applications</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ricardo</b:First>
+            <b:Last>Filipe</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jaime</b:First>
+            <b:Last>Correia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Filipe</b:First>
+            <b:Last>Araujo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jorge</b:First>
+            <b:Last>Cardoso</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85059975390?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_inc--on-black-box-monitoring-techniques-for-multi-component-services</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>FPGA ARCHITECTURES FOR DISTRIBUTED ML SYSTEMS FOR REAL-TIME BEAM LOSS DE-BLENDING</b:Title>
+    <b:Year>2023</b:Year>
+    <b:Pages>160 - 163</b:Pages>
+    <b:JournalName>Proceedings of the International Beam Instrumentation Conference, IBIC</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>M A</b:First>
+            <b:Last>Ibrahim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>M R</b:First>
+            <b:Last>Austin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J M</b:First>
+            <b:Last>Arnold</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J R</b:First>
+            <b:Last>Berlioz</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>P</b:First>
+            <b:Last>Hanlet</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>K J</b:First>
+            <b:Last>Hazelwood</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J</b:First>
+            <b:Last>Mitrevski</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>V P</b:First>
+            <b:Last>Nagaslaev</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>D J</b:First>
+            <b:Last>Nicklaus</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>G</b:First>
+            <b:Last>Pradhan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>A L</b:First>
+            <b:Last>Saewert</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>B A</b:First>
+            <b:Last>Schupbach</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>K</b:First>
+            <b:Last>Seiya</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>R M</b:First>
+            <b:Last>Thurman-Keup</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>N V</b:First>
+            <b:Last>Tran</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>A</b:First>
+            <b:Last>Narayanan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J Y C</b:First>
+            <b:Last>Hu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>C</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>J</b:First>
+            <b:Last>Jiang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>H</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>S</b:First>
+            <b:Last>Memik</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>R</b:First>
+            <b:Last>Shi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>A M</b:First>
+            <b:Last>Shuping</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>M</b:First>
+            <b:Last>Thieme</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85185835242?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--fpga-architectures-for-distributed-ml-systems-for-real-time-beam-loss-de-blending</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>DIGEST OF PAPERS - FTCS 16: 16TH ANNUAL INTERNATIONAL SYMPOSIUM ON FAULT-TOLERANT COMPUTING SYSTEMS.</b:Title>
+    <b:Year>1986</b:Year>
+    <b:JournalName>Digest of Papers - FTCS (Fault-Tolerant Computing Symposium)</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Anon</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;0022594773?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--digest-of-papers---ftcs-16:-16th-annual-international-symposium-on-fault-tolerant-computing-systems.</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Artificial Intelligence-Based Centralized Resource Management Application for Distributed Systems</b:Title>
+    <b:Year>2022</b:Year>
+    <b:JournalName>2022 13th International Conference on Computing Communication and Networking Technologies, ICCCNT 2022</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Lasal Sandeepa</b:First>
+            <b:Last>Hettiarachchi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Senura Vihan</b:First>
+            <b:Last>Jayadeva</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rusiru Abhisheak Vikum</b:First>
+            <b:Last>Bandara</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dilmi</b:First>
+            <b:Last>Palliyaguruge</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Udara Srimath S Samaratunge</b:First>
+            <b:Last>Arachchillage</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dharshana</b:First>
+            <b:Last>Kasthurirathna</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85146319331?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_inc--artificial-intelligence-based-centralized-resource-management-application-for-distributed-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>16th European Conference on Software Architecture, ECSA 2022</b:Title>
+    <b:Year>2022</b:Year>
+    <b:JournalName>Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</b:JournalName>
+    <b:Volume>13444 LNCS</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85139007817?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--16th-european-conference-on-software-architecture,-ecsa-2022</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Detection of web service anti-patterns using machine learning framework</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Pages>189 - 210</b:Pages>
+    <b:JournalName>Intelligent Systems Reference Library</b:JournalName>
+    <b:Volume>185</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sahithi</b:First>
+            <b:Last>Tummalapalli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lov</b:First>
+            <b:Last>Kumar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>N L</b:First>
+            <b:Last>Bhanu Murthy</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85117235687?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--detection-of-web-service-anti-patterns-using-machine-learning-framework</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Interference-Aware Orchestration in Kubernetes</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Pages>321 - 330</b:Pages>
+    <b:JournalName>Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</b:JournalName>
+    <b:Volume>12321 LNCS</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Achilleas</b:First>
+            <b:Last>Tzenetopoulos</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dimosthenis</b:First>
+            <b:Last>Masouros</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sotirios</b:First>
+            <b:Last>Xydis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dimitrios</b:First>
+            <b:Last>Soudris</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85096410226?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_inc--interference-aware-orchestration-in-kubernetes</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Online machine learning for cloud resource provisioning of microservice backend systems</b:Title>
+    <b:Year>2017</b:Year>
+    <b:Pages>2433 - 2441</b:Pages>
+    <b:JournalName>Proceedings - 2017 IEEE International Conference on Big Data, Big Data 2017</b:JournalName>
+    <b:Volume>2018-January</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hanieh</b:First>
+            <b:Last>Alipour</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yan</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85047835362?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_inc--online-machine-learning-for-cloud-resource-provisioning-of-microservice-backend-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>TopoRCA: A Lightweight Root Cause Analysis System Based on Application Topology</b:Title>
+    <b:Year>2024</b:Year>
+    <b:Pages>2943 - 2948</b:Pages>
+    <b:JournalName>Proceedings of the 2024 27th International Conference on Computer Supported Cooperative Work in Design, CSCWD 2024</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Youliang</b:First>
+            <b:Last>Huang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jue</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaolin</b:First>
+            <b:Last>Chai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yan</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85199109373?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--toporca:-a-lightweight-root-cause-analysis-system-based-on-application-topology</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Managing Entanglement in AI-Enabled Safety-Critical Systems (AISCS)</b:Title>
+    <b:Year>2026</b:Year>
+    <b:Pages>1511 - 1520</b:Pages>
+    <b:JournalName>2026 IEEE 16th Annual Computing and Communication Workshop and Conference, CCWC 2026</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Nicholas B N</b:First>
+            <b:Last>Nyakundi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;105035614709?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--managing-entanglement-in-ai-enabled-safety-critical-systems-(aiscs)</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Microservices Architecture in Fintech: A Case Study on Scalable Loan Processing with Classical Design Patterns</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Pages>382 - 387</b:Pages>
+    <b:JournalName>3rd International Conference on Intelligent Methods, Systems and Applications, IMSA 2025</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mahmoud Raafat</b:First>
+            <b:Last>Elrashidy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hesham</b:First>
+            <b:Last>Mansour</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;105018475063?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_inc--microservices-architecture-in-fintech:-a-case-study-on-scalable-loan-processing-with-classical-design-patterns</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>MONITORING AND ANALYZING LATENCY AND PERFORMANCE IN ULTRA-LOW-LATENCY ENVIRONMENTS POWERED BY RDMA</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Pages>1130 - 1142</b:Pages>
+    <b:JournalName>International Journal of Applied Mathematics</b:JournalName>
+    <b:Volume>38</b:Volume>
+    <b:Issue>3s</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ajay</b:First>
+            <b:Last>Prasad</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hardik</b:First>
+            <b:Last>Mahant</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;105017863920?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--monitoring-and-analyzing-latency-and-performance-in-ultra-low-latency-environments-powered-by-rdma</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Real-time problem determination in distributed systems using active probing</b:Title>
+    <b:Year>2004</b:Year>
+    <b:Pages>133 - 146</b:Pages>
+    <b:JournalName>IEEE Symposium Record on Network Operations and Management Symposium</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Irina</b:First>
+            <b:Last>Rish</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mark</b:First>
+            <b:Last>Brodie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Natalia</b:First>
+            <b:Last>Odintsova</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sheng</b:First>
+            <b:Last>Ma</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Genady</b:First>
+            <b:Last>Grabarnik</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;4544231612?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--real-time-problem-determination-in-distributed-systems-using-active-probing</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>PROCEEDINGS - TENCON 87: 1987 IEEE REGION 10 CONFERENCE, &#39;COMPUTERS AND COMMUNICATIONS TECHNOLOGY TOWARD 2000&#39;.</b:Title>
+    <b:Year>1987</b:Year>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First></b:First>
+            <b:Last>Anon</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;0023563717?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--proceedings---tencon-87:-1987-ieee-region-10-conference,-&#39;computers-and-communications-technology-toward-2000&#39;.</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Learning to Simplify Distributed Systems Management</b:Title>
+    <b:Year>2018</b:Year>
+    <b:Pages>1837 - 1845</b:Pages>
+    <b:JournalName>Proceedings - 2018 IEEE International Conference on Big Data, Big Data 2018</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Christopher</b:First>
+            <b:Last>Streiffer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ramya</b:First>
+            <b:Last>Raghavendra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Theophilus</b:First>
+            <b:Last>Benson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mudhakar</b:First>
+            <b:Last>Srivatsa</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85062630671?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_inc--star--learning-to-simplify-distributed-systems-management</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>3rd International Conference on Information Technology in Geo-Engineering, ICITG 2019</b:Title>
+    <b:Year>2020</b:Year>
+    <b:JournalName>Springer Series in Geomechanics and Geoengineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;www.scopus.com&#x2F;pages&#x2F;publications&#x2F;85075587176?origin&#x3D;resultslist</b:URL>
+    <b:Tag>phase1_exc--3rd-international-conference-on-information-technology-in-geo-engineering,-icitg-2019</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Runtime energy minimization of distributed many-core systems using transfer learning</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9783981926361</b:StandardNumber>
+    <b:Publisher>European Design and Automation Association</b:Publisher>
+    <b:Pages>1209-1214</b:Pages>
+    <b:JournalName>Proceedings of the 2022 Conference &amp;amp; Exhibition on Design, Automation &amp;amp; Test in Europe</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dainius</b:First>
+            <b:Last>Jenkus</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fei</b:First>
+            <b:Last>Xia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rishad</b:First>
+            <b:Last>Shafik</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alex</b:First>
+            <b:Last>Yakovlev</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:City>Leuven, BEL</b:City>
+    <b:Tag>phase1_exc--runtime-energy-minimization-of-distributed-many-core-systems-using-transfer-learning</b:Tag>
+  </b:Source>
+
+</b:Sources>

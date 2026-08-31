@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>BPMN-Sim: A multilevel structural similarity technique for BPMN process models</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>0306-4379</b:StandardNumber>
+    <b:Publisher>Elsevier Ltd</b:Publisher>
+    <b:Pages>102211</b:Pages>
+    <b:JournalName>Information systems (Oxford)</b:JournalName>
+    <b:Volume>116</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Marcia Tavares</b:First>
+            <b:Last>Garcia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marina Macedo</b:First>
+            <b:Last>Nunes</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marcelo</b:First>
+            <b:Last>Fantinato</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sarajane Marques</b:First>
+            <b:Last>Peres</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lucinéia Heloisa</b:First>
+            <b:Last>Thom</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>bpmn-sim:-a-multilevel-structural-similarity-technique-for-bpmn-process-models</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Cost-effective container elastic scaling and scheduling under multi-resource constraints</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>1084-8045</b:StandardNumber>
+    <b:Publisher>Elsevier Ltd</b:Publisher>
+    <b:Pages>104359</b:Pages>
+    <b:JournalName>Journal of network and computer applications</b:JournalName>
+    <b:Volume>244</b:Volume>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hongjian</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yu</b:First>
+            <b:Last>Tian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuzheng</b:First>
+            <b:Last>Cui</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaolin</b:First>
+            <b:Last>Duan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>phase1_exc--cost-effective-container-elastic-scaling-and-scheduling-under-multi-resource-constraints</b:Tag>
+  </b:Source>
+
+</b:Sources>

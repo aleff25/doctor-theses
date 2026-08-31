@@ -1,0 +1,5169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>CoNode: Visualizing Workflows for Knowledge Reuse and Recombination in Team–AI Collaborative Design</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>9798400722783</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Zhou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yi</b:First>
+            <b:Last>Xiao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Guangpeng</b:First>
+            <b:Last>Wei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Suxiang</b:First>
+            <b:Last>Ling</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ruoxuan</b:First>
+            <b:Last>Ma</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chi-Sing</b:First>
+            <b:Last>Leung</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3772318.3791216</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--conode:-visualizing-workflows-for-knowledge-reuse-and-recombination-in-team–ai-collaborative-design</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Intelligent Detection and Processing Technology of Abnormal Data in Low-Voltage Distribution Networks</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400707087</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>345-350</b:Pages>
+    <b:JournalName>Proceedings of the 7th International Conference on Information Technologies and Electrical Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Pengcheng</b:First>
+            <b:Last>Zheng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jialong</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuquan</b:First>
+            <b:Last>Liao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Beilei</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ruolin</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3717934.3717987</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--intelligent-detection-and-processing-technology-of-abnormal-data-in-low-voltage-distribution-networks</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Application practice of code mapping technology in hydropower project construction management system</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400716966</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>159-168</b:Pages>
+    <b:JournalName>Proceedings of the 2023 International Conference on Artificial Intelligence, Systems and Network Security</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chao</b:First>
+            <b:Last>Yue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lei</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jirong</b:First>
+            <b:Last>Tian</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3661638.3661672</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--application-practice-of-code-mapping-technology-in-hydropower-project-construction-management-system</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>ThreatCompass: A Tool for Identifying and Mapping Security Issues to TTPs</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400718960</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>58-67</b:Pages>
+    <b:JournalName>Proceedings of the 2025 Workshop on Large AI Systems and Models with Privacy and Security Analysis</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yannick Arjan</b:First>
+            <b:Last>Krijnen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Stefano</b:First>
+            <b:Last>Simonetto</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ronan</b:First>
+            <b:Last>Oostveen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Peter</b:First>
+            <b:Last>Bosch</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Willem</b:First>
+            <b:Last>Jonker</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3733800.3763265</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--threatcompass:-a-tool-for-identifying-and-mapping-security-issues-to-ttps</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>The RESTless cloud</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>9781450384384</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>49-57</b:Pages>
+    <b:JournalName>Proceedings of the Workshop on Hot Topics in Operating Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Nathan</b:First>
+            <b:Last>Pemberton</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Johann</b:First>
+            <b:Last>Schleier-Smith</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Joseph E</b:First>
+            <b:Last>Gonzalez</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3458336.3465280</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--the-restless-cloud</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>GrandSLAm: Guaranteeing SLAs for Jobs in Microservices Execution Frameworks</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450362818</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the Fourteenth EuroSys Conference 2019</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ram Srivatsa</b:First>
+            <b:Last>Kannan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lavanya</b:First>
+            <b:Last>Subramanian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ashwin</b:First>
+            <b:Last>Raju</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jeongseob</b:First>
+            <b:Last>Ahn</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jason</b:First>
+            <b:Last>Mars</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lingjia</b:First>
+            <b:Last>Tang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3302424.3303958</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--grandslam:-guaranteeing-slas-for-jobs-in-microservices-execution-frameworks</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>EcoRAN: A Novel Programmable Framework for Dynamic and Energy-Efficient Resource Optimization in Multi-Tenant, Neutral Host O-RAN Systems</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400721083</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>27-32</b:Pages>
+    <b:JournalName>Proceedings of the 1st Workshop on Open Research Infrastructures and Toolkits for 6G</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mattia</b:First>
+            <b:Last>Bevilacqua</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marco</b:First>
+            <b:Last>Mezzavilla</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eugenio</b:First>
+            <b:Last>Moro</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Christian</b:First>
+            <b:Last>Mazzucco</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Maurizio</b:First>
+            <b:Last>Magarini</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3750718.3750746</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--ecoran:-a-novel-programmable-framework-for-dynamic-and-energy-efficient-resource-optimization-in-multi-tenant,-neutral-host-o-ran-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Hermes: Algorithm-System Co-design for Efficient Retrieval-Augmented Generation At-Scale</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400712616</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>958-973</b:Pages>
+    <b:JournalName>Proceedings of the 52nd Annual International Symposium on Computer Architecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Shen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Muhammad</b:First>
+            <b:Last>Umar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kiwan</b:First>
+            <b:Last>Maeng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>G Edward</b:First>
+            <b:Last>Suh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Udit</b:First>
+            <b:Last>Gupta</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3695053.3731076</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>hermes:-algorithm-system-co-design-for-efficient-retrieval-augmented-generation-at-scale</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Native Streaming Services in Tencent</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400715648</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>323-335</b:Pages>
+    <b:JournalName>Companion of the 2025 International Conference on Management of Data</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zihao</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiazhi</b:First>
+            <b:Last>Jiang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiangang</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chao</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuqi</b:First>
+            <b:Last>Diao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hanmei</b:First>
+            <b:Last>Luo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Peng</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3722212.3724445</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--oceanus:-enable-slo-aware-vertical-autoscaling-for-cloud-native-streaming-services-in-tencent</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>LSTM model-driven data prediction and analysis system for digital economy</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400713491</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>174-178</b:Pages>
+    <b:JournalName>Proceedings of the 2025 2nd International Conference on Digital Economy, Blockchain and Artificial Intelligence</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Wenjing</b:First>
+            <b:Last>Dang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yizhao</b:First>
+            <b:Last>Xing</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuxin</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Feier</b:First>
+            <b:Last>Lei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haoze</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3762249.3762278</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--lstm-model-driven-data-prediction-and-analysis-system-for-digital-economy</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Model-Driven Right-Sizing of Offloading in Data Processing Pipelines</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400719400</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 21st International Workshop on Data Management on New Hardware</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Faeze</b:First>
+            <b:Last>Faghih</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Maximilian</b:First>
+            <b:Last>Hüttner</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Florin</b:First>
+            <b:Last>Dinu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zsolt</b:First>
+            <b:Last>István</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3736227.3736239</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--model-driven-right-sizing-of-offloading-in-data-processing-pipelines</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>9781450386388</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>639-653</b:Pages>
+    <b:JournalName>Proceedings of the ACM Symposium on Cloud Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Luping</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lingyun</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yinghao</b:First>
+            <b:Last>Yu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bo</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xianchao</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jian</b:First>
+            <b:Last>He</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Liping</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3472883.3486987</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--morphling:-fast,-near-optimal-auto-configuration-for-cloud-native-model-serving</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Model-driven run-time enforcement of complex role-based access control policies</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>9781450359375</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>248-258</b:Pages>
+    <b:JournalName>Proceedings of the 33rd ACM&#x2F;IEEE International Conference on Automated Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ameni</b:First>
+            <b:Last>Ben Fadhel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Domenico</b:First>
+            <b:Last>Bianculli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lionel C</b:First>
+            <b:Last>Briand</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3238147.3238167</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--model-driven-run-time-enforcement-of-complex-role-based-access-control-policies</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>10</b:Month>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Softw. Eng. Methodol.</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Simon</b:First>
+            <b:Last>Schneider</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pierre-Jean</b:First>
+            <b:Last>Quéval</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ákos</b:First>
+            <b:Last>Milánkovich</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nicolás E</b:First>
+            <b:Last>D\&#39;{\i}az Ferreyra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Uwe</b:First>
+            <b:Last>Zdun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Riccardo</b:First>
+            <b:Last>Scandariato</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3771275</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--automatic-rule-checking-for-microservices:-supporting-security-analysis-with-explainability</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Efficient Attacks on Strong PUFs via Covariance and Boolean Modeling</b:Title>
+    <b:Year>2024</b:Year>
+    <b:Month>9</b:Month>
+    <b:StandardNumber>1084-4309</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Des. Autom. Electron. Syst.</b:JournalName>
+    <b:Volume>29</b:Volume>
+    <b:Issue>6</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hongfei</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wenjie</b:First>
+            <b:Last>Cai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yunxiao</b:First>
+            <b:Last>Lu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Caixue</b:First>
+            <b:Last>Wan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3687469</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--efficient-attacks-on-strong-pufs-via-covariance-and-boolean-modeling</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Design of a Full-Cycle Intelligent Risk Control System for Pre-Loan, Mid-Loan, and Post-Loan Lending: AI-Driven Closed-Loop Management of Online Credit Security</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>9798400719516</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1022-1027</b:Pages>
+    <b:JournalName>Proceedings of the 2025 2nd International Conference on Digital Economy and Computer Science</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ximeng</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haozhong</b:First>
+            <b:Last>Xue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qi</b:First>
+            <b:Last>Hu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yiming</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3785706.3785866</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--design-of-a-full-cycle-intelligent-risk-control-system-for-pre-loan,-mid-loan,-and-post-loan-lending:-ai-driven-closed-loop-management-of-online-credit-security</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A Churn Prediction and Intelligent Decision Optimisation Framework for Subscription Service Platforms</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400715785</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>113-120</b:Pages>
+    <b:JournalName>Proceedings of the 2nd International Symposium on Integrated Circuit Design and Integrated Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Tianjun</b:First>
+            <b:Last>Shi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Minwei</b:First>
+            <b:Last>Jiang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3772326.3774719</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-churn-prediction-and-intelligent-decision-optimisation-framework-for-subscription-service-platforms</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400700958</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 50th Annual International Symposium on Computer Architecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mingyu</b:First>
+            <b:Last>Liang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wenyin</b:First>
+            <b:Last>Fu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Louis</b:First>
+            <b:Last>Feng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhongyi</b:First>
+            <b:Last>Lin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pavani</b:First>
+            <b:Last>Panakanti</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shengbao</b:First>
+            <b:Last>Zheng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Srinivas</b:First>
+            <b:Last>Sridharan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Christina</b:First>
+            <b:Last>Delimitrou</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3579371.3589072</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--mystique:-enabling-accurate-and-scalable-generation-of-production-ai-benchmarks</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A House United Within Itself: SLO-Awareness for On-Premises Containerized ML Inference Clusters via Faro</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400711961</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>524-540</b:Pages>
+    <b:JournalName>Proceedings of the Twentieth European Conference on Computer Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Beomyeol</b:First>
+            <b:Last>Jeon</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chen</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Diana</b:First>
+            <b:Last>Arroyo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alaa</b:First>
+            <b:Last>Youssef</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Indranil</b:First>
+            <b:Last>Gupta</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3689031.3696071</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-house-united-within-itself:-slo-awareness-for-on-premises-containerized-ml-inference-clusters-via-faro</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>9781450390989</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>154-167</b:Pages>
+    <b:JournalName>Proceedings of the 17th International Conference on Emerging Networking EXperiments and Technologies</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jinwoo</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Byungkwon</b:First>
+            <b:Last>Choi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chunghan</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dongsu</b:First>
+            <b:Last>Han</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3485983.3494866</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--graf:-a-graph-neural-network-based-proactive-resource-allocation-framework-for-slo-oriented-microservices</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Architecture-Based Cross-Component Issue Management and Propagation Analysis</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400705021</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>145-149</b:Pages>
+    <b:JournalName>Proceedings of the 2024 IEEE&#x2F;ACM 46th International Conference on Software Engineering: Companion Proceedings</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sandro</b:First>
+            <b:Last>Speth</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3639478.3639814</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--architecture-based-cross-component-issue-management-and-propagation-analysis</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>API Rate Limit Adoption – A pattern collection</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400700408</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 28th European Conference on Pattern Languages of Programs</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Souhaila</b:First>
+            <b:Last>Serbout</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Amine</b:First>
+            <b:Last>El Malki</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Cesare</b:First>
+            <b:Last>Pautasso</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Uwe</b:First>
+            <b:Last>Zdun</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3628034.3628039</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--api-rate-limit-adoption-–-a-pattern-collection</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Compliance Management of IaC-Based Cloud Deployments During Runtime</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400702341</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 16th IEEE&#x2F;ACM International Conference on Utility and Cloud Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ghareeb</b:First>
+            <b:Last>Falazi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lukas</b:First>
+            <b:Last>Harzenetter</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kálmán</b:First>
+            <b:Last>Képes</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Frank</b:First>
+            <b:Last>Leymann</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Uwe</b:First>
+            <b:Last>Breitenbücher</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Evangelos</b:First>
+            <b:Last>Ntentos</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Uwe</b:First>
+            <b:Last>Zdun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Martin</b:First>
+            <b:Last>Becker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Elena</b:First>
+            <b:Last>Heldwein</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3603166.3632135</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--compliance-management-of-iac-based-cloud-deployments-during-runtime</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A Transformer-based Approach for Augmenting Software Engineering Chatbots Datasets</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400710476</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>359-370</b:Pages>
+    <b:JournalName>Proceedings of the 18th ACM&#x2F;IEEE International Symposium on Empirical Software Engineering and Measurement</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ahmad</b:First>
+            <b:Last>Abdellatif</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Khaled</b:First>
+            <b:Last>Badran</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Diego Elias</b:First>
+            <b:Last>Costa</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Emad</b:First>
+            <b:Last>Shihab</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3674805.3686695</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-transformer-based-approach-for-augmenting-software-engineering-chatbots-datasets</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Research on the Architecture and Key Technologies of the Ubiquitous Customer Service Operating System for State Grid</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>9781450390200</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>2021 2nd International Conference on Artificial Intelligence and Information Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Bin</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xusheng</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Zhao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ziqian</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chenfei</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qing</b:First>
+            <b:Last>Zhu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3469213.3470417</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--research-on-the-architecture-and-key-technologies-of-the-ubiquitous-customer-service-operating-system-for-state-grid</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Multi-Source Data Fusion Based Identification of High-End and Scarce Meteorological Experts and Expert Database System Architecture Design</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>9798400719981</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1044-1050</b:Pages>
+    <b:JournalName>Proceedings of the 2025 6th International Conference on Computer Science and Management Technology</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jian</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zekang</b:First>
+            <b:Last>Zhao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3795154.3795324</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--multi-source-data-fusion-based-identification-of-high-end-and-scarce-meteorological-experts-and-expert-database-system-architecture-design</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>CardioLive: Empowering Video Streaming with Online Cardiac Monitoring via Audio-Visual Learning</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400720352</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>8606-8615</b:Pages>
+    <b:JournalName>Proceedings of the 33rd ACM International Conference on Multimedia</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sheng</b:First>
+            <b:Last>Lyu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ruiming</b:First>
+            <b:Last>Huang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sijie</b:First>
+            <b:Last>Ji</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yasar Abbas Ur</b:First>
+            <b:Last>Rehman</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lan</b:First>
+            <b:Last>Ma</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chenshu</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3746027.3755588</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--cardiolive:-empowering-video-streaming-with-online-cardiac-monitoring-via-audio-visual-learning</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Power Professional Kanban Micro-Application Based on Enterprise Middle Platform and PMS3.0 Architecture</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400707254</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>57-67</b:Pages>
+    <b:JournalName>Proceedings of the 2024 7th International Conference on Computer Information Science and Artificial Intelligence</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Qi</b:First>
+            <b:Last>Shi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hao</b:First>
+            <b:Last>Zhu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bo</b:First>
+            <b:Last>Lu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fei</b:First>
+            <b:Last>Xue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fangzheng</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yun</b:First>
+            <b:Last>Miao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3703187.3703198</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--power-professional-kanban-micro-application-based-on-enterprise-middle-platform-and-pms3.0-architecture</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Scaling Llama 3 Training with Efficient Parallelism Strategies</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400712616</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1703-1716</b:Pages>
+    <b:JournalName>Proceedings of the 52nd Annual International Symposium on Computer Architecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Weiwei</b:First>
+            <b:Last>Chu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xinfeng</b:First>
+            <b:Last>Xie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiecao</b:First>
+            <b:Last>Yu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jie</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Amar</b:First>
+            <b:Last>Phanishayee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chunqiang</b:First>
+            <b:Last>Tang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuchen</b:First>
+            <b:Last>Hao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jianyu</b:First>
+            <b:Last>Huang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mustafa</b:First>
+            <b:Last>Ozdal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jun</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vedanuj</b:First>
+            <b:Last>Goswami</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Naman</b:First>
+            <b:Last>Goyal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Abhishek</b:First>
+            <b:Last>Kadian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrew</b:First>
+            <b:Last>Gu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chris</b:First>
+            <b:Last>Cai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Feng</b:First>
+            <b:Last>Tian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaodong</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Min</b:First>
+            <b:Last>Si</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pavan</b:First>
+            <b:Last>Balaji</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ching-Hsiang</b:First>
+            <b:Last>Chu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jongsoo</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3695053.3731410</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--scaling-llama-3-training-with-efficient-parallelism-strategies</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Design and Application of Intelligent Talent Selection System for Electric Power Enterprises</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400718748</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1442-1448</b:Pages>
+    <b:JournalName>Proceedings of the 2025 8th International Conference on Computer Information Science and Artificial Intelligence</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xiang</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tiancheng</b:First>
+            <b:Last>Qian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dadong</b:First>
+            <b:Last>Tian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuan</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kaixuan</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3773365.3773592</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--design-and-application-of-intelligent-talent-selection-system-for-electric-power-enterprises</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Agile C-states: A Core C-state Architecture for Latency Critical Applications Optimizing both Transition and Cold-Start Latency</b:Title>
+    <b:Year>2024</b:Year>
+    <b:Month>11</b:Month>
+    <b:StandardNumber>1544-3566</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Archit. Code Optim.</b:JournalName>
+    <b:Volume>21</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Georgia</b:First>
+            <b:Last>Antoniou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Davide</b:First>
+            <b:Last>Bartolini</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haris</b:First>
+            <b:Last>Volos</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marios</b:First>
+            <b:Last>Kleanthous</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhe</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kleovoulos</b:First>
+            <b:Last>Kalaitzidis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tom</b:First>
+            <b:Last>Rollet</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ziwei</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Onur</b:First>
+            <b:Last>Mutlu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yiannakis</b:First>
+            <b:Last>Sazeides</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jawad</b:First>
+            <b:Last>Haj Yahya</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3674734</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--agile-c-states:-a-core-c-state-architecture-for-latency-critical-applications-optimizing-both-transition-and-cold-start-latency</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Basalt: A Rock-Solid Byzantine-Tolerant Peer Sampling for Very Large Decentralized Networks</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400701771</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>111-123</b:Pages>
+    <b:JournalName>Proceedings of the 24th International Middleware Conference</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Alex</b:First>
+            <b:Last>Auvolat</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yérom-David</b:First>
+            <b:Last>Bromberg</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Davide</b:First>
+            <b:Last>Frey</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Djob</b:First>
+            <b:Last>Mvondo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>François</b:First>
+            <b:Last>Ta\&quot;{\i}ani</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3590140.3629109</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--basalt:-a-rock-solid-byzantine-tolerant-peer-sampling-for-very-large-decentralized-networks</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>In-Storage Domain-Specific Acceleration for Serverless Computing</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400703850</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>530-548</b:Pages>
+    <b:JournalName>Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rohan</b:First>
+            <b:Last>Mahapatra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Soroush</b:First>
+            <b:Last>Ghodrati</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Byung Hoon</b:First>
+            <b:Last>Ahn</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sean</b:First>
+            <b:Last>Kinzer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shu-Ting</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hanyang</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lavanya</b:First>
+            <b:Last>Karthikeyan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hardik</b:First>
+            <b:Last>Sharma</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Amir</b:First>
+            <b:Last>Yazdanbakhsh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohammad</b:First>
+            <b:Last>Alian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hadi</b:First>
+            <b:Last>Esmaeilzadeh</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3620665.3640413</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--in-storage-domain-specific-acceleration-for-serverless-computing</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>FMI: Fast and Cheap Message Passing for Serverless Functions</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400700569</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>373-385</b:Pages>
+    <b:JournalName>Proceedings of the 37th ACM International Conference on Supercomputing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Marcin</b:First>
+            <b:Last>Copik</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Roman</b:First>
+            <b:Last>Böhringer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alexandru</b:First>
+            <b:Last>Calotoiu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Torsten</b:First>
+            <b:Last>Hoefler</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3577193.3593718</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--fmi:-fast-and-cheap-message-passing-for-serverless-functions</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>A Platform Ecosystem Providing New Data For The Energy Transition</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>2</b:Month>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>226-237</b:Pages>
+    <b:JournalName>SIGENERGY Energy Inform. Rev.</b:JournalName>
+    <b:Volume>4</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Markus</b:First>
+            <b:Last>Duchon</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jessy</b:First>
+            <b:Last>Matar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mahsa Faraji</b:First>
+            <b:Last>Shoyari</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alexander</b:First>
+            <b:Last>Perzylo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ingmar</b:First>
+            <b:Last>Kessler</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Patrick</b:First>
+            <b:Last>Buchenberg</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Philipp</b:First>
+            <b:Last>Kuhn</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Thomas</b:First>
+            <b:Last>Hamacher</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Thorsten</b:First>
+            <b:Last>Schlachter</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wolfgang</b:First>
+            <b:Last>Süss</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nguyen Xuan</b:First>
+            <b:Last>Thinh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haniyeh Ebrahimi</b:First>
+            <b:Last>Salari</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jasmin</b:First>
+            <b:Last>Latko</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Minsheng</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Maxim</b:First>
+            <b:Last>Shamovich</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dominik</b:First>
+            <b:Last>Schlütter</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jérôme</b:First>
+            <b:Last>Frisch</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kushagar</b:First>
+            <b:Last>Rustagi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Markus</b:First>
+            <b:Last>Kraft</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Carolin</b:First>
+            <b:Last>Ayasse</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Florian</b:First>
+            <b:Last>Steinke</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael</b:First>
+            <b:Last>Metzger</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Laura</b:First>
+            <b:Last>Kuper</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3717413.3717435</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-platform-ecosystem-providing-new-data-for-the-energy-transition</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Augmenting graphical modeling workbenches with semantic-aware interactive features</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>6</b:Month>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proc. ACM Hum.-Comput. Interact.</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Théo</b:First>
+            <b:Last>Giraudet</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Arnaud</b:First>
+            <b:Last>Blouin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Benoit</b:First>
+            <b:Last>Combemale</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mélanie</b:First>
+            <b:Last>Bats</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pierre-Charles</b:First>
+            <b:Last>David</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3733050</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--augmenting-graphical-modeling-workbenches-with-semantic-aware-interactive-features</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>DeepFlow: A Cross-Stack Pathfinding Framework for Distributed AI Systems</b:Title>
+    <b:Year>2024</b:Year>
+    <b:Month>2</b:Month>
+    <b:StandardNumber>1084-4309</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Des. Autom. Electron. Syst.</b:JournalName>
+    <b:Volume>29</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Newsha</b:First>
+            <b:Last>Ardalani</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Saptadeep</b:First>
+            <b:Last>Pal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Puneet</b:First>
+            <b:Last>Gupta</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3635867</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--deepflow:-a-cross-stack-pathfinding-framework-for-distributed-ai-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Automated Log Data Analysis and Anomaly Detection Method in Intelligent Operations and Maintenance Systems</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400714047</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1060-1066</b:Pages>
+    <b:JournalName>Proceedings of the 9th International Conference on Electronic Information Technology and Computer Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Huipeng</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Liangliang</b:First>
+            <b:Last>Tang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Liqiong</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaojuan</b:First>
+            <b:Last>Zheng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chuangye</b:First>
+            <b:Last>Zhao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3766671.3766854</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--automated-log-data-analysis-and-anomaly-detection-method-in-intelligent-operations-and-maintenance-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>LongTale: Toward Automatic Performance Anomaly Explanation in Microservices</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450391436</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>5-16</b:Pages>
+    <b:JournalName>Proceedings of the 2022 ACM&#x2F;SPEC on International Conference on Performance Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Richard</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Min</b:First>
+            <b:Last>Du</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zheng</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hyunseok</b:First>
+            <b:Last>Chang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sarit</b:First>
+            <b:Last>Mukherjee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eric</b:First>
+            <b:Last>Eide</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3489525.3511675</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--longtale:-toward-automatic-performance-anomaly-explanation-in-microservices</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Past, Present, and Future of Bug Tracking in the Generative AI Era</b:Title>
+    <b:Year>2026</b:Year>
+    <b:Month>4</b:Month>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Softw. Eng. Methodol.</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Utku Boran</b:First>
+            <b:Last>Torun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mehmet Taha</b:First>
+            <b:Last>Demircan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mahmut Furkan</b:First>
+            <b:Last>Gön</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eray</b:First>
+            <b:Last>Tüzün</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3806655</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>past,-present,-and-future-of-bug-tracking-in-the-generative-ai-era</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Introducing Interactions in Multi-Objective Optimization of Software Architectures</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>7</b:Month>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Softw. Eng. Methodol.</b:JournalName>
+    <b:Volume>34</b:Volume>
+    <b:Issue>6</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Vittorio</b:First>
+            <b:Last>Cortellessa</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jorge Andrés</b:First>
+            <b:Last>Diaz-Pace</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Daniele</b:First>
+            <b:Last>Di Pompeo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sebastian</b:First>
+            <b:Last>Frank</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pooyan</b:First>
+            <b:Last>Jamshidi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michele</b:First>
+            <b:Last>Tucci</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>André</b:First>
+            <b:Last>van Hoorn</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3712185</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--star--introducing-interactions-in-multi-objective-optimization-of-software-architectures</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Using Static Analysis to Aid Monolith to Microservice System Transformation: Tuning Fuzzy c-Means in a VAE-Based GNN Approach</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400712494</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>43-53</b:Pages>
+    <b:JournalName>Proceedings of the 39th IEEE&#x2F;ACM International Conference on Automated Software Engineering Workshops</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Korn</b:First>
+            <b:Last>Sooksatra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Md Showkat Hossain</b:First>
+            <b:Last>Chy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Muhmmad Ashfakur Rahman</b:First>
+            <b:Last>Arju</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tomas</b:First>
+            <b:Last>Cerny</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pablo</b:First>
+            <b:Last>Rivas</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3691621.3694933</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--using-static-analysis-to-aid-monolith-to-microservice-system-transformation:-tuning-fuzzy-c-means-in-a-vae-based-gnn-approach</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Research on Key Technologies for Multi-Agent Collaborative Optimization in Project Feasibility Study Review Based on Large Model Driven Approach</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400715860</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>43-48</b:Pages>
+    <b:JournalName>Proceedings of the 2025 2nd International Conference on Virtual Reality, Image and Signal Processing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Fengxi</b:First>
+            <b:Last>Gao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3772128.3772136</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--research-on-key-technologies-for-multi-agent-collaborative-optimization-in-project-feasibility-study-review-based-on-large-model-driven-approach</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>PERT-GNN: Latency Prediction for Microservice-based Cloud-Native Applications via Graph Neural Networks</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400701030</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>2155-2165</b:Pages>
+    <b:JournalName>Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Da Sun Handason</b:First>
+            <b:Last>Tam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Huanle</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Siyue</b:First>
+            <b:Last>Xie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wing Cheong</b:First>
+            <b:Last>Lau</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3580305.3599465</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--pert-gnn:-latency-prediction-for-microservice-based-cloud-native-applications-via-graph-neural-networks</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Design and Implementation of a Cloud-Native Project Repository System for Articulated Software Engineering Education</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>9798400721700</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1-5</b:Pages>
+    <b:JournalName>Proceedings of the 2026 2nd International Conference on Digital Education and Information Technology</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xiaonan</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3802607.3802608</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--design-and-implementation-of-a-cloud-native-project-repository-system-for-articulated-software-engineering-education</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>GPUMap: A Transparently GPU-accelerated Python Map Function</b:Title>
+    <b:Year>2017</b:Year>
+    <b:StandardNumber>9781450351249</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 7th Workshop on Python for High-Performance and Scientific Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ivan</b:First>
+            <b:Last>Pachev</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chris</b:First>
+            <b:Last>Lupo</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3149869.3149875</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--gpumap:-a-transparently-gpu-accelerated-python-map-function</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Detecting event anomalies in event-based systems</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>9781450336758</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>25-37</b:Pages>
+    <b:JournalName>Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Gholamreza</b:First>
+            <b:Last>Safi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Arman</b:First>
+            <b:Last>Shahbazian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>William G J</b:First>
+            <b:Last>Halfond</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nenad</b:First>
+            <b:Last>Medvidovic</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2786805.2786836</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--detecting-event-anomalies-in-event-based-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>On the Trade-Offs among Performance, Energy, and Endurance in a Versatile Hybrid Drive</b:Title>
+    <b:Year>2015</b:Year>
+    <b:Month>7</b:Month>
+    <b:StandardNumber>1553-3077</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Storage</b:JournalName>
+    <b:Volume>11</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zhichao</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ming</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Amanpreet</b:First>
+            <b:Last>Mukker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Erez</b:First>
+            <b:Last>Zadok</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2700312</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--on-the-trade-offs-among-performance,-energy,-and-endurance-in-a-versatile-hybrid-drive</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>book_section</b:SourceType>
+    <b:Title>Formal specification and verification</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450372701</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>103-129</b:Pages>
+    <b:JournalName>Concurrency: The Works of Leslie Lamport</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Stephan</b:First>
+            <b:Last>Merz</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3335772.3335780</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--formal-specification-and-verification</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>TEEKAP: Self-Expiring Data Capsule using Trusted Execution Environment</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>9781450385794</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>235-247</b:Pages>
+    <b:JournalName>Proceedings of the 37th Annual Computer Security Applications Conference</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mingyuan</b:First>
+            <b:Last>Gao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hung</b:First>
+            <b:Last>Dang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ee-Chien</b:First>
+            <b:Last>Chang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3485832.3485919</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--teekap:-self-expiring-data-capsule-using-trusted-execution-environment</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Enhancing OSGi with Asynchronous Messaging</b:Title>
+    <b:Year>2016</b:Year>
+    <b:StandardNumber>9781450348003</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 14th International Workshop on Java Technologies for Real-Time and Embedded Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Irina</b:First>
+            <b:Last>Astrova</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marc</b:First>
+            <b:Last>Schaaf</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Arne</b:First>
+            <b:Last>Koschel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Volker</b:First>
+            <b:Last>Ahlers</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2990509.2990513</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--enhancing-osgi-with-asynchronous-messaging</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>X10 and APGAS at Petascale</b:Title>
+    <b:Year>2016</b:Year>
+    <b:Month>3</b:Month>
+    <b:StandardNumber>2329-4949</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Parallel Comput.</b:JournalName>
+    <b:Volume>2</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Olivier</b:First>
+            <b:Last>Tardieu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Benjamin</b:First>
+            <b:Last>Herta</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David</b:First>
+            <b:Last>Cunningham</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David</b:First>
+            <b:Last>Grove</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Prabhanjan</b:First>
+            <b:Last>Kambadur</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vijay</b:First>
+            <b:Last>Saraswat</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Avraham</b:First>
+            <b:Last>Shinnar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mikio</b:First>
+            <b:Last>Takeuchi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mandana</b:First>
+            <b:Last>Vaziri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2894746</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--x10-and-apgas-at-petascale</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>SympleGraph: distributed graph processing with precise loop-carried dependency guarantee</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>9781450376136</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>592-607</b:Pages>
+    <b:JournalName>Proceedings of the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Youwei</b:First>
+            <b:Last>Zhuo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jingji</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qinyi</b:First>
+            <b:Last>Luo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yanzhi</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hailong</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Depei</b:First>
+            <b:Last>Qian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xuehai</b:First>
+            <b:Last>Qian</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3385412.3385961</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--symplegraph:-distributed-graph-processing-with-precise-loop-carried-dependency-guarantee</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Scaling the capacity of memory systems; evolution and key approaches</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450372060</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>235-249</b:Pages>
+    <b:JournalName>Proceedings of the International Symposium on Memory Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kyriakos</b:First>
+            <b:Last>Paraskevas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrew</b:First>
+            <b:Last>Attwood</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mikel</b:First>
+            <b:Last>Luján</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>John</b:First>
+            <b:Last>Goodacre</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3357526.3357555</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--scaling-the-capacity-of-memory-systems;-evolution-and-key-approaches</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>SQL data generation to enhance search-based system testing</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450361118</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1390-1398</b:Pages>
+    <b:JournalName>Proceedings of the Genetic and Evolutionary Computation Conference</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Andrea</b:First>
+            <b:Last>Arcuri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Juan P</b:First>
+            <b:Last>Galeotti</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3321707.3321732</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--sql-data-generation-to-enhance-search-based-system-testing</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Accelerating Extra Dimensional Page Walks for Confidential Computing</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400703294</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>654-669</b:Pages>
+    <b:JournalName>Proceedings of the 56th Annual IEEE&#x2F;ACM International Symposium on Microarchitecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Dong</b:First>
+            <b:Last>Du</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bicheng</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yubin</b:First>
+            <b:Last>Xia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haibo</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3613424.3614293</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--accelerating-extra-dimensional-page-walks-for-confidential-computing</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Handling SQL Databases in Automated System Test Generation</b:Title>
+    <b:Year>2020</b:Year>
+    <b:Month>7</b:Month>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Softw. Eng. Methodol.</b:JournalName>
+    <b:Volume>29</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Andrea</b:First>
+            <b:Last>Arcuri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Juan P</b:First>
+            <b:Last>Galeotti</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3391533</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--handling-sql-databases-in-automated-system-test-generation</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>AMNESIAC: Amnesic Automatic Computer</b:Title>
+    <b:Year>2017</b:Year>
+    <b:StandardNumber>9781450344654</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>811-824</b:Pages>
+    <b:JournalName>Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Ismail</b:First>
+            <b:Last>Akturk</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ulya R</b:First>
+            <b:Last>Karpuzcu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3037697.3037741</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--amnesiac:-amnesic-automatic-computer</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>The forgotten case of the dependency bugs: on the example of the robot operating system</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>9781450371230</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>21-30</b:Pages>
+    <b:JournalName>Proceedings of the ACM&#x2F;IEEE 42nd International Conference on Software Engineering: Software Engineering in Practice</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Anders</b:First>
+            <b:Last>Fischer-Nielsen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhoulai</b:First>
+            <b:Last>Fu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ting</b:First>
+            <b:Last>Su</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrzej</b:First>
+            <b:Last>Wasowski</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3377813.3381364</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--the-forgotten-case-of-the-dependency-bugs:-on-the-example-of-the-robot-operating-system</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>The CRISP performance model for dynamic voltage and frequency scaling in a GPGPU</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>9781450340342</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>281-293</b:Pages>
+    <b:JournalName>Proceedings of the 48th International Symposium on Microarchitecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rajib</b:First>
+            <b:Last>Nath</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dean</b:First>
+            <b:Last>Tullsen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2830772.2830826</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--the-crisp-performance-model-for-dynamic-voltage-and-frequency-scaling-in-a-gpgpu</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Inference of Resource Management Specifications</b:Title>
+    <b:Year>2023</b:Year>
+    <b:Month>10</b:Month>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proc. ACM Program. Lang.</b:JournalName>
+    <b:Volume>7</b:Volume>
+    <b:Issue>OOPSLA2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Narges</b:First>
+            <b:Last>Shadab</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pritam</b:First>
+            <b:Last>Gharat</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shrey</b:First>
+            <b:Last>Tiwari</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael D</b:First>
+            <b:Last>Ernst</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Martin</b:First>
+            <b:Last>Kellogg</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shuvendu K</b:First>
+            <b:Last>Lahiri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Akash</b:First>
+            <b:Last>Lal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Manu</b:First>
+            <b:Last>Sridharan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3622858</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--inference-of-resource-management-specifications</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Automatic API Usage Scenario Documentation from Technical Q&amp;amp;A Sites</b:Title>
+    <b:Year>2021</b:Year>
+    <b:Month>4</b:Month>
+    <b:StandardNumber>1049-331X</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Softw. Eng. Methodol.</b:JournalName>
+    <b:Volume>30</b:Volume>
+    <b:Issue>3</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Gias</b:First>
+            <b:Last>Uddin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Foutse</b:First>
+            <b:Last>Khomh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chanchal K</b:First>
+            <b:Last>Roy</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3439769</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--automatic-api-usage-scenario-documentation-from-technical-q&amp;amp;a-sites</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Demeter: QoS-aware CPU scheduling to reduce power consumption of multiple black-box workloads</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450394147</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>31-46</b:Pages>
+    <b:JournalName>Proceedings of the 13th Symposium on Cloud Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Wenda</b:First>
+            <b:Last>Tang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yutao</b:First>
+            <b:Last>Ke</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Senbo</b:First>
+            <b:Last>Fu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hongliang</b:First>
+            <b:Last>Jiang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Junjie</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qian</b:First>
+            <b:Last>Peng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Feng</b:First>
+            <b:Last>Gao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3542929.3563476</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--demeter:-qos-aware-cpu-scheduling-to-reduce-power-consumption-of-multiple-black-box-workloads</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A distributed approach to silicon compilation: invited</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450391429</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1343-1346</b:Pages>
+    <b:JournalName>Proceedings of the 59th ACM&#x2F;IEEE Design Automation Conference</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Andreas</b:First>
+            <b:Last>Olofsson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>William</b:First>
+            <b:Last>Ransohoff</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Noah</b:First>
+            <b:Last>Moroze</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3489517.3530673</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-distributed-approach-to-silicon-compilation:-invited</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>In-Memory Data Parallel Processor</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>9781450349116</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1-14</b:Pages>
+    <b:JournalName>Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Daichi</b:First>
+            <b:Last>Fujiki</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Scott</b:First>
+            <b:Last>Mahlke</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Reetuparna</b:First>
+            <b:Last>Das</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3173162.3173171</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--in-memory-data-parallel-processor</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A Distributed Anytime Algorithm for Real-Time EV Charging Congestion Control</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>9781450336093</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>67-76</b:Pages>
+    <b:JournalName>Proceedings of the 2015 ACM Sixth International Conference on Future Energy Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jose</b:First>
+            <b:Last>Rivera</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Christoph</b:First>
+            <b:Last>Goebel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hans-Arno</b:First>
+            <b:Last>Jacobsen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2768510.2768544</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-distributed-anytime-algorithm-for-real-time-ev-charging-congestion-control</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9781450394758</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 37th IEEE&#x2F;ACM International Conference on Automated Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yiwen</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yang</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kele</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tao</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Huaimin</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3551349.3556940</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--understanding-and-predicting-docker-build-duration:-an-empirical-study-of-containerized-workflow-of-oss-projects</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Data Governance for Design Results of UHV Project</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400710278</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>94-100</b:Pages>
+    <b:JournalName>Proceedings of the 2024 International Conference on Big Data and Digital Management</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jieting</b:First>
+            <b:Last>Feng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haiqing</b:First>
+            <b:Last>Si</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shutao</b:First>
+            <b:Last>Dong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xu</b:First>
+            <b:Last>Han</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kun</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Siyu</b:First>
+            <b:Last>He</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3696500.3696516</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--data-governance-for-design-results-of-uhv-project</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Secure container orchestration in the cloud: policies and implementation</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450359337</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>138-145</b:Pages>
+    <b:JournalName>Proceedings of the 34th ACM&#x2F;SIGAPP Symposium on Applied Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Gabriel P</b:First>
+            <b:Last>Fernandez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrey</b:First>
+            <b:Last>Brito</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3297280.3297296</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--secure-container-orchestration-in-the-cloud:-policies-and-implementation</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A Deep Reinforcement Learning Approach for Cost Optimized Workflow Scheduling in Cloud Computing Environments</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400709609</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>74-82</b:Pages>
+    <b:JournalName>Proceedings of the 2024 Asia Pacific Conference on Computing Technologies, Communications and Networking</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Amanda</b:First>
+            <b:Last>Jayanetti</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Saman</b:First>
+            <b:Last>Halgamuge</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rajkumar</b:First>
+            <b:Last>Buyya</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3685767.3685780</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-deep-reinforcement-learning-approach-for-cost-optimized-workflow-scheduling-in-cloud-computing-environments</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450392051</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>388-401</b:Pages>
+    <b:JournalName>Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zihan</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jingwen</b:First>
+            <b:Last>Leng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhihui</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Quan</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chao</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Minyi</b:First>
+            <b:Last>Guo</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3503222.3507752</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--veltair:-towards-high-performance-multi-tenant-deep-learning-services-via-adaptive-compilation-and-scheduling</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Model-based Performance Self-adaptation: A Tutorial</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450362863</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>49-52</b:Pages>
+    <b:JournalName>Companion of the 2019 ACM&#x2F;SPEC International Conference on Performance Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Emilio</b:First>
+            <b:Last>Incerto</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mirco</b:First>
+            <b:Last>Tribastone</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3302541.3310293</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--model-based-performance-self-adaptation:-a-tutorial</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Performance Prediction of On-NIC Network Functions with Multi-Resource Contention and Traffic Awareness</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400706981</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>828-842</b:Pages>
+    <b:JournalName>Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Shaofeng</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qiang</b:First>
+            <b:Last>Su</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhixiong</b:First>
+            <b:Last>Niu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hong</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3669940.3707232</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--performance-prediction-of-on-nic-network-functions-with-multi-resource-contention-and-traffic-awareness</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title> &#39;You just wanna sign on the dotted line and hope for the best&#39;: Navigating the Cloudscapes of Higher Education</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>10</b:Month>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proc. ACM Hum.-Comput. Interact.</b:JournalName>
+    <b:Volume>9</b:Volume>
+    <b:Issue>7</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Simran</b:First>
+            <b:Last>Munot</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tobias</b:First>
+            <b:Last>Fiebig</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mannat</b:First>
+            <b:Last>Kaur</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3757448</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc---&#39;you-just-wanna-sign-on-the-dotted-line-and-hope-for-the-best&#39;:-navigating-the-cloudscapes-of-higher-education</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400701030</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>5249-5259</b:Pages>
+    <b:JournalName>Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Xue</b:First>
+            <b:Last>Xia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pong</b:First>
+            <b:Last>Eksombatchai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nikil</b:First>
+            <b:Last>Pancha</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dhruvil Deven</b:First>
+            <b:Last>Badani</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Po-Wei</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Neng</b:First>
+            <b:Last>Gu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Saurabh Vishwas</b:First>
+            <b:Last>Joshi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nazanin</b:First>
+            <b:Last>Farahpour</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhiyuan</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrew</b:First>
+            <b:Last>Zhai</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3580305.3599918</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--transact:-transformer-based-realtime-user-action-model-for-recommendation-at-pinterest</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Calculon: a methodology and tool for high-level co-design of systems and large language models</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400701092</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mikhail</b:First>
+            <b:Last>Isaev</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nic</b:First>
+            <b:Last>Mcdonald</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Larry</b:First>
+            <b:Last>Dennison</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Richard</b:First>
+            <b:Last>Vuduc</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3581784.3607102</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--calculon:-a-methodology-and-tool-for-high-level-co-design-of-systems-and-large-language-models</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>ProPack: Executing Concurrent Serverless Functions Faster and Cheaper</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400701559</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>211-224</b:Pages>
+    <b:JournalName>Proceedings of the 32nd International Symposium on High-Performance Parallel and Distributed Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rohan</b:First>
+            <b:Last>Basu Roy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tirthak</b:First>
+            <b:Last>Patel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Richmond</b:First>
+            <b:Last>Liew</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yadu Nand</b:First>
+            <b:Last>Babuji</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ryan</b:First>
+            <b:Last>Chard</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Devesh</b:First>
+            <b:Last>Tiwari</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3588195.3592988</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--propack:-executing-concurrent-serverless-functions-faster-and-cheaper</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>MPIGDB: A Flexible Debugging Infrastructure for MPI Programs</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400701665</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>11-18</b:Pages>
+    <b:JournalName>Proceedings of the 13th Workshop on AI and Scientific Computing at Scale Using Flexible Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Robert</b:First>
+            <b:Last>Underwood</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bogdan</b:First>
+            <b:Last>Nicolae</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3589013.3596675</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--mpigdb:-a-flexible-debugging-infrastructure-for-mpi-programs</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Rhythm: component-distinguishable workload deployment in datacenters</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>9781450368827</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the Fifteenth European Conference on Computer Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Laiping</b:First>
+            <b:Last>Zhao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yanan</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kaixuan</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaobo</b:First>
+            <b:Last>Zhou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tie</b:First>
+            <b:Last>Qiu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Keqiu</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yungang</b:First>
+            <b:Last>Bao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3342195.3387534</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--rhythm:-component-distinguishable-workload-deployment-in-datacenters</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>SESAR ECHO2 Project Validation Using CIRA Multi-Agent Simulation Facility</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>9798400718588</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>155-162</b:Pages>
+    <b:JournalName>Proceedings of the 2025 18th International Conference on Computer Science and Information Technology</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Francesco</b:First>
+            <b:Last>Gargiulo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gabriella</b:First>
+            <b:Last>Gigante</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gianpaolo</b:First>
+            <b:Last>Pigliasco</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lorenzo</b:First>
+            <b:Last>Centore</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Fabrizio</b:First>
+            <b:Last>Arru</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ramona</b:First>
+            <b:Last>Santarelli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Luigi</b:First>
+            <b:Last>Perrotta</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Angela</b:First>
+            <b:Last>Vozella</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3783862.3783881</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--sesar-echo2-project-validation-using-cira-multi-agent-simulation-facility</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Predicting reliability by severity and priority of defects</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450368575</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>27-34</b:Pages>
+    <b:JournalName>Proceedings of the 2nd ACM SIGSOFT International Workshop on Software Qualities and Their Dependencies</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Camelia</b:First>
+            <b:Last>Serban</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andreea</b:First>
+            <b:Last>Vescan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3340495.3342753</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--predicting-reliability-by-severity-and-priority-of-defects</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A new approach for teaching programming: Model-based Agile Programming (MBAD)</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400700613</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>13-18</b:Pages>
+    <b:JournalName>Proceedings of the 2023 8th International Conference on Information and Education Innovations</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rainer</b:First>
+            <b:Last>Telesko</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Maja</b:First>
+            <b:Last>Spahic-Bogdanovic</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Knut</b:First>
+            <b:Last>Hinkelmann</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Charuta</b:First>
+            <b:Last>Pande</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3594441.3594445</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-new-approach-for-teaching-programming:-model-based-agile-programming-(mbad)</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Scalable Learning to Troubleshoot Query Performance Problems</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>9781450384469</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>4016-4025</b:Pages>
+    <b:JournalName>Proceedings of the 30th ACM International Conference on Information &amp;amp; Knowledge Management</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Alexandar</b:First>
+            <b:Last>Mihaylov</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vincent</b:First>
+            <b:Last>Corvinelli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Parke</b:First>
+            <b:Last>Godfrey</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Piotr</b:First>
+            <b:Last>Mierzejewski</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jaroslaw</b:First>
+            <b:Last>Szlichta</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Calisto</b:First>
+            <b:Last>Zuzarte</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3459637.3481947</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--scalable-learning-to-troubleshoot-query-performance-problems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>SmartCLIDE: Shortening the Toolchain of SOA-based Cloud Software Development by Automating Service Creation, Composition, Testing, and Deployment</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450395557</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>306-311</b:Pages>
+    <b:JournalName>Proceedings of the 25th Pan-Hellenic Conference on Informatics</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Theodore</b:First>
+            <b:Last>Maikantis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Theodore</b:First>
+            <b:Last>Chaikalis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Apostolos</b:First>
+            <b:Last>Ampatzoglou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alexander</b:First>
+            <b:Last>Chatzigeorgiou</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3503823.3503880</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--smartclide:-shortening-the-toolchain-of-soa-based-cloud-software-development-by-automating-service-creation,-composition,-testing,-and-deployment</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Offloading-based Power-Efficient Mobile VTuber Live Streaming</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>8</b:Month>
+    <b:StandardNumber>1551-6857</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Multimedia Comput. Commun. Appl.</b:JournalName>
+    <b:Volume>21</b:Volume>
+    <b:Issue>8</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Zichen</b:First>
+            <b:Last>Zhu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Stefano</b:First>
+            <b:Last>Petrangeli</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Viswanathan</b:First>
+            <b:Last>Swaminathan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sheng</b:First>
+            <b:Last>Wei</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3742787</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--offloading-based-power-efficient-mobile-vtuber-live-streaming</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>High Performance Dynamic Graph Model for Consistent Data Integration</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450368940</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>263-272</b:Pages>
+    <b:JournalName>Proceedings of the 12th IEEE&#x2F;ACM International Conference on Utility and Cloud Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Bilal</b:First>
+            <b:Last>Arshad</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ashiq</b:First>
+            <b:Last>Anjum</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3344341.3368806</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--high-performance-dynamic-graph-model-for-consistent-data-integration</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Eva: Cost-Efficient Cloud-Based Cluster Scheduling</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400711961</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1399-1416</b:Pages>
+    <b:JournalName>Proceedings of the Twentieth European Conference on Computer Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Tzu-Tao</b:First>
+            <b:Last>Chang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shivaram</b:First>
+            <b:Last>Venkataraman</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3689031.3717483</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--eva:-cost-efficient-cloud-based-cluster-scheduling</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Using Architecture to Reason about Information Security</b:Title>
+    <b:Year>2015</b:Year>
+    <b:Month>12</b:Month>
+    <b:StandardNumber>1094-9224</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Inf. Syst. Secur.</b:JournalName>
+    <b:Volume>18</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Stephen</b:First>
+            <b:Last>Chong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ron Van Der</b:First>
+            <b:Last>Meyden</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2829949</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--using-architecture-to-reason-about-information-security</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>COSTA: A cost-driven solution for migrating applications in multi-cloud environments</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9781450395175</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>57-63</b:Pages>
+    <b:JournalName>Proceedings of the 38th ACM&#x2F;SIGAPP Symposium on Applied Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Leandro Costa</b:First>
+            <b:Last>da Silva</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Robson</b:First>
+            <b:Last>De Medeiros</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nelson</b:First>
+            <b:Last>Rosa</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3555776.3577718</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--costa:-a-cost-driven-solution-for-migrating-applications-in-multi-cloud-environments</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Rethinking Java Performance Analysis</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400706981</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>940-954</b:Pages>
+    <b:JournalName>Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Stephen M</b:First>
+            <b:Last>Blackburn</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zixian</b:First>
+            <b:Last>Cai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rui</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xi</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>John</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>John</b:First>
+            <b:Last>Zigman</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3669940.3707217</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--rethinking-java-performance-analysis</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Co-manage power delivery and consumption for manycore systems using reinforcement learning</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>9781450359504</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the International Conference on Computer-Aided Design</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Haoran</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhongyuan</b:First>
+            <b:Last>Tian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rafael K V</b:First>
+            <b:Last>Maeda</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xuanqi</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jun</b:First>
+            <b:Last>Feng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiang</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3240765.3240787</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--co-manage-power-delivery-and-consumption-for-manycore-systems-using-reinforcement-learning</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Apache REEF: Retainable Evaluator Execution Framework</b:Title>
+    <b:Year>2017</b:Year>
+    <b:Month>10</b:Month>
+    <b:StandardNumber>0734-2071</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Comput. Syst.</b:JournalName>
+    <b:Volume>35</b:Volume>
+    <b:Issue>2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Byung-Gon</b:First>
+            <b:Last>Chun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tyson</b:First>
+            <b:Last>Condie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yingda</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Brian</b:First>
+            <b:Last>Cho</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Andrew</b:First>
+            <b:Last>Chung</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Carlo</b:First>
+            <b:Last>Curino</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chris</b:First>
+            <b:Last>Douglas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Matteo</b:First>
+            <b:Last>Interlandi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Beomyeol</b:First>
+            <b:Last>Jeon</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Joo Seong</b:First>
+            <b:Last>Jeong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gyewon</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yunseong</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tony</b:First>
+            <b:Last>Majestro</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dahlia</b:First>
+            <b:Last>Malkhi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sergiy</b:First>
+            <b:Last>Matusevych</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Brandon</b:First>
+            <b:Last>Myers</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mariia</b:First>
+            <b:Last>Mykhailova</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shravan</b:First>
+            <b:Last>Narayanamurthy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Joseph</b:First>
+            <b:Last>Noor</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Raghu</b:First>
+            <b:Last>Ramakrishnan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sriram</b:First>
+            <b:Last>Rao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Russell</b:First>
+            <b:Last>Sears</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Beysim</b:First>
+            <b:Last>Sezgin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Taegeon</b:First>
+            <b:Last>Um</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Julia</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Markus</b:First>
+            <b:Last>Weimer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Youngseok</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3132037</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--apache-reef:-retainable-evaluator-execution-framework</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>EcoCore: Dynamic Core Management for Improving Energy Efficiency in Latency-Critical Applications</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400715730</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1132-1146</b:Pages>
+    <b:JournalName>Proceedings of the 58th IEEE&#x2F;ACM International Symposium on Microarchitecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Gyeongseo</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Minho</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ki-Dong</b:First>
+            <b:Last>Kang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yunhyeong</b:First>
+            <b:Last>Jeon</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Seulki</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Daehoon</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3725843.3756021</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--ecocore:-dynamic-core-management-for-improving-energy-efficiency-in-latency-critical-applications</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>MVTEE: Multi-Variant Trusted Execution for Secure Model Inference</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400715549</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>298-313</b:Pages>
+    <b:JournalName>Proceedings of the 26th International Middleware Conference</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Kailun</b:First>
+            <b:Last>Qin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dawu</b:First>
+            <b:Last>Gu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3721462.3730956</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--mvtee:-multi-variant-trusted-execution-for-secure-model-inference</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Introducing Computer Science Undergraduate Students to DevOps Technologies from Software Engineering Fundamentals</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400704987</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>348-358</b:Pages>
+    <b:JournalName>Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Edgar</b:First>
+            <b:Last>Sarmiento-Calisaya</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alvaro</b:First>
+            <b:Last>Mamani-Aliaga</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Julio Cesar Sampaio Do Prado</b:First>
+            <b:Last>Leite</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3639474.3640071</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--introducing-computer-science-undergraduate-students-to-devops-technologies-from-software-engineering-fundamentals</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>LLM Vs Rule-Based - The COBRAIN Tool and An Empirical Study on Extracting Business Rules from COBOL</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400713859</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>294-304</b:Pages>
+    <b:JournalName>Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Chiranjeevi</b:First>
+            <b:Last>B S</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sridhar</b:First>
+            <b:Last>Chimalakonda</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3756681.3756982</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--llm-vs-rule-based---the-cobrain-tool-and-an-empirical-study-on-extracting-business-rules-from-cobol</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>DDPC: Automated Data-Driven Power-Performance Controller Design on-the-fly for Latency-sensitive Web Services</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9781450394161</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>3067-3076</b:Pages>
+    <b:JournalName>Proceedings of the ACM Web Conference 2023</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Mehmet</b:First>
+            <b:Last>Savasci</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ahmed</b:First>
+            <b:Last>Ali-Eldin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Johan</b:First>
+            <b:Last>Eker</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anders</b:First>
+            <b:Last>Robertsson</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Prashant</b:First>
+            <b:Last>Shenoy</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3543507.3583437</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--ddpc:-automated-data-driven-power-performance-controller-design-on-the-fly-for-latency-sensitive-web-services</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Pair programming conversations with agents vs. developers: challenges and opportunities for SE community</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450394130</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>319-331</b:Pages>
+    <b:JournalName>Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Peter</b:First>
+            <b:Last>Robe</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sandeep K</b:First>
+            <b:Last>Kuttal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jake</b:First>
+            <b:Last>AuBuchon</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jacob</b:First>
+            <b:Last>Hart</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3540250.3549127</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--pair-programming-conversations-with-agents-vs.-developers:-challenges-and-opportunities-for-se-community</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Robust System Instance Clustering for Large-Scale Web Services</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450390965</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1785-1796</b:Pages>
+    <b:JournalName>Proceedings of the ACM Web Conference 2022</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Shenglin</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dongwen</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhenyu</b:First>
+            <b:Last>Zhong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jun</b:First>
+            <b:Last>Zhu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Minghan</b:First>
+            <b:Last>Liang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiexi</b:First>
+            <b:Last>Luo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yongqian</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ya</b:First>
+            <b:Last>Su</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sibo</b:First>
+            <b:Last>Xia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhongyou</b:First>
+            <b:Last>Hu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yuzhi</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dan</b:First>
+            <b:Last>Pei</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiyan</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yinlong</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3485447.3511983</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--robust-system-instance-clustering-for-large-scale-web-services</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A Review of Cloud Computing CPU Resource Optimization: Methods, Difficulties, and Prospects</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400711220</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 6th International Conference on Information Management &amp;amp; Machine Intelligence</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Vivek</b:First>
+            <b:Last>Saxena</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anup</b:First>
+            <b:Last>Kumar</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vinay</b:First>
+            <b:Last>danwa</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3745812.3745839</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--a-review-of-cloud-computing-cpu-resource-optimization:-methods,-difficulties,-and-prospects</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Assessing and Mitigating Heterogeneity-Driven Security Threats in the Cloud</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>9</b:Month>
+    <b:StandardNumber>1533-5399</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Internet Technol.</b:JournalName>
+    <b:Volume>25</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Chongzhou</b:First>
+            <b:Last>Fang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Najmeh</b:First>
+            <b:Last>Nazari</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Behnam</b:First>
+            <b:Last>Omidi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Han</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Aditya</b:First>
+            <b:Last>Puri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Manish</b:First>
+            <b:Last>Arora</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Setareh</b:First>
+            <b:Last>Rafatirad</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Houman</b:First>
+            <b:Last>Homayoun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Khaled</b:First>
+            <b:Last>Khasawneh</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3746228</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--assessing-and-mitigating-heterogeneity-driven-security-threats-in-the-cloud</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Component-distinguishable Co-location and Resource Reclamation for High-throughput Computing</b:Title>
+    <b:Year>2024</b:Year>
+    <b:Month>2</b:Month>
+    <b:StandardNumber>0734-2071</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Comput. Syst.</b:JournalName>
+    <b:Volume>42</b:Volume>
+    <b:Issue>1–2</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Laiping</b:First>
+            <b:Last>Zhao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yushuai</b:First>
+            <b:Last>Cui</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yanan</b:First>
+            <b:Last>Yang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xiaobo</b:First>
+            <b:Last>Zhou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tie</b:First>
+            <b:Last>Qiu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Keqiu</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yungang</b:First>
+            <b:Last>Bao</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3630006</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--component-distinguishable-co-location-and-resource-reclamation-for-high-throughput-computing</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Portfolio-driven Resource Management for Transient Cloud Servers</b:Title>
+    <b:Year>2017</b:Year>
+    <b:Month>6</b:Month>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proc. ACM Meas. Anal. Comput. Syst.</b:JournalName>
+    <b:Volume>1</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Prateek</b:First>
+            <b:Last>Sharma</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David</b:First>
+            <b:Last>Irwin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Prashant</b:First>
+            <b:Last>Shenoy</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3084442</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--portfolio-driven-resource-management-for-transient-cloud-servers</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>IntelliCode compose: code generation using transformer</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>9781450370431</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1433-1443</b:Pages>
+    <b:JournalName>Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Alexey</b:First>
+            <b:Last>Svyatkovskiy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shao Kun</b:First>
+            <b:Last>Deng</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shengyu</b:First>
+            <b:Last>Fu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Neel</b:First>
+            <b:Last>Sundaresan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3368089.3417058</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--intellicode-compose:-code-generation-using-transformer</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>REEF: Retainable Evaluator Execution Framework</b:Title>
+    <b:Year>2015</b:Year>
+    <b:StandardNumber>9781450327589</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1343-1355</b:Pages>
+    <b:JournalName>Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Markus</b:First>
+            <b:Last>Weimer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yingda</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Byung-Gon</b:First>
+            <b:Last>Chun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tyson</b:First>
+            <b:Last>Condie</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Carlo</b:First>
+            <b:Last>Curino</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chris</b:First>
+            <b:Last>Douglas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yunseong</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tony</b:First>
+            <b:Last>Majestro</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dahlia</b:First>
+            <b:Last>Malkhi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sergiy</b:First>
+            <b:Last>Matusevych</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Brandon</b:First>
+            <b:Last>Myers</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shravan</b:First>
+            <b:Last>Narayanamurthy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Raghu</b:First>
+            <b:Last>Ramakrishnan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sriram</b:First>
+            <b:Last>Rao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Russel</b:First>
+            <b:Last>Sears</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Beysim</b:First>
+            <b:Last>Sezgin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Julia</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;2723372.2742793</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--reef:-retainable-evaluator-execution-framework</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>APIstic: A Large Collection of OpenAPI Metrics</b:Title>
+    <b:Year>2024</b:Year>
+    <b:StandardNumber>9798400705878</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>265-277</b:Pages>
+    <b:JournalName>Proceedings of the 21st International Conference on Mining Software Repositories</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Souhaila</b:First>
+            <b:Last>Serbout</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Cesare</b:First>
+            <b:Last>Pautasso</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3643991.3644932</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--apistic:-a-large-collection-of-openapi-metrics</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Performance Modeling for Short-Term Cache Allocation</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9781450397339</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 51st International Conference on Parallel Processing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Christopher</b:First>
+            <b:Last>Stewart</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nathaniel</b:First>
+            <b:Last>Morris</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lydia</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Robert</b:First>
+            <b:Last>Birke</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3545008.3545094</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--performance-modeling-for-short-term-cache-allocation</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>FfDL: A Flexible Multi-tenant Deep Learning Platform</b:Title>
+    <b:Year>2019</b:Year>
+    <b:StandardNumber>9781450370097</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>82-95</b:Pages>
+    <b:JournalName>Proceedings of the 20th International Middleware Conference</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>K R</b:First>
+            <b:Last>Jayaram</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vinod</b:First>
+            <b:Last>Muthusamy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Parijat</b:First>
+            <b:Last>Dube</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vatche</b:First>
+            <b:Last>Ishakian</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chen</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Benjamin</b:First>
+            <b:Last>Herta</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Scott</b:First>
+            <b:Last>Boag</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Diana</b:First>
+            <b:Last>Arroyo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Asser</b:First>
+            <b:Last>Tantawi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Archit</b:First>
+            <b:Last>Verma</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Falk</b:First>
+            <b:Last>Pollok</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rania</b:First>
+            <b:Last>Khalaf</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3361525.3361538</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--ffdl:-a-flexible-multi-tenant-deep-learning-platform</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Enabling Moral Agency in Distributed Energy Management: An Ethics Score for Negotiations in Multi-Agent Systems</b:Title>
+    <b:Year>2025</b:Year>
+    <b:Month>2</b:Month>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>116-128</b:Pages>
+    <b:JournalName>SIGENERGY Energy Inform. Rev.</b:JournalName>
+    <b:Volume>4</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Malte</b:First>
+            <b:Last>Stomberg</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Martin</b:First>
+            <b:Last>Tröschel</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3717413.3717424</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--enabling-moral-agency-in-distributed-energy-management:-an-ethics-score-for-negotiations-in-multi-agent-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>FlexSFP: Rethinking Network Intelligence Inside the Cable</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400722806</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>427-435</b:Pages>
+    <b:JournalName>Proceedings of the 24th ACM Workshop on Hot Topics in Networks</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Angelo</b:First>
+            <b:Last>Tulumello</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alessandro</b:First>
+            <b:Last>Rivitti</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Giacomo</b:First>
+            <b:Last>Belocchi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Giuseppe</b:First>
+            <b:Last>Bianchi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Luka</b:First>
+            <b:Last>Perkov</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3772356.3772427</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--flexsfp:-rethinking-network-intelligence-inside-the-cable</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Pretraining LLMs at Scale: Tuning Strategies and Performance Portability.</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400718717</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1512-1523</b:Pages>
+    <b:JournalName>Proceedings of the SC &#39;25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Adrián</b:First>
+            <b:Last>Pérez Diéguez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Àlex</b:First>
+            <b:Last>Batlle Casellas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Aleix</b:First>
+            <b:Last>Torres-Camps</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Harris</b:First>
+            <b:Last>Teague</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jordi</b:First>
+            <b:Last>Ros-Giralt</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3731599.3767699</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--pretraining-llms-at-scale:-tuning-strategies-and-performance-portability.</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>A Vision on Accelerating Enterprise IT System 2.0</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>9781450380232</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the Fourth International Workshop on Data Management for End-to-End Machine Learning</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Rekha</b:First>
+            <b:Last>Singhal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dheeraj</b:First>
+            <b:Last>Chahal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shruti</b:First>
+            <b:Last>Kunde</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mayank</b:First>
+            <b:Last>Mishra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Manoj</b:First>
+            <b:Last>Nambiar</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3399579.3399863</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--a-vision-on-accelerating-enterprise-it-system-2.0</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>TaskFlow: An Energy- and Makespan-Aware Task Placement Policy for Workflow Scheduling through Delay Management</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450391597</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>81-88</b:Pages>
+    <b:JournalName>Companion of the 2022 ACM&#x2F;SPEC International Conference on Performance Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Laurens</b:First>
+            <b:Last>Versluis</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Alexandru</b:First>
+            <b:Last>Iosup</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3491204.3527466</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--taskflow:-an-energy--and-makespan-aware-task-placement-policy-for-workflow-scheduling-through-delay-management</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Understanding the Potential of FPGA-based Spatial Acceleration for Large Language Model Inference</b:Title>
+    <b:Year>2024</b:Year>
+    <b:Month>12</b:Month>
+    <b:StandardNumber>1936-7406</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>ACM Trans. Reconfigurable Technol. Syst.</b:JournalName>
+    <b:Volume>18</b:Volume>
+    <b:Issue>1</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hongzheng</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiahao</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yixiao</b:First>
+            <b:Last>Du</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shaojie</b:First>
+            <b:Last>Xiang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zichao</b:First>
+            <b:Last>Yue</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Niansong</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yaohui</b:First>
+            <b:Last>Cai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhiru</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3656177</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--understanding-the-potential-of-fpga-based-spatial-acceleration-for-large-language-model-inference</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Proteus: Heterogeneous FPGA Virtualization</b:Title>
+    <b:Year>2026</b:Year>
+    <b:StandardNumber>9798400722127</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>328-349</b:Pages>
+    <b:JournalName>Proceedings of the 21st European Conference on Computer Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Felix</b:First>
+            <b:Last>Gust</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shu</b:First>
+            <b:Last>Anzai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Charalampos</b:First>
+            <b:Last>Mainas</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Atsushi</b:First>
+            <b:Last>Koshiba</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pramod</b:First>
+            <b:Last>Bhatotia</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3767295.3803577</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--proteus:-heterogeneous-fpga-virtualization</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Co-evolving code with evolving metamodels</b:Title>
+    <b:Year>2020</b:Year>
+    <b:StandardNumber>9781450371216</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1496-1508</b:Pages>
+    <b:JournalName>Proceedings of the ACM&#x2F;IEEE 42nd International Conference on Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Djamel Eddine</b:First>
+            <b:Last>Khelladi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Benoit</b:First>
+            <b:Last>Combemale</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mathieu</b:First>
+            <b:Last>Acher</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Olivier</b:First>
+            <b:Last>Barais</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jean-Marc</b:First>
+            <b:Last>Jézéquel</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3377811.3380324</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--co-evolving-code-with-evolving-metamodels</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Multi-Dimensional ML-Pipeline Optimization in Cost-Effective Disaggregated Datacenter</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798400715730</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1178-1192</b:Pages>
+    <b:JournalName>Proceedings of the 58th IEEE&#x2F;ACM International Symposium on Microarchitecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Pingyi</b:First>
+            <b:Last>Huo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Anusha</b:First>
+            <b:Last>Devulapally</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hasan</b:First>
+            <b:Last>Al Maruf</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Nandhini</b:First>
+            <b:Last>Chandramoorthy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Meena</b:First>
+            <b:Last>Arunachalam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Gulsum Gudukbay</b:First>
+            <b:Last>Akbulut</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mahmut T</b:First>
+            <b:Last>Kandemir</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Vijaykrishnan</b:First>
+            <b:Last>Narayanan</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3725843.3756088</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>multi-dimensional-ml-pipeline-optimization-in-cost-effective-disaggregated-datacenter</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Where Is My Training Bottleneck? Hidden Trade-Offs in Deep Learning Preprocessing Pipelines</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781450392495</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:Pages>1825-1839</b:Pages>
+    <b:JournalName>Proceedings of the 2022 International Conference on Management of Data</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Alexander</b:First>
+            <b:Last>Isenko</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ruben</b:First>
+            <b:Last>Mayer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jeffrey</b:First>
+            <b:Last>Jedele</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hans-Arno</b:First>
+            <b:Last>Jacobsen</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3514221.3517848</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_exc--where-is-my-training-bottleneck?-hidden-trade-offs-in-deep-learning-preprocessing-pipelines</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Towards a Methodology and Framework for AI Sustainability Metrics</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9798400702426</b:StandardNumber>
+    <b:Publisher>Association for Computing Machinery</b:Publisher>
+    <b:JournalName>Proceedings of the 2nd Workshop on Sustainable Computer Systems</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Tamar</b:First>
+            <b:Last>Eilam</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pedro</b:First>
+            <b:Last>Bello-Maldonado</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bishwaranjan</b:First>
+            <b:Last>Bhattacharjee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Carlos</b:First>
+            <b:Last>Costa</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eun Kyung</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Asser</b:First>
+            <b:Last>Tantawi</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3604930.3605715</b:URL>
+    <b:City>New York, NY, USA</b:City>
+    <b:Tag>phase1_inc--star--towards-a-methodology-and-framework-for-ai-sustainability-metrics</b:Tag>
+  </b:Source>
+
+</b:Sources>

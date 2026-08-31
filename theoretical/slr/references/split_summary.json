@@ -1,0 +1,76 @@
+{
+  "total_raw": 436,
+  "total_unique": 359,
+  "duplicates_removed": 77,
+  "cross_tab": {
+    "ACM": {
+      "untagged": 3,
+      "phase1_exc": 97,
+      "phase1_inc": 17,
+      "star": 2
+    },
+    "IEEE": {
+      "untagged": 0,
+      "phase1_exc": 9,
+      "phase1_inc": 2,
+      "star": 1
+    },
+    "Springer": {
+      "untagged": 75,
+      "phase1_exc": 11,
+      "phase1_inc": 2,
+      "star": 1
+    },
+    "ScienceDirect": {
+      "untagged": 1,
+      "phase1_exc": 1,
+      "phase1_inc": 0,
+      "star": 0
+    },
+    "Scopus": {
+      "untagged": 84,
+      "phase1_exc": 35,
+      "phase1_inc": 16,
+      "star": 2
+    },
+    "WoS": {
+      "untagged": 0,
+      "phase1_exc": 0,
+      "phase1_inc": 0,
+      "star": 0
+    }
+  },
+  "totals_per_phase": {
+    "untagged": 163,
+    "phase1_exc": 153,
+    "phase1_inc": 37,
+    "star": 6
+  },
+  "files_written": [
+    {
+      "db": "ACM",
+      "file": "mendeley_acm.xml",
+      "count": 119
+    },
+    {
+      "db": "IEEE",
+      "file": "mendeley_ieee.xml",
+      "count": 12
+    },
+    {
+      "db": "Springer",
+      "file": "mendeley_springer.xml",
+      "count": 89
+    },
+    {
+      "db": "ScienceDirect",
+      "file": "mendeley_sciencedirect.xml",
+      "count": 2
+    },
+    {
+      "db": "Scopus",
+      "file": "mendeley_scopus.xml",
+      "count": 137
+    }
+  ]
+}

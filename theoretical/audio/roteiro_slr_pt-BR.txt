@@ -1,0 +1,55 @@
+Olá Aleff. Esta é uma explicação resumida da Revisão Sistemática da Literatura que produzimos para o seu projeto de doutorado, com base nos quarenta estudos primários selecionados.
+
+A sua tese se chama Métricas de software conscientes de arquitetura para avaliação de qualidade apoiada por inteligência artificial em sistemas distribuídos baseados em Java. Os seus orientadores são o professor José Vicente Pereira dos Reis e o professor Vítor Manuel Bastos, no Iscte, em Lisboa.
+
+A Revisão Sistemática segue o protocolo de Kitchenham e Charters e adota a estrutura usada pelo seu próprio orientador no artigo de dois mil e vinte e dois sobre detecção e visualização de code smells. Vamos por partes.
+
+Parte um. Os números da revisão.
+
+A busca inicial nas seis principais bases científicas — ACM, IEEE Xplore, Springer Link, Science Direct, Scopus e Web of Science — retornou quatrocentos e trinta e oito candidatos. Você marcou cinquenta e dois desses como incluídos no Mendeley, na etiqueta Phase um inc. Esses cinquenta e dois, depois de desduplicação por DOI e título normalizado, resultaram em quarenta estudos únicos. Note que onze registros eram cópias exatas do mesmo artigo no seu Mendeley e dois tinham o campo título mal preenchido. Tudo isso foi corrigido. Portanto: quatrocentos e trinta e oito candidatos, cinquenta e dois incluídos brutos, quarenta artigos únicos analisados.
+
+Parte dois. Quem são esses quarenta artigos.
+
+A distribuição temporal mostra crescimento claro: setenta por cento foram publicados a partir de dois mil e vinte e dois, e trinta por cento são de dois mil e vinte e cinco em diante. A divisão por tipo de veículo é equilibrada: cinquenta e cinco por cento são artigos de conferência, quarenta e cinco por cento são artigos de jornal.
+
+A abordagem técnica predominante é a baseada em métricas, com trinta por cento dos estudos. Logo em seguida vêm as abordagens baseadas em análise estática, com vinte por cento. As abordagens baseadas em grafos e redes neurais de grafos, ou G N N, aparecem em dez por cento dos estudos. Abordagens dirigidas a modelos, ou model driven, são apenas sete vírgula cinco por cento. Os outros vinte e cinco por cento se dividem entre deep learning, large language models, reinforcement learning, auto-machine learning e machine learning clássico.
+
+Sobre o domínio dos sistemas estudados: quarenta e dois vírgula cinco por cento focam explicitamente em microsserviços, vinte por cento em sistemas cloud native ou Kubernetes, e oito estudos tratam de migração de sistemas monolíticos para microsserviços. Apenas sete dos quarenta estudos têm foco explícito em Java. Esse é um dado importante: revela uma janela de oportunidade clara para o seu trabalho.
+
+Parte três. As fontes de evidência.
+
+Quarenta e cinco por cento dos estudos usam métricas de runtime. Trinta e cinco por cento exploram análise estática de código-fonte. Apenas quinze por cento usam traces distribuídos, e somente sete vírgula cinco por cento usam logs. Doze vírgula cinco por cento usam arquivos de configuração ou descritores de deployment, como manifestos Kubernetes. O ponto crítico é que apenas cinco estudos do corpus combinam código estático, configuração e telemetria de runtime no mesmo espaço de features. Nenhum deles encapsula essa combinação em um metamodelo arquitetural reutilizável. Esse é exatamente o ponto de partida para a sua tese.
+
+Parte quatro. Os doze estudos STAR. Esses são os artigos com maior alinhamento com as suas quatro perguntas de pesquisa, e que devem ser replicados ou comparados nas suas contribuições. Vou destacar os cinco mais relevantes.
+
+O primeiro é o estudo S vinte e três, dos autores Tarhri e colegas, de dois mil e vinte e quatro. Eles geram um dataset específico para predição de falhas em microsserviços. Como o seu próprio trabalho vai precisar de dados rotulados, esse dataset é uma referência valiosa.
+
+O segundo é o S trinta e três, dos autores Elrashidy e Mansour, de dois mil e vinte e cinco. É um estudo de caso real de uma empresa de fintech que migrou um sistema monolítico em Node e Spring para microsserviços, ao longo de três trimestres. Os números são impressionantes: redução de oitenta e cinco por cento no lead time de deploy, redução de setenta e sete por cento na latência do percentil noventa e cinco, e aumento de quatro ponto três vezes na vazão de requisições. Esse é o estudo mais empiricamente rico em Java do seu corpus.
+
+O terceiro é o S vinte e cinco, dos autores Sooksatra e colegas, de dois mil e vinte e quatro. Eles combinam análise estática com Variational Autoencoder e fuzzy c-means para decompor monolitos em microsserviços. É a melhor evidência de que features de análise estática podem alimentar técnicas de deep learning para decisões arquiteturais.
+
+O quarto é o S onze, o trabalho Groot, dos autores Wang e colegas, de dois mil e vinte e dois. Implementado em produção no eBay, em cinco mil serviços reais. Eles construíram um grafo de causalidade em tempo real que combina métricas, logs e atividades, e usaram um dataset de novecentos e cinquenta e dois incidentes rotulados para análise de causa raiz. Resultados: noventa e cinco por cento de acurácia no top três e setenta e oito por cento de acurácia no top um. É a maior validação industrial do seu corpus.
+
+O quinto é o S vinte e oito, ou GRAF, dos autores Park e colegas, de dois mil e vinte e quatro. Usa redes neurais de grafos para autoscaling proativo orientado a SLO em microsserviços. Economiza até dezenove por cento de CPU em relação a um autoscaler ajustado manualmente, e converge tail latency até dois ponto seis vezes mais rápido que o autoscaler padrão do Kubernetes.
+
+Parte cinco. Os quatro gaps que mapeiam diretamente para a sua tese.
+
+Gap um: ausência de um metamodelo arquitetural agnóstico de tecnologia que combine evidência estática, de configuração e de runtime. Isso mapeia para o seu Objetivo um, no work package T dois.
+
+Gap dois: definições fragmentadas e informais de métricas conscientes de arquitetura. Tratado pelo seu Objetivo dois — o catálogo formalizado em OCL — no work package T três.
+
+Gap três: pipelines híbridos de métricas e inteligência artificial sem mecanismos de explicabilidade ancorados em arquitetura. Tratado pelo Objetivo quatro, no work package T cinco. Apenas três dos quarenta estudos tratam explicabilidade, e nenhum ancora as explicações em métricas arquiteturais.
+
+Gap quatro: ausência de avaliações com desenvolvedores reais para feedback consciente de arquitetura. Tratado pelos Objetivos cinco e seguintes, nos work packages T seis e T sete.
+
+Parte seis. Conclusões.
+
+A primeira conclusão é que a interseção entre métricas, microsserviços, observabilidade e inteligência artificial é hoje uma área de pesquisa madura. Mas a perspectiva arquitetural ainda é subdesenvolvida. A maior parte dos estudos trata a arquitetura como um grafo implícito de serviços, sem um metamodelo formal.
+
+A segunda conclusão é que Java, apesar de ser a tecnologia dominante na indústria, está sub-representado na literatura acadêmica sobre métricas conscientes de arquitetura. Apenas sete dos quarenta estudos têm foco em Java. Isso é um diferencial competitivo claro para o seu trabalho.
+
+A terceira conclusão é que explicabilidade e ferramentas voltadas ao desenvolvedor são frequentemente mencionadas como motivação, mas raramente implementadas. Explicações ancoradas em conceitos arquiteturais reconhecíveis — acoplamento, granularidade, complexidade de comunicação, centralidade, smells — estão essencialmente ausentes. Essa é a sua maior oportunidade de contribuição original.
+
+Os próximos passos sugeridos são: primeiro, executar a busca real nas seis bases usando as strings específicas por base que estão na seção três ponto dois ponto um, para preencher os contadores por database e fechar o número quatrocentos e trinta e oito. Segundo, baixar os PDFs dos doze estudos STAR para extração de dados mais profunda, incluindo hiperparâmetros e datasets exatos. E terceiro, submeter este draft para revisão do José e do Vítor, com tracked changes habilitado.
+
+Boa pesquisa, Aleff. Este é o ponto de partida da sua revisão. O documento completo, em Word, está no diretório Doctor Theses, com trinta e nove páginas, vinte tabelas, seis gráficos e os apêndices com os quarenta artigos numerados de S zero um a S quarenta. Fim do resumo.

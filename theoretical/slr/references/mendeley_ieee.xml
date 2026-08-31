@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography">
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Machine learning based generic violation waiver system with application on electromigration sign-off</b:Title>
+    <b:Year>2018</b:Year>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>416-421</b:Pages>
+    <b:JournalName>Proceedings of the 23rd Asia and South Pacific Design Automation Conference</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Norman</b:First>
+            <b:Last>Chang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ajay</b:First>
+            <b:Last>Baranwal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hao</b:First>
+            <b:Last>Zhuang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ming-Chih</b:First>
+            <b:Last>Shih</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rahul</b:First>
+            <b:Last>Rajan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yaowei</b:First>
+            <b:Last>Jia</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hui-Lun</b:First>
+            <b:Last>Liao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ying-Shiun</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ting</b:First>
+            <b:Last>Ku</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Rex</b:First>
+            <b:Last>Lin</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>phase1_exc--machine-learning-based-generic-violation-waiver-system-with-application-on-electromigration-sign-off</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Groot: an event-graph-based approach for root cause analysis in industrial settings</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781665403375</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>419-429</b:Pages>
+    <b:JournalName>Proceedings of the 36th IEEE&#x2F;ACM International Conference on Automated Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Hanzhang</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhengkai</b:First>
+            <b:Last>Wu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Huai</b:First>
+            <b:Last>Jiang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yichao</b:First>
+            <b:Last>Huang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jiamu</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Selcuk</b:First>
+            <b:Last>Kopru</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Tao</b:First>
+            <b:Last>Xie</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;ASE51524.2021.9678708</b:URL>
+    <b:Tag>phase1_inc--groot:-an-event-graph-based-approach-for-root-cause-analysis-in-industrial-settings</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>IChannels: exploiting current management mechanisms to create covert channels in modern processors</b:Title>
+    <b:Year>2021</b:Year>
+    <b:StandardNumber>9781450390866</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>985-998</b:Pages>
+    <b:JournalName>Proceedings of the 48th Annual International Symposium on Computer Architecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jawad</b:First>
+            <b:Last>Haj-Yahya</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jeremie S</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>A Giray</b:First>
+            <b:Last>Yağlikçi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ivan</b:First>
+            <b:Last>Puddu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lois</b:First>
+            <b:Last>Orosa</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Juan Gómez</b:First>
+            <b:Last>Luna</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mohammed</b:First>
+            <b:Last>Alser</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Onur</b:First>
+            <b:Last>Mutlu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;ISCA52012.2021.00081</b:URL>
+    <b:Tag>phase1_exc--ichannels:-exploiting-current-management-mechanisms-to-create-covert-channels-in-modern-processors</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Towards scalable resource management for supercomputers</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9784665454445</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:JournalName>Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Yiqin</b:First>
+            <b:Last>Dai</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yong</b:First>
+            <b:Last>Dong</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Kai</b:First>
+            <b:Last>Lu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ruibo</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Wei</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Juan</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mingtian</b:First>
+            <b:Last>Shao</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zheng</b:First>
+            <b:Last>Wang</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:Tag>phase1_exc--towards-scalable-resource-management-for-supercomputers</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Incident-Aware Duplicate Ticket Aggregation for Cloud Systems</b:Title>
+    <b:Year>2023</b:Year>
+    <b:StandardNumber>9781665457019</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>2299-2311</b:Pages>
+    <b:JournalName>Proceedings of the 45th International Conference on Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jinyang</b:First>
+            <b:Last>Liu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Shilin</b:First>
+            <b:Last>He</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhuangbin</b:First>
+            <b:Last>Chen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Liqun</b:First>
+            <b:Last>Li</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Yu</b:First>
+            <b:Last>Kang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Xu</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pinjia</b:First>
+            <b:Last>He</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Hongyu</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Qingwei</b:First>
+            <b:Last>Lin</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zhangwei</b:First>
+            <b:Last>Xu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Saravan</b:First>
+            <b:Last>Rajmohan</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dongmei</b:First>
+            <b:Last>Zhang</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michael R</b:First>
+            <b:Last>Lyu</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;ICSE48619.2023.00193</b:URL>
+    <b:Tag>phase1_exc--incident-aware-duplicate-ticket-aggregation-for-cloud-systems</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Programmable caches with a data management language and policy engine</b:Title>
+    <b:Year>2018</b:Year>
+    <b:StandardNumber>9781538658154</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>203-212</b:Pages>
+    <b:JournalName>Proceedings of the 18th IEEE&#x2F;ACM International Symposium on Cluster, Cloud and Grid Computing</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Michael A</b:First>
+            <b:Last>Sevilla</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Carlos</b:First>
+            <b:Last>Maltzahn</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Peter</b:First>
+            <b:Last>Alvaro</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Reza</b:First>
+            <b:Last>Nasirigerdeh</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Bradley W</b:First>
+            <b:Last>Settlemyer</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Danny</b:First>
+            <b:Last>Perez</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>David</b:First>
+            <b:Last>Rich</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Galen M</b:First>
+            <b:Last>Shipman</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;CCGRID.2018.00035</b:URL>
+    <b:Tag>phase1_exc--programmable-caches-with-a-data-management-language-and-policy-engine</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>SmartOClock: Workload- and Risk-Aware Overclocking in the Cloud</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798350326581</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>437-451</b:Pages>
+    <b:JournalName>Proceedings of the 51st Annual International Symposium on Computer Architecture</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jovan</b:First>
+            <b:Last>Stojkovic</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Pulkit A</b:First>
+            <b:Last>Misra</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Íñigo</b:First>
+            <b:Last>Goiri</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Sam</b:First>
+            <b:Last>Whitlock</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Esha</b:First>
+            <b:Last>Choukse</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Mayukh</b:First>
+            <b:Last>Das</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chetan</b:First>
+            <b:Last>Bansal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jason</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Zoey</b:First>
+            <b:Last>Sun</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Haoran</b:First>
+            <b:Last>Qiu</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Reed</b:First>
+            <b:Last>Zimmermann</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Savyasachi</b:First>
+            <b:Last>Samal</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Brijesh</b:First>
+            <b:Last>Warrier</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ashish</b:First>
+            <b:Last>Raniwala</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ricardo</b:First>
+            <b:Last>Bianchini</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;ISCA59077.2024.00040</b:URL>
+    <b:Tag>phase1_exc--smartoclock:-workload--and-risk-aware-overclocking-in-the-cloud</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>book_section</b:SourceType>
+    <b:Title>UML is Back. Or is It? Investigating the Past, Present, and Future of UML in Open Source Software</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798331505691</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>2342-2354</b:Pages>
+    <b:JournalName>Proceedings of the IEEE&#x2F;ACM 47th International Conference on Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Joseph</b:First>
+            <b:Last>Romeo</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Marco</b:First>
+            <b:Last>Raglianti</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Csaba</b:First>
+            <b:Last>Nagy</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Michele</b:First>
+            <b:Last>Lanza</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;ICSE55347.2025.00155</b:URL>
+    <b:Tag>phase1_exc--uml-is-back.-or-is-it?-investigating-the-past,-present,-and-future-of-uml-in-open-source-software</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Pattern-based Generation and Adaptation of Quantum Workflows</b:Title>
+    <b:Year>2025</b:Year>
+    <b:StandardNumber>9798331505691</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>3072-3084</b:Pages>
+    <b:JournalName>Proceedings of the IEEE&#x2F;ACM 47th International Conference on Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Martin</b:First>
+            <b:Last>Beisel</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Johanna</b:First>
+            <b:Last>Barzen</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Frank</b:First>
+            <b:Last>Leymann</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Lavinia</b:First>
+            <b:Last>Stiliadou</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Daniel</b:First>
+            <b:Last>Vietz</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Benjamin</b:First>
+            <b:Last>Weder</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;ICSE55347.2025.00196</b:URL>
+    <b:Tag>phase1_exc--pattern-based-generation-and-adaptation-of-quantum-workflows</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Clock Offset Estimation for Systems With Asymmetric Packet Delays</b:Title>
+    <b:Year>2023</b:Year>
+    <b:Month>1</b:Month>
+    <b:StandardNumber>1063-6692</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>1838-1853</b:Pages>
+    <b:JournalName>IEEE&#x2F;ACM Trans. Netw.</b:JournalName>
+    <b:Volume>31</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Youngmok</b:First>
+            <b:Last>Ha</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Eunji</b:First>
+            <b:Last>Pak</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Jongkil</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Taeho</b:First>
+            <b:Last>Kim</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Ji Won</b:First>
+            <b:Last>Yoon</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;TNET.2022.3229407</b:URL>
+    <b:Tag>phase1_exc--clock-offset-estimation-for-systems-with-asymmetric-packet-delays</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Conference Proceedings</b:SourceType>
+    <b:Title>Semi-automated cross-component issue management and impact analysis</b:Title>
+    <b:Year>2022</b:Year>
+    <b:StandardNumber>9781665403375</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>1090-1094</b:Pages>
+    <b:JournalName>Proceedings of the 36th IEEE&#x2F;ACM International Conference on Automated Software Engineering</b:JournalName>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Sandro</b:First>
+            <b:Last>Speth</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;ASE51524.2021.9678830</b:URL>
+    <b:Tag>phase1_inc--semi-automated-cross-component-issue-management-and-impact-analysis</b:Tag>
+  </b:Source>
+<b:Source>
+    <b:SourceType>Journal Article</b:SourceType>
+    <b:Title>Graph Neural Network-Based SLO-Aware Proactive Resource Autoscaling Framework for Microservices</b:Title>
+    <b:Year>2024</b:Year>
+    <b:Month>5</b:Month>
+    <b:StandardNumber>1063-6692</b:StandardNumber>
+    <b:Publisher>IEEE Press</b:Publisher>
+    <b:Pages>3331-3346</b:Pages>
+    <b:JournalName>IEEE&#x2F;ACM Trans. Netw.</b:JournalName>
+    <b:Volume>32</b:Volume>
+    <b:Issue>4</b:Issue>
+    <b:Author>
+      <b:Author>
+        <b:NameList>
+          <b:Person>
+            <b:First>Jinwoo</b:First>
+            <b:Last>Park</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Byungkwon</b:First>
+            <b:Last>Choi</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Chunghan</b:First>
+            <b:Last>Lee</b:Last>
+          </b:Person>
+          <b:Person>
+            <b:First>Dongsu</b:First>
+            <b:Last>Han</b:Last>
+          </b:Person>
+        </b:NameList>
+      </b:Author>
+      <b:Editor>
+        <b:NameList>
+        </b:NameList>
+      </b:Editor>
+    </b:Author>
+    <b:URL>https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;TNET.2024.3393427</b:URL>
+    <b:Tag>phase1_inc--star--graph-neural-network-based-slo-aware-proactive-resource-autoscaling-framework-for-microservices</b:Tag>
+  </b:Source>
+
+</b:Sources>

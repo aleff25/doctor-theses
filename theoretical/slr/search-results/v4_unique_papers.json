@@ -1,0 +1,3207 @@
+[
+  {
+    "title": "Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Native Streaming Services in Tencent",
+    "doi": "10.1145/3722212.3724445",
+    "year": "2025",
+    "norm_title": "oceanusenablesloawareverticalautoscalingforcloudnativestreamingservicesintencent",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--oceanus:-enable-slo-aware-vertical-autoscaling-for-cloud-native-streaming-services-in-tencent"
+  },
+  {
+    "title": "PERT-GNN: Latency Prediction for Microservice-based Cloud-Native Applications via Graph Neural Networks",
+    "doi": "10.1145/3580305.3599465",
+    "year": "2023",
+    "norm_title": "pertgnnlatencypredictionformicroservicebasedcloudnativeapplicationsviagraphneura",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--pert-gnn:-latency-prediction-for-microservice-based-cloud-native-applications-via-graph-neural-networks"
+  },
+  {
+    "title": "LSTM model-driven data prediction and analysis system for digital economy",
+    "doi": "10.1145/3762249.3762278",
+    "year": "2025",
+    "norm_title": "lstmmodeldrivendatapredictionandanalysissystemfordigitaleconomy",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--lstm-model-driven-data-prediction-and-analysis-system-for-digital-economy"
+  },
+  {
+    "title": "Model-Driven Right-Sizing of Offloading in Data Processing Pipelines",
+    "doi": "10.1145/3736227.3736239",
+    "year": "2025",
+    "norm_title": "modeldrivenrightsizingofoffloadingindataprocessingpipelines",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--model-driven-right-sizing-of-offloading-in-data-processing-pipelines"
+  },
+  {
+    "title": "Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability",
+    "doi": "10.1145/3771275",
+    "year": "2025",
+    "norm_title": "automaticrulecheckingformicroservicessupportingsecurityanalysiswithexplainabilit",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--automatic-rule-checking-for-microservices:-supporting-security-analysis-with-explainability"
+  },
+  {
+    "title": "Research on Key Technologies for Multi-Agent Collaborative Optimization in Project Feasibility Study Review Based on Large Model Driven Approach",
+    "doi": "10.1145/3772128.3772136",
+    "year": "2025",
+    "norm_title": "researchonkeytechnologiesformultiagentcollaborativeoptimizationinprojectfeasibil",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--research-on-key-technologies-for-multi-agent-collaborative-optimization-in-project-feasibility-study-review-based-on-large-model-driven-approach"
+  },
+  {
+    "title": "Model-driven run-time enforcement of complex role-based access control policies",
+    "doi": "10.1145/3238147.3238167",
+    "year": "2018",
+    "norm_title": "modeldrivenruntimeenforcementofcomplexrolebasedaccesscontrolpolicies",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--model-driven-run-time-enforcement-of-complex-role-based-access-control-policies"
+  },
+  {
+    "title": "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving",
+    "doi": "10.1145/3472883.3486987",
+    "year": "2021",
+    "norm_title": "morphlingfastnearoptimalautoconfigurationforcloudnativemodelserving",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--morphling:-fast,-near-optimal-auto-configuration-for-cloud-native-model-serving"
+  },
+  {
+    "title": "Using Static Analysis to Aid Monolith to Microservice System Transformation: Tuning Fuzzy c-Means in a VAE-Based GNN Approach",
+    "doi": "10.1145/3691621.3694933",
+    "year": "2024",
+    "norm_title": "usingstaticanalysistoaidmonolithtomicroservicesystemtransformationtuningfuzzycme",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--using-static-analysis-to-aid-monolith-to-microservice-system-transformation:-tuning-fuzzy-c-means-in-a-vae-based-gnn-approach"
+  },
+  {
+    "title": "Design of a Full-Cycle Intelligent Risk Control System for Pre-Loan, Mid-Loan, and Post-Loan Lending: AI-Driven Closed-Loop Management of Online Credit Security",
+    "doi": "10.1145/3785706.3785866",
+    "year": "2026",
+    "norm_title": "designofafullcycleintelligentriskcontrolsystemforpreloanmidloanandpostloanlendin",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--design-of-a-full-cycle-intelligent-risk-control-system-for-pre-loan,-mid-loan,-and-post-loan-lending:-ai-driven-closed-loop-management-of-online-credit-security"
+  },
+  {
+    "title": "A Churn Prediction and Intelligent Decision Optimisation Framework for Subscription Service Platforms",
+    "doi": "10.1145/3772326.3774719",
+    "year": "2025",
+    "norm_title": "achurnpredictionandintelligentdecisionoptimisationframeworkforsubscriptionservic",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--a-churn-prediction-and-intelligent-decision-optimisation-framework-for-subscription-service-platforms"
+  },
+  {
+    "title": "Graph Neural Network-Based SLO-Aware Proactive Resource Autoscaling Framework for Microservices",
+    "doi": "10.1109/tnet.2024.3393427",
+    "year": "2024",
+    "norm_title": "graphneuralnetworkbasedsloawareproactiveresourceautoscalingframeworkformicroserv",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "star",
+    "mendeley_tag": "phase1_inc--star--graph-neural-network-based-slo-aware-proactive-resource-autoscaling-framework-for-microservices"
+  },
+  {
+    "title": "Introducing Interactions in Multi-Objective Optimization of Software Architectures",
+    "doi": "10.1145/3712185",
+    "year": "2025",
+    "norm_title": "introducinginteractionsinmultiobjectiveoptimizationofsoftwarearchitectures",
+    "found_in_dbs": [
+      "ACM",
+      "Scopus"
+    ],
+    "mendeley_phase": "star",
+    "mendeley_tag": "phase1_inc--star--introducing-interactions-in-multi-objective-optimization-of-software-architectures"
+  },
+  {
+    "title": "Architecture of RAN Management System Evolution Towards Intelligence",
+    "doi": "10.1145/3708657.3708684",
+    "year": "2025",
+    "norm_title": "architectureofranmanagementsystemevolutiontowardsintelligence",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices",
+    "doi": "10.1145/3485983.3494866",
+    "year": "2021",
+    "norm_title": "grafagraphneuralnetworkbasedproactiveresourceallocationframeworkforsloorientedmi",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--graf:-a-graph-neural-network-based-proactive-resource-allocation-framework-for-slo-oriented-microservices"
+  },
+  {
+    "title": "Architecture-Based Cross-Component Issue Management and Propagation Analysis",
+    "doi": "10.1145/3639478.3639814",
+    "year": "2024",
+    "norm_title": "architecturebasedcrosscomponentissuemanagementandpropagationanalysis",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--architecture-based-cross-component-issue-management-and-propagation-analysis"
+  },
+  {
+    "title": "API Rate Limit Adoption -- A pattern collection",
+    "doi": "10.1145/3628034.3628039",
+    "year": "2024",
+    "norm_title": "apiratelimitadoptionapatterncollection",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--api-rate-limit-adoption-–-a-pattern-collection"
+  },
+  {
+    "title": "Compliance Management of IaC-Based Cloud Deployments During Runtime",
+    "doi": "10.1145/3603166.3632135",
+    "year": "2024",
+    "norm_title": "compliancemanagementofiacbasedclouddeploymentsduringruntime",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--compliance-management-of-iac-based-cloud-deployments-during-runtime"
+  },
+  {
+    "title": "A Transformer-based Approach for Augmenting Software Engineering Chatbots Datasets",
+    "doi": "10.1145/3674805.3686695",
+    "year": "2024",
+    "norm_title": "atransformerbasedapproachforaugmentingsoftwareengineeringchatbotsdatasets",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "a-transformer-based-approach-for-augmenting-software-engineering-chatbots-datasets"
+  },
+  {
+    "title": "Toward Competitive Serverless Deep Learning",
+    "doi": "10.1145/3631310.3633489",
+    "year": "2024",
+    "norm_title": "towardcompetitiveserverlessdeeplearning",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Research on the Architecture and Key Technologies of the Ubiquitous Customer Service Operating System for State Grid",
+    "doi": "10.1145/3469213.3470417",
+    "year": "2021",
+    "norm_title": "researchonthearchitectureandkeytechnologiesoftheubiquitouscustomerserviceoperati",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--research-on-the-architecture-and-key-technologies-of-the-ubiquitous-customer-service-operating-system-for-state-grid"
+  },
+  {
+    "title": "Oracle AutoML: a fast and predictive AutoML pipeline",
+    "doi": "10.14778/3415478.3415542",
+    "year": "2020",
+    "norm_title": "oracleautomlafastandpredictiveautomlpipeline",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--oracle-automl:-a-fast-and-predictive-automl-pipeline"
+  },
+  {
+    "title": "Groot: an event-graph-based approach for root cause analysis in industrial settings",
+    "doi": "10.1109/ase51524.2021.9678708",
+    "year": "2022",
+    "norm_title": "grootaneventgraphbasedapproachforrootcauseanalysisinindustrialsettings",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--groot:-an-event-graph-based-approach-for-root-cause-analysis-in-industrial-settings"
+  },
+  {
+    "title": "Automated Log Data Analysis and Anomaly Detection Method in Intelligent Operations and Maintenance Systems",
+    "doi": "10.1145/3766671.3766854",
+    "year": "2025",
+    "norm_title": "automatedlogdataanalysisandanomalydetectionmethodinintelligentoperationsandmaint",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--automated-log-data-analysis-and-anomaly-detection-method-in-intelligent-operations-and-maintenance-systems"
+  },
+  {
+    "title": "Scouts: Improving the Diagnosis Process Through Domain-customized Incident Routing",
+    "doi": "10.1145/3387514.3405867",
+    "year": "2020",
+    "norm_title": "scoutsimprovingthediagnosisprocessthroughdomaincustomizedincidentrouting",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "FMI: Fast and Cheap Message Passing for Serverless Functions",
+    "doi": "10.1145/3577193.3593718",
+    "year": "2023",
+    "norm_title": "fmifastandcheapmessagepassingforserverlessfunctions",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--fmi:-fast-and-cheap-message-passing-for-serverless-functions"
+  },
+  {
+    "title": "A Platform Ecosystem Providing New Data For The Energy Transition",
+    "doi": "10.1145/3717413.3717435",
+    "year": "2025",
+    "norm_title": "aplatformecosystemprovidingnewdatafortheenergytransition",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--a-platform-ecosystem-providing-new-data-for-the-energy-transition"
+  },
+  {
+    "title": "Augmenting graphical modeling workbenches with semantic-aware interactive features",
+    "doi": "10.1145/3733050",
+    "year": "2025",
+    "norm_title": "augmentinggraphicalmodelingworkbencheswithsemanticawareinteractivefeatures",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--augmenting-graphical-modeling-workbenches-with-semantic-aware-interactive-features"
+  },
+  {
+    "title": "ThreatCompass: A Tool for Identifying and Mapping Security Issues to TTPs",
+    "doi": "10.1145/3733800.3763265",
+    "year": "2025",
+    "norm_title": "threatcompassatoolforidentifyingandmappingsecurityissuestottps",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--threatcompass:-a-tool-for-identifying-and-mapping-security-issues-to-ttps"
+  },
+  {
+    "title": "Application practice of code mapping technology in hydropower project construction management system",
+    "doi": "10.1145/3661638.3661672",
+    "year": "2024",
+    "norm_title": "applicationpracticeofcodemappingtechnologyinhydropowerprojectconstructionmanagem",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--application-practice-of-code-mapping-technology-in-hydropower-project-construction-management-system"
+  },
+  {
+    "title": "Semi-automated cross-component issue management and impact analysis",
+    "doi": "10.1109/ase51524.2021.9678830",
+    "year": "2022",
+    "norm_title": "semiautomatedcrosscomponentissuemanagementandimpactanalysis",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--semi-automated-cross-component-issue-management-and-impact-analysis"
+  },
+  {
+    "title": "A Vision on Accelerating Enterprise IT System 2.0",
+    "doi": "10.1145/3399579.3399863",
+    "year": "2020",
+    "norm_title": "avisiononacceleratingenterpriseitsystem20",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--a-vision-on-accelerating-enterprise-it-system-2.0"
+  },
+  {
+    "title": "Pretraining LLMs at Scale: Tuning Strategies and Performance Portability.",
+    "doi": "10.1145/3731599.3767699",
+    "year": "2025",
+    "norm_title": "pretrainingllmsatscaletuningstrategiesandperformanceportability",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--pretraining-llms-at-scale:-tuning-strategies-and-performance-portability."
+  },
+  {
+    "title": "Performance Modeling for Short-Term Cache Allocation",
+    "doi": "10.1145/3545008.3545094",
+    "year": "2023",
+    "norm_title": "performancemodelingforshorttermcacheallocation",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--performance-modeling-for-short-term-cache-allocation"
+  },
+  {
+    "title": "LLM Vs Rule-Based - The COBRAIN Tool and An Empirical Study on Extracting Business Rules from COBOL",
+    "doi": "10.1145/3756681.3756982",
+    "year": "2025",
+    "norm_title": "llmvsrulebasedthecobraintoolandanempiricalstudyonextractingbusinessrulesfromcobo",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--llm-vs-rule-based---the-cobrain-tool-and-an-empirical-study-on-extracting-business-rules-from-cobol"
+  },
+  {
+    "title": "Co-evolving code with evolving metamodels",
+    "doi": "10.1145/3377811.3380324",
+    "year": "2020",
+    "norm_title": "coevolvingcodewithevolvingmetamodels",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--co-evolving-code-with-evolving-metamodels"
+  },
+  {
+    "title": "Portfolio-driven Resource Management for Transient Cloud Servers",
+    "doi": "10.1145/3084442",
+    "year": "2017",
+    "norm_title": "portfoliodrivenresourcemanagementfortransientcloudservers",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--portfolio-driven-resource-management-for-transient-cloud-servers"
+  },
+  {
+    "title": "Pattern-based Generation and Adaptation of Quantum Workflows",
+    "doi": "10.1109/icse55347.2025.00196",
+    "year": "2025",
+    "norm_title": "patternbasedgenerationandadaptationofquantumworkflows",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--pattern-based-generation-and-adaptation-of-quantum-workflows"
+  },
+  {
+    "title": "Runtime energy minimization of distributed many-core systems using transfer learning",
+    "doi": "",
+    "year": "2022",
+    "norm_title": "runtimeenergyminimizationofdistributedmanycoresystemsusingtransferlearning",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--runtime-energy-minimization-of-distributed-many-core-systems-using-transfer-learning"
+  },
+  {
+    "title": "Introducing Computer Science Undergraduate Students to DevOps Technologies from Software Engineering Fundamentals",
+    "doi": "10.1145/3639474.3640071",
+    "year": "2024",
+    "norm_title": "introducingcomputerscienceundergraduatestudentstodevopstechnologiesfromsoftwaree",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--introducing-computer-science-undergraduate-students-to-devops-technologies-from-software-engineering-fundamentals"
+  },
+  {
+    "title": "COSTA: A cost-driven solution for migrating applications in multi-cloud environments",
+    "doi": "10.1145/3555776.3577718",
+    "year": "2023",
+    "norm_title": "costaacostdrivensolutionformigratingapplicationsinmulticloudenvironments",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--costa:-a-cost-driven-solution-for-migrating-applications-in-multi-cloud-environments"
+  },
+  {
+    "title": "Using Architecture to Reason about Information Security",
+    "doi": "10.1145/2829949",
+    "year": "2015",
+    "norm_title": "usingarchitecturetoreasonaboutinformationsecurity",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--using-architecture-to-reason-about-information-security"
+  },
+  {
+    "title": "UML is Back. Or is It? Investigating the Past, Present, and Future of UML in Open Source Software",
+    "doi": "10.1109/icse55347.2025.00155",
+    "year": "2025",
+    "norm_title": "umlisbackorisitinvestigatingthepastpresentandfutureofumlinopensourcesoftware",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--uml-is-back.-or-is-it?-investigating-the-past,-present,-and-future-of-uml-in-open-source-software"
+  },
+  {
+    "title": "High Performance Dynamic Graph Model for Consistent Data Integration",
+    "doi": "10.1145/3344341.3368806",
+    "year": "2019",
+    "norm_title": "highperformancedynamicgraphmodelforconsistentdataintegration",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--high-performance-dynamic-graph-model-for-consistent-data-integration"
+  },
+  {
+    "title": "ProPack: Executing Concurrent Serverless Functions Faster and Cheaper",
+    "doi": "10.1145/3588195.3592988",
+    "year": "2023",
+    "norm_title": "propackexecutingconcurrentserverlessfunctionsfasterandcheaper",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--propack:-executing-concurrent-serverless-functions-faster-and-cheaper"
+  },
+  {
+    "title": "Calculon: a methodology and tool for high-level co-design of systems and large language models",
+    "doi": "10.1145/3581784.3607102",
+    "year": "2023",
+    "norm_title": "calculonamethodologyandtoolforhighlevelcodesignofsystemsandlargelanguagemodels",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--calculon:-a-methodology-and-tool-for-high-level-co-design-of-systems-and-large-language-models"
+  },
+  {
+    "title": "A new approach for teaching programming: Model-based Agile Programming (MBAD)",
+    "doi": "10.1145/3594441.3594445",
+    "year": "2023",
+    "norm_title": "anewapproachforteachingprogrammingmodelbasedagileprogrammingmbad",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--a-new-approach-for-teaching-programming:-model-based-agile-programming-(mbad)"
+  },
+  {
+    "title": "'You just wanna sign on the dotted line and hope for the best': Navigating the Cloudscapes of Higher Education",
+    "doi": "10.1145/3757448",
+    "year": "2025",
+    "norm_title": "youjustwannasignonthedottedlineandhopeforthebestnavigatingthecloudscapesofhigher",
+    "found_in_dbs": [
+      "ACM"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc---&#39;you-just-wanna-sign-on-the-dotted-line-and-hope-for-the-best&#39;:-navigating-the-cloudscapes-of-higher-education"
+  },
+  {
+    "title": "LMGD: Log-Metric Combined Microservice Anomaly Detection Through Graph-Based Deep Learning",
+    "doi": "10.1109/access.2024.3481676",
+    "year": "2024",
+    "norm_title": "lmgdlogmetriccombinedmicroserviceanomalydetectionthroughgraphbaseddeeplearning",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "DALAD: Unsupervised Detection of Global and Local Anomalies in Microservice Systems",
+    "doi": "10.1109/tsc.2025.3649198",
+    "year": "2026",
+    "norm_title": "daladunsuperviseddetectionofglobalandlocalanomaliesinmicroservicesystems",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "UDA-RCL: Unsupervised Domain Adaptation for Microservice Root Cause Localization Utilizing Multimodal Data",
+    "doi": "10.1109/tsc.2025.3646329",
+    "year": "2026",
+    "norm_title": "udarclunsuperviseddomainadaptationformicroservicerootcauselocalizationutilizingm",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Proactive and Intelligent Monitoring and Orchestration of Cloud-Native IP Multimedia Subsystem",
+    "doi": "10.1109/ojcoms.2023.3341002",
+    "year": "2024",
+    "norm_title": "proactiveandintelligentmonitoringandorchestrationofcloudnativeipmultimediasubsys",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Explainability in Software Architectural Decisions: The ADR-E Framework and Empirical Evaluation",
+    "doi": "10.1109/access.2025.3648573",
+    "year": "2026",
+    "norm_title": "explainabilityinsoftwarearchitecturaldecisionstheadreframeworkandempiricalevalua",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "MINDS: An NLP-Driven Process Mining Framework for Superior Microservices Decomposition",
+    "doi": "10.1109/access.2025.3639460",
+    "year": "2025",
+    "norm_title": "mindsannlpdrivenprocessminingframeworkforsuperiormicroservicesdecomposition",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Systematic Literature Review of Machine Learning Approaches for Migrating Monolithic Systems to Microservices",
+    "doi": "10.1109/tse.2025.3603897",
+    "year": "2025",
+    "norm_title": "asystematicliteraturereviewofmachinelearningapproachesformigratingmonolithicsyst",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "HG-PAD: Heterogeneous Graph Structure Learning Aided Performance Anomaly Diagnosis in Microservice Systems",
+    "doi": "10.1109/tsc.2025.3603218",
+    "year": "2025",
+    "norm_title": "hgpadheterogeneousgraphstructurelearningaidedperformanceanomalydiagnosisinmicros",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Monarch: Monitoring Architecture for 5G and Beyond Network Slices",
+    "doi": "10.1109/tnsm.2024.3479246",
+    "year": "2025",
+    "norm_title": "monarchmonitoringarchitecturefor5gandbeyondnetworkslices",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "The Jaseci Programming Paradigm and Runtime Stack: Building Scale-Out Production Applications Easy and Fast",
+    "doi": "10.1109/lca.2023.3274038",
+    "year": "2023",
+    "norm_title": "thejaseciprogrammingparadigmandruntimestackbuildingscaleoutproductionapplication",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "ARAScaler: Adaptive Resource Autoscaling Scheme Using ETimeMixer for Efficient Cloud-Native Computing",
+    "doi": "10.1109/tsc.2024.3522815",
+    "year": "2025",
+    "norm_title": "arascaleradaptiveresourceautoscalingschemeusingetimemixerforefficientcloudnative",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "UAC-AD: Unsupervised Adversarial Contrastive Learning for Anomaly Detection on Multi-Modal Data in Microservice Systems",
+    "doi": "10.1109/tsc.2024.3411481",
+    "year": "2024",
+    "norm_title": "uacadunsupervisedadversarialcontrastivelearningforanomalydetectiononmultimodalda",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Autoscaling Pods on an On-Premise Kubernetes Infrastructure QoS-Aware",
+    "doi": "10.1109/access.2022.3158743",
+    "year": "2022",
+    "norm_title": "autoscalingpodsonanonpremisekubernetesinfrastructureqosaware",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Implement HPA for Nginx Service Using Custom Metrics Under Kubernetes Framework",
+    "doi": "10.1109/access.2024.3509876",
+    "year": "2024",
+    "norm_title": "implementhpafornginxserviceusingcustommetricsunderkubernetesframework",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Anomaly Detection and Root Cause Analysis in Cloud-Native Environments Using Large Language Models and Bayesian Networks",
+    "doi": "10.1109/access.2025.3565220",
+    "year": "2025",
+    "norm_title": "anomalydetectionandrootcauseanalysisincloudnativeenvironmentsusinglargelanguagem",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Semi-Supervised and Disentangled Causal Discovery for Analyzing Fault Propagation in Microservices",
+    "doi": "10.1109/access.2026.3667143",
+    "year": "2026",
+    "norm_title": "semisupervisedanddisentangledcausaldiscoveryforanalyzingfaultpropagationinmicros",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Multimodal Anomaly Detection for Microservice Systems via Grassmann Manifolds-Based Graph Fusion",
+    "doi": "10.1109/tsc.2026.3665382",
+    "year": "2026",
+    "norm_title": "multimodalanomalydetectionformicroservicesystemsviagrassmannmanifoldsbasedgraphf",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "TAMO:Fine-Grained Root Cause Analysis via Tool-Assisted LLM Agent With Multi-Modality Observation Data in Cloud-Native Systems",
+    "doi": "10.1109/tsc.2025.3629066",
+    "year": "2025",
+    "norm_title": "tamofinegrainedrootcauseanalysisviatoolassistedllmagentwithmultimodalityobservat",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Survey on Trusted Distributed Artificial Intelligence",
+    "doi": "10.1109/access.2022.3176385",
+    "year": "2022",
+    "norm_title": "asurveyontrusteddistributedartificialintelligence",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Classification of Anomalies in Microservices Using an XGBoost-Based Approach With Data Balancing and Hyperparameter Tuning",
+    "doi": "10.1109/ojcs.2025.3622532",
+    "year": "2025",
+    "norm_title": "classificationofanomaliesinmicroservicesusinganxgboostbasedapproachwithdatabalan",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Anomaly Detection and Anticipation in High Performance Computing Systems",
+    "doi": "10.1109/tpds.2021.3082802",
+    "year": "2022",
+    "norm_title": "anomalydetectionandanticipationinhighperformancecomputingsystems",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Unified Framework for Flexible Playback Latency Control in Live Video Streaming",
+    "doi": "10.1109/tpds.2021.3083202",
+    "year": "2021",
+    "norm_title": "aunifiedframeworkforflexibleplaybacklatencycontrolinlivevideostreaming",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Probabilistic Temporal Fusion Transformers for Large-Scale KPI Anomaly Detection",
+    "doi": "10.1109/access.2024.3353201",
+    "year": "2024",
+    "norm_title": "probabilistictemporalfusiontransformersforlargescalekpianomalydetection",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "MAGNet: Machine Learning Guided Application-Aware Networking for Data Centers",
+    "doi": "10.1109/tcc.2021.3087447",
+    "year": "2023",
+    "norm_title": "magnetmachinelearningguidedapplicationawarenetworkingfordatacenters",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "fPIM: A Holistic Design to Optimize PIM Data Flow for High Execution Efficiency",
+    "doi": "10.1109/tpds.2026.3670145",
+    "year": "2026",
+    "norm_title": "fpimaholisticdesigntooptimizepimdataflowforhighexecutionefficiency",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Efficient Replication for Fast and Predictable Performance in Distributed Computing",
+    "doi": "10.1109/tnet.2021.3062215",
+    "year": "2021",
+    "norm_title": "efficientreplicationforfastandpredictableperformanceindistributedcomputing",
+    "found_in_dbs": [
+      "IEEE",
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Time-Aware In-Cabin Driver Monitoring Ontology With Hybrid Logical Reasoning",
+    "doi": "10.1109/access.2026.3691595",
+    "year": "2026",
+    "norm_title": "atimeawareincabindrivermonitoringontologywithhybridlogicalreasoning",
+    "found_in_dbs": [
+      "IEEE"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "NAS: AI-Driven Network Automation for Multi-vendor Environments",
+    "doi": "10.1007/s13369-026-11319-6",
+    "year": "2026",
+    "norm_title": "nasaidrivennetworkautomationformultivendorenvironments",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--nas:-ai-driven-network-automation-for-multi-vendor-environments"
+  },
+  {
+    "title": "Optimizing machine learning operations in multi-cloud infrastructure: a framework for unified deployment management and topology discovery",
+    "doi": "10.1007/s10586-025-05584-7",
+    "year": "2025",
+    "norm_title": "optimizingmachinelearningoperationsinmulticloudinfrastructureaframeworkforunifie",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--optimizing-machine-learning-operations-in-multi-cloud-infrastructure:-a-framework-for-unified-deployment-management-and-topology-discovery"
+  },
+  {
+    "title": "Modelling the impact of interactive interface features on user experience in artificial intelligence driven digital learning systems",
+    "doi": "10.1038/s41598-026-41429-y",
+    "year": "2026",
+    "norm_title": "modellingtheimpactofinteractiveinterfacefeaturesonuserexperienceinartificialinte",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Adaptive Resource Allocation for Cloud-native Microservice via Meta-learning and Hyper-heuristic Algorithms",
+    "doi": "10.1007/s10723-025-09814-5",
+    "year": "2025",
+    "norm_title": "adaptiveresourceallocationforcloudnativemicroserviceviametalearningandhyperheuri",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--adaptive-resource-allocation-for-cloud-native-microservice-via-meta-learning-and-hyper-heuristic-algorithms"
+  },
+  {
+    "title": "Model-based software sustainability analysis and improvement",
+    "doi": "10.1007/s10270-026-01374-w",
+    "year": "2026",
+    "norm_title": "modelbasedsoftwaresustainabilityanalysisandimprovement",
+    "found_in_dbs": [
+      "Scopus",
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "model-based-software-sustainability-analysis-and-improvement"
+  },
+  {
+    "title": "Three decades of the OO-Method: fostering conceptual-model software engineering",
+    "doi": "10.1007/s10270-025-01299-w",
+    "year": "2025",
+    "norm_title": "threedecadesoftheoomethodfosteringconceptualmodelsoftwareengineering",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "three-decades-of-the-oo-method:-fostering-conceptual-model-software-engineering"
+  },
+  {
+    "title": "Micro Frontend Based Performance Improvement and Prediction for Microservices Using Machine Learning",
+    "doi": "10.1007/s10723-024-09760-8",
+    "year": "2024",
+    "norm_title": "microfrontendbasedperformanceimprovementandpredictionformicroservicesusingmachin",
+    "found_in_dbs": [
+      "Scopus",
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "micro-frontend-based-performance-improvement-and-prediction-for-microservices-using-machine-learning"
+  },
+  {
+    "title": "Mining architectural information: A systematic mapping study",
+    "doi": "10.1007/s10664-024-10480-6",
+    "year": "2024",
+    "norm_title": "miningarchitecturalinformationasystematicmappingstudy",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "mining-architectural-information:-a-systematic-mapping-study"
+  },
+  {
+    "title": "Evaluating Scalability of Hierarchical Multi-controller SDN: A Holistic Approach",
+    "doi": "10.1007/s10922-026-10087-w",
+    "year": "2026",
+    "norm_title": "evaluatingscalabilityofhierarchicalmulticontrollersdnaholisticapproach",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A model-based approach for converting CGMES power system models into operational networks",
+    "doi": "10.1186/s42162-023-00290-3",
+    "year": "2023",
+    "norm_title": "amodelbasedapproachforconvertingcgmespowersystemmodelsintooperationalnetworks",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "a-model-based-approach-for-converting-cgmes-power-system-models-into-operational-networks"
+  },
+  {
+    "title": "Facilitating the migration to the microservice architecture via model-driven reverse engineering and reinforcement learning",
+    "doi": "10.1007/s10270-022-00977-3",
+    "year": "2022",
+    "norm_title": "facilitatingthemigrationtothemicroservicearchitectureviamodeldrivenreverseengine",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "facilitating-the-migration-to-the-microservice-architecture-via-model-driven-reverse-engineering-and-reinforcement-learning"
+  },
+  {
+    "title": "From single-objective to multi-objective reinforcement learning-based model transformation",
+    "doi": "10.1007/s10270-024-01233-6",
+    "year": "2024",
+    "norm_title": "fromsingleobjectivetomultiobjectivereinforcementlearningbasedmodeltransformation",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "from-single-objective-to-multi-objective-reinforcement-learning-based-model-transformation"
+  },
+  {
+    "title": "From enterprise models to low-code applications: mapping DEMO to Mendix; illustrated in the social housing domain",
+    "doi": "10.1007/s10270-024-01156-2",
+    "year": "2024",
+    "norm_title": "fromenterprisemodelstolowcodeapplicationsmappingdemotomendixillustratedinthesoci",
+    "found_in_dbs": [
+      "Scopus",
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "from-enterprise-models-to-low-code-applications:-mapping-demo-to-mendix;-illustrated-in-the-social-housing-domain"
+  },
+  {
+    "title": "Quantifying determinants of students’ active engagement in experiments: A structural equation modeling approach grounded in SE and TAM",
+    "doi": "10.1007/s10639-026-13957-7",
+    "year": "2026",
+    "norm_title": "quantifyingdeterminantsofstudentsactiveengagementinexperimentsastructuralequatio",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "quantifying-determinants-of-students’-active-engagement-in-experiments:-a-structural-equation-modeling-approach-grounded-in-se-and-tam"
+  },
+  {
+    "title": "A Review of Parallel Computing for Large-scale Reservoir Numerical Simulation",
+    "doi": "10.1007/s11831-025-10263-2",
+    "year": "2025",
+    "norm_title": "areviewofparallelcomputingforlargescalereservoirnumericalsimulation",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "a-review-of-parallel-computing-for-large-scale-reservoir-numerical-simulation"
+  },
+  {
+    "title": "A Novel Model Utilizing Deep Neural Networks for Opinion Mining",
+    "doi": "10.1007/s44196-025-00949-7",
+    "year": "2025",
+    "norm_title": "anovelmodelutilizingdeepneuralnetworksforopinionmining",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "a-novel-model-utilizing-deep-neural-networks-for-opinion-mining"
+  },
+  {
+    "title": "Test-suite-guided discovery of least privilege for cloud infrastructure as code",
+    "doi": "10.1007/s10515-024-00420-5",
+    "year": "2024",
+    "norm_title": "testsuiteguideddiscoveryofleastprivilegeforcloudinfrastructureascode",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "test-suite-guided-discovery-of-least-privilege-for-cloud-infrastructure-as-code"
+  },
+  {
+    "title": "LACE: Mitigating cold-starts in serverless with a multi-task mixture-of-experts caching",
+    "doi": "10.1007/s44443-026-00473-4",
+    "year": "2026",
+    "norm_title": "lacemitigatingcoldstartsinserverlesswithamultitaskmixtureofexpertscaching",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "lace:-mitigating-cold-starts-in-serverless-with-a-multi-task-mixture-of-experts-caching"
+  },
+  {
+    "title": "An approach to generating attack graphs and analyzing threats based on CAPEC and ATT&amp;CK matrix",
+    "doi": "10.1007/s10270-025-01328-8",
+    "year": "2025",
+    "norm_title": "anapproachtogeneratingattackgraphsandanalyzingthreatsbasedoncapecandattampckmatr",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "an-approach-to-generating-attack-graphs-and-analyzing-threats-based-on-capec-and-att&amp;amp;ck-matrix"
+  },
+  {
+    "title": "CURIE: Towards an Ontology and Enterprise Architecture of a CRM Conceptual Model",
+    "doi": "10.1007/s12599-022-00744-0",
+    "year": "2022",
+    "norm_title": "curietowardsanontologyandenterprisearchitectureofacrmconceptualmodel",
+    "found_in_dbs": [
+      "Scopus",
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "curie:-towards-an-ontology-and-enterprise-architecture-of-a-crm-conceptual-model"
+  },
+  {
+    "title": "An Automated Framework for Natural Language-Based Spatial Query Using Large Language Models",
+    "doi": "10.1007/s41651-026-00260-9",
+    "year": "2026",
+    "norm_title": "anautomatedframeworkfornaturallanguagebasedspatialqueryusinglargelanguagemodels",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A comprehensive review of planning, modeling, optimization, and control of distributed energy systems",
+    "doi": "10.1007/s43979-022-00029-1",
+    "year": "2022",
+    "norm_title": "acomprehensivereviewofplanningmodelingoptimizationandcontrolofdistributedenergys",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "a-comprehensive-review-of-planning,-modeling,-optimization,-and-control-of-distributed-energy-systems"
+  },
+  {
+    "title": "An autonomous performance testing framework using self-adaptive fuzzy reinforcement learning",
+    "doi": "10.1007/s11219-020-09532-z",
+    "year": "2021",
+    "norm_title": "anautonomousperformancetestingframeworkusingselfadaptivefuzzyreinforcementlearni",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "an-autonomous-performance-testing-framework-using-self-adaptive-fuzzy-reinforcement-learning"
+  },
+  {
+    "title": "Supporting Programmable Autoscaling Rules for Containers and Virtual Machines on Clouds",
+    "doi": "10.1007/s10723-019-09488-w",
+    "year": "2019",
+    "norm_title": "supportingprogrammableautoscalingrulesforcontainersandvirtualmachinesonclouds",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "supporting-programmable-autoscaling-rules-for-containers-and-virtual-machines-on-clouds"
+  },
+  {
+    "title": "Multi-level Team Assignment in Social Business Processes: An Algorithm and Simulation Study",
+    "doi": "10.1007/s10796-021-10211-y",
+    "year": "2021",
+    "norm_title": "multilevelteamassignmentinsocialbusinessprocessesanalgorithmandsimulationstudy",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "multi-level-team-assignment-in-social-business-processes:-an-algorithm-and-simulation-study"
+  },
+  {
+    "title": "Survey of combined hardware–software reliability prediction approaches from architectural and system failure viewpoint",
+    "doi": "10.1007/s13198-019-00811-y",
+    "year": "2019",
+    "norm_title": "surveyofcombinedhardwaresoftwarereliabilitypredictionapproachesfromarchitectural",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "survey-of-combined-hardware–software-reliability-prediction-approaches-from-architectural-and-system-failure-viewpoint"
+  },
+  {
+    "title": "From conceptual design to performance optimization of ETL workflows: current state of research and open problems",
+    "doi": "10.1007/s00778-017-0477-2",
+    "year": "2017",
+    "norm_title": "fromconceptualdesigntoperformanceoptimizationofetlworkflowscurrentstateofresearc",
+    "found_in_dbs": [
+      "Springer"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "from-conceptual-design-to-performance-optimization-of-etl-workflows:-current-state-of-research-and-open-problems"
+  },
+  {
+    "title": "From Logs to Knowledge: LLM-Powered Dynamic Knowledge Graphs for Real-Time Cloud Observability",
+    "doi": "10.14569/ijacsa.2025.0161003",
+    "year": "2025",
+    "norm_title": "fromlogstoknowledgellmpowereddynamicknowledgegraphsforrealtimecloudobservability",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Proactive Strategies for Open- Source Software Quality Management Using Dynamic Correlation Analysis",
+    "doi": "10.11916/j.issn.10059113.2024078",
+    "year": "2025",
+    "norm_title": "proactivestrategiesforopensourcesoftwarequalitymanagementusingdynamiccorrelation",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Microservice API Evolution in Practice: A Study on Strategies and Challenges",
+    "doi": "10.1016/j.jss.2024.112110",
+    "year": "2024",
+    "norm_title": "microserviceapievolutioninpracticeastudyonstrategiesandchallenges",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Multi-objective optimization of deployment topologies for distributed applications",
+    "doi": "10.1145/3106158",
+    "year": "2018",
+    "norm_title": "multiobjectiveoptimizationofdeploymenttopologiesfordistributedapplications",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Microservice Security Metrics for Secure Communication, Identity Management, and Observability",
+    "doi": "10.1145/3532183",
+    "year": "2023",
+    "norm_title": "microservicesecuritymetricsforsecurecommunicationidentitymanagementandobservabil",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Kieker: A monitoring framework for software engineering research",
+    "doi": "10.1016/j.simpa.2020.100019",
+    "year": "2020",
+    "norm_title": "kiekeramonitoringframeworkforsoftwareengineeringresearch",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Combining multiple granularity variability in a software product line approach for web engineering",
+    "doi": "10.1016/j.infsof.2022.106910",
+    "year": "2022",
+    "norm_title": "combiningmultiplegranularityvariabilityinasoftwareproductlineapproachforwebengin",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A systematic literature review on trust in the software ecosystem",
+    "doi": "10.1007/s10664-022-10238-y",
+    "year": "2023",
+    "norm_title": "asystematicliteraturereviewontrustinthesoftwareecosystem",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A systematic mapping study of software performance research",
+    "doi": "10.1002/spe.3185",
+    "year": "2023",
+    "norm_title": "asystematicmappingstudyofsoftwareperformanceresearch",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Dependability attributes for increased security in component-based software development",
+    "doi": "10.3844/jcssp.2014.1298.1306",
+    "year": "2014",
+    "norm_title": "dependabilityattributesforincreasedsecurityincomponentbasedsoftwaredevelopment",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "The workflow trace archive: Open-access data from public and private computing infrastructures",
+    "doi": "10.1109/tpds.2020.2984821",
+    "year": "2020",
+    "norm_title": "theworkflowtracearchiveopenaccessdatafrompublicandprivatecomputinginfrastructure",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "DEVELOPMENT OF INTELLIGENT MODEL-TECHNOLOGICAL TOOLS FOR E-BANKING SYSTEMS BASED ON MICROSERVICES",
+    "doi": "10.15587/1729-4061.2026.351604",
+    "year": "2026",
+    "norm_title": "developmentofintelligentmodeltechnologicaltoolsforebankingsystemsbasedonmicroser",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Understanding the issues, their causes and solutions in microservices systems: An empirical study",
+    "doi": "10.1016/j.jss.2026.112828",
+    "year": "2026",
+    "norm_title": "understandingtheissuestheircausesandsolutionsinmicroservicessystemsanempiricalst",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A taxonomy of techniques for SLO failure prediction in software systems",
+    "doi": "10.3390/computers9010010",
+    "year": "2020",
+    "norm_title": "ataxonomyoftechniquesforslofailurepredictioninsoftwaresystems",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Quality-centric security pattern mutations",
+    "doi": "10.1007/s11219-019-09454-5",
+    "year": "2019",
+    "norm_title": "qualitycentricsecuritypatternmutations",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Survey on software design-pattern specification languages",
+    "doi": "10.1145/2926966",
+    "year": "2017",
+    "norm_title": "surveyonsoftwaredesignpatternspecificationlanguages",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "C-ADL: A causal architecture description language for design-time root cause analysis and counterfactual reasoning in distributed systems",
+    "doi": "10.1016/j.jss.2026.112902",
+    "year": "2026",
+    "norm_title": "cadlacausalarchitecturedescriptionlanguagefordesigntimerootcauseanalysisandcount",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Model-based prediction of automatic memory management and garbage collection behavior",
+    "doi": "10.1016/j.simpat.2018.09.014",
+    "year": "2019",
+    "norm_title": "modelbasedpredictionofautomaticmemorymanagementandgarbagecollectionbehavior",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A software architecture assisting workflow executions on cloud resources",
+    "doi": "10.1515/eletel-2015-0002",
+    "year": "2015",
+    "norm_title": "asoftwarearchitectureassistingworkflowexecutionsoncloudresources",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "phase1_exc",
+    "mendeley_tag": "phase1_exc--a-software-architecture-assisting-workflow-executions-on-cloud-resources"
+  },
+  {
+    "title": "Quantum Software Engineering: Roadmap and Challenges Ahead",
+    "doi": "10.1145/3712002",
+    "year": "2025",
+    "norm_title": "quantumsoftwareengineeringroadmapandchallengesahead",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Integrating profile-driven parallelism detection and Machine-Learning-based Mapping",
+    "doi": "10.1145/2579561",
+    "year": "2014",
+    "norm_title": "integratingprofiledrivenparallelismdetectionandmachinelearningbasedmapping",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "From legacy to microservices: A type-based approach for microservices identification using machine learning and semantic analysis",
+    "doi": "10.1002/smr.2503",
+    "year": "2023",
+    "norm_title": "fromlegacytomicroservicesatypebasedapproachformicroservicesidentificationusingma",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Quality-of-service in cloud computing: A survey",
+    "doi": "",
+    "year": "2016",
+    "norm_title": "qualityofserviceincloudcomputingasurvey",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Network-aware embedding of virtual machine clusters onto federated cloud infrastructure",
+    "doi": "10.1016/j.jss.2016.07.007",
+    "year": "2016",
+    "norm_title": "networkawareembeddingofvirtualmachineclustersontofederatedcloudinfrastructure",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Automated Performance Modeling of HPC Applications Using Machine Learning",
+    "doi": "10.1109/tc.2020.2964767",
+    "year": "2020",
+    "norm_title": "automatedperformancemodelingofhpcapplicationsusingmachinelearning",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Service-Oriented Component-Based Framework for Dynamic Reconfiguration Modeling Targeting SystemC/TLM",
+    "doi": "10.1155/2021/5584391",
+    "year": "2021",
+    "norm_title": "aserviceorientedcomponentbasedframeworkfordynamicreconfigurationmodelingtargetin",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "FC2Q: Exploiting fuzzy control in server consolidation for cloud applications with SLA constraints",
+    "doi": "10.1002/cpe.3410",
+    "year": "2015",
+    "norm_title": "fc2qexploitingfuzzycontrolinserverconsolidationforcloudapplicationswithslaconstr",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A survey on detection and prevention of web vulnerabilities",
+    "doi": "10.14569/ijacsa.2020.0110665",
+    "year": "2020",
+    "norm_title": "asurveyondetectionandpreventionofwebvulnerabilities",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "DRViT: A dynamic redundancy-aware vision transformer accelerator via algorithm and architecture co-design on FPGA",
+    "doi": "10.1016/j.jpdc.2025.105042",
+    "year": "2025",
+    "norm_title": "drvitadynamicredundancyawarevisiontransformeracceleratorviaalgorithmandarchitect",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Workload Generators for Web-Based Systems: Characteristics, Current Status, and Challenges",
+    "doi": "10.1109/comst.2018.2798641",
+    "year": "2018",
+    "norm_title": "workloadgeneratorsforwebbasedsystemscharacteristicscurrentstatusandchallenges",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "An adaptable distributed trust management framework for large-scale secure service-based systems",
+    "doi": "10.1007/s00607-013-0354-9",
+    "year": "2014",
+    "norm_title": "anadaptabledistributedtrustmanagementframeworkforlargescalesecureservicebasedsys",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Architecture optimization: speed or accuracy? both!",
+    "doi": "10.1007/s11219-016-9343-5",
+    "year": "2018",
+    "norm_title": "architectureoptimizationspeedoraccuracyboth",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Framework and Taxonomy for Characterizing the Applicability of Software Architecture Recovery Approaches: A Tertiary-Mapping Study",
+    "doi": "10.1002/spe.3364",
+    "year": "2025",
+    "norm_title": "aframeworkandtaxonomyforcharacterizingtheapplicabilityofsoftwarearchitecturereco",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Security transparency: the next frontier for security research in the cloud",
+    "doi": "10.1186/s13677-015-0037-5",
+    "year": "2015",
+    "norm_title": "securitytransparencythenextfrontierforsecurityresearchinthecloud",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Pragmatic verification and validation of industrial executable SysML models",
+    "doi": "10.1002/sys.21679",
+    "year": "2023",
+    "norm_title": "pragmaticverificationandvalidationofindustrialexecutablesysmlmodels",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "UML model refactoring: a systematic literature review",
+    "doi": "10.1007/s10664-013-9283-7",
+    "year": "2015",
+    "norm_title": "umlmodelrefactoringasystematicliteraturereview",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Maaker: A framework for detecting and defeating evasion techniques in Android malware",
+    "doi": "10.1016/j.jisa.2023.103617",
+    "year": "2023",
+    "norm_title": "maakeraframeworkfordetectinganddefeatingevasiontechniquesinandroidmalware",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Harnessing Data Movement in Virtual Clusters for In-Situ Execution",
+    "doi": "10.1109/tpds.2018.2867879",
+    "year": "2019",
+    "norm_title": "harnessingdatamovementinvirtualclustersforinsituexecution",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "An approach for modeling and detecting software performance antipatterns based on first-order logics",
+    "doi": "10.1007/s10270-012-0246-z",
+    "year": "2014",
+    "norm_title": "anapproachformodelinganddetectingsoftwareperformanceantipatternsbasedonfirstorde",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Blockchain oriented hyperledger based performance driven framework for mass e-voting",
+    "doi": "10.3233/idt-210014",
+    "year": "2021",
+    "norm_title": "blockchainorientedhyperledgerbasedperformancedrivenframeworkformassevoting",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A review on conformance checking technique for the evaluation of process mining algorithms",
+    "doi": "10.18421/tem84-18",
+    "year": "2019",
+    "norm_title": "areviewonconformancecheckingtechniquefortheevaluationofprocessminingalgorithms",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "a-review-on-conformance-checking-technique-for-the-evaluation-of-process-mining-algorithms"
+  },
+  {
+    "title": "Model-driven engineering of Manufacturing Automation Software Projects - A SysML-based approach",
+    "doi": "10.1016/j.mechatronics.2014.05.003",
+    "year": "2014",
+    "norm_title": "modeldrivenengineeringofmanufacturingautomationsoftwareprojectsasysmlbasedapproa",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Parallel Flexible Heuristic Miner for Process Discovery",
+    "doi": "10.1007/s42979-023-01948-1",
+    "year": "2023",
+    "norm_title": "parallelflexibleheuristicminerforprocessdiscovery",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Complexity is dead, long live complexity! How software can help service providers manage security and compliance",
+    "doi": "10.1016/j.cose.2014.05.012",
+    "year": "2014",
+    "norm_title": "complexityisdeadlonglivecomplexityhowsoftwarecanhelpserviceprovidersmanagesecuri",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A systematic literature review on energy efficiency in cloud software architectures",
+    "doi": "10.1016/j.suscom.2014.11.004",
+    "year": "2015",
+    "norm_title": "asystematicliteraturereviewonenergyefficiencyincloudsoftwarearchitectures",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Understanding security tactics in microservice APIs using annotated software architecture decomposition models – a controlled experiment",
+    "doi": "10.1007/s10664-024-10601-1",
+    "year": "2025",
+    "norm_title": "understandingsecuritytacticsinmicroserviceapisusingannotatedsoftwarearchitecture",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Toward the automation of a QoS-driven SLA establishment in the Cloud",
+    "doi": "10.1007/s11761-015-0187-9",
+    "year": "2016",
+    "norm_title": "towardtheautomationofaqosdrivenslaestablishmentinthecloud",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Do Performance Aspirations Matter for Guiding Software Configuration Tuning? An Empirical Investigation under Dual Performance Objectives",
+    "doi": "10.1145/3571853",
+    "year": "2023",
+    "norm_title": "doperformanceaspirationsmatterforguidingsoftwareconfigurationtuninganempiricalin",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Motivations, Challenges, Best Practices, and Benefits for Bots and Conversational Agents in Software Engineering: A Multivocal Literature Review",
+    "doi": "10.1145/3704806",
+    "year": "2024",
+    "norm_title": "motivationschallengesbestpracticesandbenefitsforbotsandconversationalagentsinsof",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Model driven transformation development (MDTD): An approach for developing model to model transformation",
+    "doi": "10.1016/j.infsof.2019.06.004",
+    "year": "2019",
+    "norm_title": "modeldriventransformationdevelopmentmdtdanapproachfordevelopingmodeltomodeltrans",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Coordinating REST interactions in service choreographies using blockchain",
+    "doi": "10.1016/j.bcra.2024.100241",
+    "year": "2025",
+    "norm_title": "coordinatingrestinteractionsinservicechoreographiesusingblockchain",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Analyzing execution traces: critical-path analysis and distance analysis",
+    "doi": "10.1007/s10009-016-0436-z",
+    "year": "2017",
+    "norm_title": "analyzingexecutiontracescriticalpathanalysisanddistanceanalysis",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Acceleration Methods for Processor Microarchitecture Design Space Exploration: A Survey; [面向处理器微架构设计空间探索的加速方法综述]",
+    "doi": "10.7544/issn1000-1239.202330348",
+    "year": "2025",
+    "norm_title": "accelerationmethodsforprocessormicroarchitecturedesignspaceexplorationasurvey面向处",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Design and evaluation of a biologically-inspired cloud elasticity framework",
+    "doi": "10.1007/s10586-020-03073-7",
+    "year": "2020",
+    "norm_title": "designandevaluationofabiologicallyinspiredcloudelasticityframework",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Hierarchical process model discovery algorithm for CRS systems",
+    "doi": "10.24425/bpasts.2025.155043",
+    "year": "2026",
+    "norm_title": "hierarchicalprocessmodeldiscoveryalgorithmforcrssystems",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "ReSIde: Reusable service identification from software families",
+    "doi": "10.1016/j.jss.2020.110748",
+    "year": "2020",
+    "norm_title": "residereusableserviceidentificationfromsoftwarefamilies",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Cross-Layer Multi-Cloud Real-Time Application QoS Monitoring and Benchmarking As-a-Service Framework",
+    "doi": "10.1109/tcc.2015.2441715",
+    "year": "2019",
+    "norm_title": "crosslayermulticloudrealtimeapplicationqosmonitoringandbenchmarkingasaservicefra",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A survey on the complementarity between database and ontologies: Principles and research areas",
+    "doi": "10.1504/ijcat.2014.060528",
+    "year": "2014",
+    "norm_title": "asurveyonthecomplementaritybetweendatabaseandontologiesprinciplesandresearcharea",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Sonnet: A control-theoretic approach for resource allocation in cluster management",
+    "doi": "10.1016/j.future.2023.11.019",
+    "year": "2024",
+    "norm_title": "sonnetacontroltheoreticapproachforresourceallocationinclustermanagement",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "DeLag: Using Multi-Objective Optimization to Enhance the Detection of Latency Degradation Patterns in Service-Based Systems",
+    "doi": "10.1109/tse.2023.3266041",
+    "year": "2023",
+    "norm_title": "delagusingmultiobjectiveoptimizationtoenhancethedetectionoflatencydegradationpat",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Microscaler: Cost-Effective Scaling for Microservice Applications in the Cloud With an Online Learning Approach",
+    "doi": "10.1109/tcc.2020.2985352",
+    "year": "2022",
+    "norm_title": "microscalercosteffectivescalingformicroserviceapplicationsinthecloudwithanonline",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "DICE simulation: a tool for software performance assessment at the design stage",
+    "doi": "10.1007/s10515-022-00335-z",
+    "year": "2022",
+    "norm_title": "dicesimulationatoolforsoftwareperformanceassessmentatthedesignstage",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A transformation strategy for process partitioning in hierarchical concurrent process networks",
+    "doi": "10.1016/j.sysarc.2025.103509",
+    "year": "2025",
+    "norm_title": "atransformationstrategyforprocesspartitioninginhierarchicalconcurrentprocessnetw",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A task-level parallelism approach for process discovery",
+    "doi": "10.14419/ijet.v7i4.14748",
+    "year": "2018",
+    "norm_title": "atasklevelparallelismapproachforprocessdiscovery",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Modeling run-time adaptation at the system architecture level in dynamic service-oriented environments",
+    "doi": "10.1007/s11761-013-0144-4",
+    "year": "2014",
+    "norm_title": "modelingruntimeadaptationatthesystemarchitecturelevelindynamicserviceorientedenv",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "modeling-run-time-adaptation-at-the-system-architecture-level-in-dynamic-service-oriented-environments"
+  },
+  {
+    "title": "Severity: a QoS-aware approach to cloud application elasticity",
+    "doi": "10.1186/s13677-021-00255-5",
+    "year": "2021",
+    "norm_title": "severityaqosawareapproachtocloudapplicationelasticity",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "severity:-a-qos-aware-approach-to-cloud-application-elasticity"
+  },
+  {
+    "title": "Building hybrid access control by configuring RBAC and MAC features",
+    "doi": "10.1016/j.infsof.2014.02.003",
+    "year": "2014",
+    "norm_title": "buildinghybridaccesscontrolbyconfiguringrbacandmacfeatures",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Temporal-Perturbation Aware Reliability Sensitivity Measurement for Adaptive Cloud Service Selection",
+    "doi": "10.1109/tsc.2020.3046360",
+    "year": "2022",
+    "norm_title": "temporalperturbationawarereliabilitysensitivitymeasurementforadaptivecloudservic",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "ARES: A Framework for Management of Aging and Rejuvenation in Softwarized Networks",
+    "doi": "10.1109/tnsm.2020.3030589",
+    "year": "2021",
+    "norm_title": "aresaframeworkformanagementofagingandrejuvenationinsoftwarizednetworks",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "ERASE: Energy Efficient Task Mapping and Resource Management for Work Stealing Runtimes",
+    "doi": "10.1145/3510422",
+    "year": "2022",
+    "norm_title": "eraseenergyefficienttaskmappingandresourcemanagementforworkstealingruntimes",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Prediction of quality using ANN based on Teaching-Learning Optimization in component-based software systems",
+    "doi": "10.1002/spe.2562",
+    "year": "2018",
+    "norm_title": "predictionofqualityusingannbasedonteachinglearningoptimizationincomponentbasedso",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Software frameworks for SDR",
+    "doi": "10.1109/jproc.2015.2391176",
+    "year": "2015",
+    "norm_title": "softwareframeworksforsdr",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Conformance assessment of Architectural Design Decisions on API endpoint designs derived from domain models",
+    "doi": "10.1016/j.jss.2022.111433",
+    "year": "2022",
+    "norm_title": "conformanceassessmentofarchitecturaldesigndecisionsonapiendpointdesignsderivedfr",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "When traceability goes awry: An industrial experience report",
+    "doi": "10.1016/j.jss.2022.111389",
+    "year": "2022",
+    "norm_title": "whentraceabilitygoesawryanindustrialexperiencereport",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Rusty: Runtime Interference-Aware Predictive Monitoring for Modern Multi-Tenant Systems",
+    "doi": "10.1109/tpds.2020.3013948",
+    "year": "2021",
+    "norm_title": "rustyruntimeinterferenceawarepredictivemonitoringformodernmultitenantsystems",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Experiences in autotuning matrix multiplication for energy minimization on GPUs",
+    "doi": "10.1002/cpe.3516",
+    "year": "2015",
+    "norm_title": "experiencesinautotuningmatrixmultiplicationforenergyminimizationongpus",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Using Squeeziness to test component-based systems defined as Finite State Machines",
+    "doi": "10.1016/j.infsof.2019.04.012",
+    "year": "2019",
+    "norm_title": "usingsqueezinesstotestcomponentbasedsystemsdefinedasfinitestatemachines",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Automated QoS-oriented cloud resource optimization using containers",
+    "doi": "10.1007/s10515-016-0191-0",
+    "year": "2017",
+    "norm_title": "automatedqosorientedcloudresourceoptimizationusingcontainers",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Autonomic Management Framework for Cloud-Native Applications",
+    "doi": "10.1007/s10723-020-09532-0",
+    "year": "2020",
+    "norm_title": "autonomicmanagementframeworkforcloudnativeapplications",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Optimized Sampling Strategies to Model the Performance of Virtualized Network Functions",
+    "doi": "10.1007/s10922-020-09547-8",
+    "year": "2020",
+    "norm_title": "optimizedsamplingstrategiestomodeltheperformanceofvirtualizednetworkfunctions",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "optimized-sampling-strategies-to-model-the-performance-of-virtualized-network-functions"
+  },
+  {
+    "title": "Migrating Monoliths to Microservices Integrating Robotic Process Automation into the Migration Approach",
+    "doi": "10.14313/jamris/1-2022/8",
+    "year": "2022",
+    "norm_title": "migratingmonolithstomicroservicesintegratingroboticprocessautomationintothemigra",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Role network model-based support for RESTful business processes",
+    "doi": "10.1016/j.datak.2014.08.001",
+    "year": "2014",
+    "norm_title": "rolenetworkmodelbasedsupportforrestfulbusinessprocesses",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A taxonomy of service identification approaches for legacy software systems modernization",
+    "doi": "10.1016/j.jss.2020.110868",
+    "year": "2021",
+    "norm_title": "ataxonomyofserviceidentificationapproachesforlegacysoftwaresystemsmodernization",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Backward Reconfiguration Management for Modular Avionic Reconfigurable Systems",
+    "doi": "10.1109/jsyst.2016.2562020",
+    "year": "2018",
+    "norm_title": "backwardreconfigurationmanagementformodularavionicreconfigurablesystems",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Multi-dimensional model driven policy generation",
+    "doi": "10.1007/978-3-319-11561-0_5",
+    "year": "2014",
+    "norm_title": "multidimensionalmodeldrivenpolicygeneration",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "An ontology-based approach towards comprehensive workflow modelling",
+    "doi": "10.1049/iet-sen.2013.0037",
+    "year": "2014",
+    "norm_title": "anontologybasedapproachtowardscomprehensiveworkflowmodelling",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "LLM-Driven, Self-Improving Framework for Security Test Automation: Leveraging Karate DSL for Augmented API Resilience",
+    "doi": "10.1109/access.2025.3554960",
+    "year": "2025",
+    "norm_title": "llmdrivenselfimprovingframeworkforsecuritytestautomationleveragingkaratedslforau",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Web application testing: A systematic literature review",
+    "doi": "10.1016/j.jss.2014.01.010",
+    "year": "2014",
+    "norm_title": "webapplicationtestingasystematicliteraturereview",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "An Objective-Driven On-Demand Network Abstraction for Adaptive Applications",
+    "doi": "10.1109/tnet.2019.2899905",
+    "year": "2019",
+    "norm_title": "anobjectivedrivenondemandnetworkabstractionforadaptiveapplications",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Energy-driven design space exploration of tiling-based accelerators for heterogeneous multiprocessor architectures",
+    "doi": "10.1016/j.micpro.2020.103138",
+    "year": "2020",
+    "norm_title": "energydrivendesignspaceexplorationoftilingbasedacceleratorsforheterogeneousmulti",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Quality-of-service in cloud computing: modeling techniques and their applications",
+    "doi": "10.1186/s13174-014-0011-3",
+    "year": "2014",
+    "norm_title": "qualityofserviceincloudcomputingmodelingtechniquesandtheirapplications",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Discovery Method for Hierarchical Software Execution Behavior Models Based on Components",
+    "doi": "10.1155/2021/4788357",
+    "year": "2021",
+    "norm_title": "adiscoverymethodforhierarchicalsoftwareexecutionbehaviormodelsbasedoncomponents",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "ProMARTES: Accurate network and computation delay prediction for component-based distributed systems",
+    "doi": "10.1016/j.jss.2016.03.068",
+    "year": "2016",
+    "norm_title": "promartesaccuratenetworkandcomputationdelaypredictionforcomponentbaseddistribute",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Development of Ontology for Semantic Structure of Strategic Alignment Framework for IT Projects Combining PMBOK, PMI and VAL IT",
+    "doi": "10.22266/ijies2021.1031.40",
+    "year": "2021",
+    "norm_title": "developmentofontologyforsemanticstructureofstrategicalignmentframeworkforitproje",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Developing and evolving a DSL-based approach for runtime monitoring of systems of systems",
+    "doi": "10.1007/s10515-018-0241-x",
+    "year": "2018",
+    "norm_title": "developingandevolvingadslbasedapproachforruntimemonitoringofsystemsofsystems",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Transpiler-Based Architecture Design Model for Back-End Layers in Software Development",
+    "doi": "10.3390/app132011371",
+    "year": "2023",
+    "norm_title": "transpilerbasedarchitecturedesignmodelforbackendlayersinsoftwaredevelopment",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Modern tools and current trends in web-development",
+    "doi": "10.11591/ijeecs.v24.i2.pp978-985",
+    "year": "2021",
+    "norm_title": "moderntoolsandcurrenttrendsinwebdevelopment",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Tracing Optimization for Performance Modeling and Regression Detection",
+    "doi": "10.1145/3749839",
+    "year": "2026",
+    "norm_title": "tracingoptimizationforperformancemodelingandregressiondetection",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "phase1_inc",
+    "mendeley_tag": "phase1_inc--tracing-optimization-for-performance-modeling-and-regression-detection"
+  },
+  {
+    "title": "Software artefacts consistency management towards continuous integration: A roadmap",
+    "doi": "10.14569/ijacsa.2019.0100411",
+    "year": "2019",
+    "norm_title": "softwareartefactsconsistencymanagementtowardscontinuousintegrationaroadmap",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "untagged",
+    "mendeley_tag": "software-artefacts-consistency-management-towards-continuous-integration:-a-roadmap"
+  },
+  {
+    "title": "System coupling and cohesion requirements model (SC2RM): Measurement approach for real time system",
+    "doi": "",
+    "year": "2018",
+    "norm_title": "systemcouplingandcohesionrequirementsmodelsc2rmmeasurementapproachforrealtimesys",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Improving Scalability in Traffic Engineering via Optical Topology Programming",
+    "doi": "10.1109/tnsm.2023.3335898",
+    "year": "2024",
+    "norm_title": "improvingscalabilityintrafficengineeringviaopticaltopologyprogramming",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Modeling Performance of Microservices Systems with Growth Theory",
+    "doi": "10.1007/s10664-021-10088-0",
+    "year": "2022",
+    "norm_title": "modelingperformanceofmicroservicessystemswithgrowththeory",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "LLM-Driven Adaptive Cloud Resource Scheduling: Bridging Reasoning Intelligence With Optimization Guarantees",
+    "doi": "10.1109/ojcs.2026.3667549",
+    "year": "2026",
+    "norm_title": "llmdrivenadaptivecloudresourceschedulingbridgingreasoningintelligencewithoptimiz",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Model-driven reverse engineering approaches: A systematic literature review",
+    "doi": "10.1109/access.2017.2733518",
+    "year": "2017",
+    "norm_title": "modeldrivenreverseengineeringapproachesasystematicliteraturereview",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "FCMS: A fuzzy controller for CPU and memory consolidation under SLA constraints",
+    "doi": "10.1002/cpe.3968",
+    "year": "2017",
+    "norm_title": "fcmsafuzzycontrollerforcpuandmemoryconsolidationunderslaconstraints",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Petri Nets and Deep Petri Nets for Simulation, Modeling and Analysis of Complex Systems",
+    "doi": "10.15849/ijasca.251130.09",
+    "year": "2025",
+    "norm_title": "petrinetsanddeeppetrinetsforsimulationmodelingandanalysisofcomplexsystems",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "PROPHET: Efficient and Intelligent Orchestrator for Microservices Scheduling and Scaling",
+    "doi": "10.1109/ton.2026.3658319",
+    "year": "2026",
+    "norm_title": "prophetefficientandintelligentorchestratorformicroservicesschedulingandscaling",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Towards a pattern-based model transformation framework",
+    "doi": "10.1002/spe.3215",
+    "year": "2023",
+    "norm_title": "towardsapatternbasedmodeltransformationframework",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Layout Lock: A Scalable Locking Paradigm for Concurrent Data Layout Modifications",
+    "doi": "10.1145/3018743.3018753",
+    "year": "2017",
+    "norm_title": "layoutlockascalablelockingparadigmforconcurrentdatalayoutmodifications",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Model-based security testing: A taxonomy and systematic classification",
+    "doi": "10.1002/stvr.1580",
+    "year": "2016",
+    "norm_title": "modelbasedsecuritytestingataxonomyandsystematicclassification",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Opening up ROADMs: Streaming telemetry [Invited]",
+    "doi": "10.1364/jocn.425167",
+    "year": "2021",
+    "norm_title": "openinguproadmsstreamingtelemetryinvited",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Super Spreader Identification Using Geometric-Min Filter",
+    "doi": "10.1109/tnet.2021.3108033",
+    "year": "2022",
+    "norm_title": "superspreaderidentificationusinggeometricminfilter",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "An empirical analysis for software robustness vulnerability in terms of modularity quality",
+    "doi": "10.1002/sys.21686",
+    "year": "2023",
+    "norm_title": "anempiricalanalysisforsoftwarerobustnessvulnerabilityintermsofmodularityquality",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Software process and quality evaluation for semantic web applications",
+    "doi": "10.1080/02564602.2014.967317",
+    "year": "2014",
+    "norm_title": "softwareprocessandqualityevaluationforsemanticwebapplications",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Large Language Model-Brained GUI Agents: A Survey",
+    "doi": "",
+    "year": "2025",
+    "norm_title": "largelanguagemodelbrainedguiagentsasurvey",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Understanding the Effect of Hyperparameter Optimization on Machine Learning Models for Structure Design Problems",
+    "doi": "10.1016/j.cad.2021.103013",
+    "year": "2021",
+    "norm_title": "understandingtheeffectofhyperparameteroptimizationonmachinelearningmodelsforstru",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "On Representing Resilience Requirements of Microservice Architecture Systems",
+    "doi": "10.1142/s0218194021500261",
+    "year": "2021",
+    "norm_title": "onrepresentingresiliencerequirementsofmicroservicearchitecturesystems",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Less is not more: We need rich datasets to explore",
+    "doi": "10.1016/j.future.2022.12.022",
+    "year": "2023",
+    "norm_title": "lessisnotmoreweneedrichdatasetstoexplore",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A systematic review of approaches for testing concurrent programs",
+    "doi": "10.1002/cpe.3711",
+    "year": "2016",
+    "norm_title": "asystematicreviewofapproachesfortestingconcurrentprograms",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A fuzzy logic-based quality model for identifying microservices with low maintainability",
+    "doi": "10.1016/j.jss.2024.112143",
+    "year": "2024",
+    "norm_title": "afuzzylogicbasedqualitymodelforidentifyingmicroserviceswithlowmaintainability",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Comprehensive survey on data warehousing research",
+    "doi": "10.1007/s41870-017-0067-y",
+    "year": "2018",
+    "norm_title": "comprehensivesurveyondatawarehousingresearch",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "SpChar: Characterizing the sparse puzzle via decision trees",
+    "doi": "10.1016/j.jpdc.2024.104941",
+    "year": "2024",
+    "norm_title": "spcharcharacterizingthesparsepuzzleviadecisiontrees",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Using MDE to support sustainable software re-engineering",
+    "doi": "10.5381/jot.2025.24.2.a15",
+    "year": "2025",
+    "norm_title": "usingmdetosupportsustainablesoftwarereengineering",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Model-based assisted migration of oracle forms applications: The overall process in an industrial setting",
+    "doi": "10.1002/spe.2981",
+    "year": "2021",
+    "norm_title": "modelbasedassistedmigrationoforacleformsapplicationstheoverallprocessinanindustr",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Exploiting load testing and profiling for Performance Antipattern Detection",
+    "doi": "10.1016/j.infsof.2017.11.016",
+    "year": "2018",
+    "norm_title": "exploitingloadtestingandprofilingforperformanceantipatterndetection",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Software landscape and application visualization for system comprehension with ExplorViz",
+    "doi": "10.1016/j.infsof.2016.07.004",
+    "year": "2017",
+    "norm_title": "softwarelandscapeandapplicationvisualizationforsystemcomprehensionwithexplorviz",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A framework for temporal verification support in domain-specific modelling",
+    "doi": "10.1109/tse.2018.2859946",
+    "year": "2020",
+    "norm_title": "aframeworkfortemporalverificationsupportindomainspecificmodelling",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Establishment of rule dictionary for efficient XACML policy management",
+    "doi": "10.1016/j.knosys.2019.03.015",
+    "year": "2019",
+    "norm_title": "establishmentofruledictionaryforefficientxacmlpolicymanagement",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "White-box modernization of legacy applications: The oracle forms case study",
+    "doi": "10.1016/j.csi.2017.10.004",
+    "year": "2018",
+    "norm_title": "whiteboxmodernizationoflegacyapplicationstheoracleformscasestudy",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "From model-driven specification to design-level set-based analysis of XACML policies",
+    "doi": "10.1016/j.compeleceng.2015.09.021",
+    "year": "2016",
+    "norm_title": "frommodeldrivenspecificationtodesignlevelsetbasedanalysisofxacmlpolicies",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Decentralized plan-free semantic-based service composition in mobile networks",
+    "doi": "10.1109/tsc.2013.2297114",
+    "year": "2015",
+    "norm_title": "decentralizedplanfreesemanticbasedservicecompositioninmobilenetworks",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "COW-IMM: A Novel Integrity Measurement Method Based on Copy-on-Write for File in Virtual Machine",
+    "doi": "10.1109/access.2018.2865879",
+    "year": "2018",
+    "norm_title": "cowimmanovelintegritymeasurementmethodbasedoncopyonwriteforfileinvirtualmachine",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Detection of Common Problems in Real-Time and Multicore Systems Using Model-Based Constraints",
+    "doi": "10.1155/2016/9792462",
+    "year": "2016",
+    "norm_title": "detectionofcommonproblemsinrealtimeandmulticoresystemsusingmodelbasedconstraints",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Survey on Load Testing of Large-Scale Software Systems",
+    "doi": "10.1109/tse.2015.2445340",
+    "year": "2015",
+    "norm_title": "asurveyonloadtestingoflargescalesoftwaresystems",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Behaviour abstraction adequacy criteria for API call protocol testing",
+    "doi": "10.1002/stvr.1593",
+    "year": "2016",
+    "norm_title": "behaviourabstractionadequacycriteriaforapicallprotocoltesting",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Many-objective optimization of non-functional attributes based on refactoring of software models",
+    "doi": "10.1016/j.infsof.2023.107159",
+    "year": "2023",
+    "norm_title": "manyobjectiveoptimizationofnonfunctionalattributesbasedonrefactoringofsoftwaremo",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Fully Automated Software Product Line Evolution With Diverse Artifacts",
+    "doi": "10.1109/access.2025.3539868",
+    "year": "2025",
+    "norm_title": "fullyautomatedsoftwareproductlineevolutionwithdiverseartifacts",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Providing QoS strategies and cloud-integration to web servers by means of aspects",
+    "doi": "10.1002/cpe.3031",
+    "year": "2015",
+    "norm_title": "providingqosstrategiesandcloudintegrationtowebserversbymeansofaspects",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "EXPLORING SOFTWARE ENGINEERING KNOWLEDGE DOMAINS",
+    "doi": "10.60063/gsu.fmi.111.35-53",
+    "year": "2024",
+    "norm_title": "exploringsoftwareengineeringknowledgedomains",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Location disclosure risks of releasing trajectory distances",
+    "doi": "10.1016/j.datak.2017.10.001",
+    "year": "2018",
+    "norm_title": "locationdisclosurerisksofreleasingtrajectorydistances",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Decision-making in IT service management: A simulation based approach",
+    "doi": "10.1016/j.dss.2014.06.002",
+    "year": "2014",
+    "norm_title": "decisionmakinginitservicemanagementasimulationbasedapproach",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Enterprise Architecture and IT Governance to Support the BizDevOps Approach: a Systematic Mapping Study",
+    "doi": "10.1007/s10796-024-10473-2",
+    "year": "2025",
+    "norm_title": "enterprisearchitectureanditgovernancetosupportthebizdevopsapproachasystematicmap",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Retriever: A view-based approach to reverse engineering software architecture models",
+    "doi": "10.1016/j.jss.2024.112277",
+    "year": "2025",
+    "norm_title": "retrieveraviewbasedapproachtoreverseengineeringsoftwarearchitecturemodels",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A systematic mapping study on architectural smells detection",
+    "doi": "10.1016/j.jss.2020.110885",
+    "year": "2021",
+    "norm_title": "asystematicmappingstudyonarchitecturalsmellsdetection",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Exploring indicators of engagement: applications for gamification of online training systems",
+    "doi": "",
+    "year": "2020",
+    "norm_title": "exploringindicatorsofengagementapplicationsforgamificationofonlinetrainingsystem",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Why increasing the hit ratio can hurt cache throughput",
+    "doi": "10.1007/s11134-026-09986-1",
+    "year": "2026",
+    "norm_title": "whyincreasingthehitratiocanhurtcachethroughput",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Resilient LLM-Driven Token-Based MAC Protocols via Zero-Shot Adaptation and Knowledge Distillation",
+    "doi": "10.1109/jsac.2025.3644282",
+    "year": "2026",
+    "norm_title": "resilientllmdriventokenbasedmacprotocolsviazeroshotadaptationandknowledgedistill",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Architecture-centric support for adaptive service collaborations",
+    "doi": "10.1145/2559937",
+    "year": "2014",
+    "norm_title": "architecturecentricsupportforadaptiveservicecollaborations",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Verifying big data topologies by-design: a semi-automated approach",
+    "doi": "10.1186/s40537-019-0199-y",
+    "year": "2019",
+    "norm_title": "verifyingbigdatatopologiesbydesignasemiautomatedapproach",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A survey of methods and approaches for reliable dynamic service compositions",
+    "doi": "10.1007/s11761-013-0153-3",
+    "year": "2014",
+    "norm_title": "asurveyofmethodsandapproachesforreliabledynamicservicecompositions",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Practical Approach to Formal Methods: An Eclipse Integrated Development Environment (IDE) for Security Protocols",
+    "doi": "10.3390/electronics13234660",
+    "year": "2024",
+    "norm_title": "apracticalapproachtoformalmethodsaneclipseintegrateddevelopmentenvironmentidefor",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Modeling and extracting load intensity profiles",
+    "doi": "10.1145/3019596",
+    "year": "2017",
+    "norm_title": "modelingandextractingloadintensityprofiles",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "TFDepth: Text-guided multi-scale fusion network for monocular depth estimation",
+    "doi": "10.1016/j.neucom.2026.132781",
+    "year": "2026",
+    "norm_title": "tfdepthtextguidedmultiscalefusionnetworkformonoculardepthestimation",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "The theoretical basis of enterprise architecture: A critical review and taxonomy of relevant theories",
+    "doi": "10.1177/0268396220977873",
+    "year": "2021",
+    "norm_title": "thetheoreticalbasisofenterprisearchitectureacriticalreviewandtaxonomyofrelevantt",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Automated Security Assessments of Amazon Web Services Environments",
+    "doi": "10.1145/3570903",
+    "year": "2023",
+    "norm_title": "automatedsecurityassessmentsofamazonwebservicesenvironments",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Cybersecurity Enhancement through Blockchain Training (CEBT) – A serious game approach",
+    "doi": "10.1016/j.jjimei.2020.100001",
+    "year": "2021",
+    "norm_title": "cybersecurityenhancementthroughblockchaintrainingcebtaseriousgameapproach",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Information System Services Generation of Business Services Specification and Based on a System-of-Services Logical Architecture Pattern",
+    "doi": "10.1142/s0218843020500021",
+    "year": "2020",
+    "norm_title": "informationsystemservicesgenerationofbusinessservicesspecificationandbasedonasys",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Functional verification of distributed automation systems: Assisting production line operators by an automated model composition",
+    "doi": "10.1007/s00170-019-03791-2",
+    "year": "2019",
+    "norm_title": "functionalverificationofdistributedautomationsystemsassistingproductionlineopera",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Transformation challenges: from software models to performance models",
+    "doi": "10.1007/s10270-013-0385-x",
+    "year": "2014",
+    "norm_title": "transformationchallengesfromsoftwaremodelstoperformancemodels",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "PBScaler: A Bottleneck-Aware Autoscaling Framework for Microservice-Based Applications",
+    "doi": "10.1109/tsc.2024.3376202",
+    "year": "2024",
+    "norm_title": "pbscalerabottleneckawareautoscalingframeworkformicroservicebasedapplications",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "TraceScaler: A Framework for Scaling Load in Real-World Traces for System Evaluation",
+    "doi": "10.1145/3760774",
+    "year": "2025",
+    "norm_title": "tracescaleraframeworkforscalingloadinrealworldtracesforsystemevaluation",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Scalable distributed control plane for On-line social networks support cognitive neural computing in software defined networks",
+    "doi": "10.1016/j.future.2018.01.054",
+    "year": "2019",
+    "norm_title": "scalabledistributedcontrolplaneforonlinesocialnetworkssupportcognitiveneuralcomp",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Cost effective network flow measurement for software defined networks: A distributed controller scenario",
+    "doi": "10.1109/access.2017.2789281",
+    "year": "2018",
+    "norm_title": "costeffectivenetworkflowmeasurementforsoftwaredefinednetworksadistributedcontrol",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Microservice extraction based on knowledge graph from monolithic applications",
+    "doi": "10.1016/j.infsof.2022.106992",
+    "year": "2022",
+    "norm_title": "microserviceextractionbasedonknowledgegraphfrommonolithicapplications",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Microservice Maintainability Measurement Based on Multi-sourced Feature Space; [基于多源特征空间的微服务可维护性评估]",
+    "doi": "10.13328/j.cnki.jos.006235",
+    "year": "2021",
+    "norm_title": "microservicemaintainabilitymeasurementbasedonmultisourcedfeaturespace基于多源特征空间的微服",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A model-based system to automate cloud resource allocation and optimization",
+    "doi": "10.1007/978-3-319-11653-2_2",
+    "year": "2014",
+    "norm_title": "amodelbasedsystemtoautomatecloudresourceallocationandoptimization",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A survey on big data for network traffic monitoring and analysis",
+    "doi": "10.1109/tnsm.2019.2933358",
+    "year": "2019",
+    "norm_title": "asurveyonbigdatafornetworktrafficmonitoringandanalysis",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A Methodological Approach to Evaluate Security Requirements Engineering Methodologies: Application to the IREHDO2 Project Context",
+    "doi": "10.3390/jcp1030022",
+    "year": "2021",
+    "norm_title": "amethodologicalapproachtoevaluatesecurityrequirementsengineeringmethodologiesapp",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Mutation Testing Advances: An Analysis and Survey",
+    "doi": "10.1016/bs.adcom.2018.03.015",
+    "year": "2019",
+    "norm_title": "mutationtestingadvancesananalysisandsurvey",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Scheduling opportunities for asymmetrically reliable caches",
+    "doi": "10.1016/j.jpdc.2019.01.005",
+    "year": "2019",
+    "norm_title": "schedulingopportunitiesforasymmetricallyreliablecaches",
+    "found_in_dbs": [
+      "Scopus"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Distributed Tracing for Troubleshooting of Native Cloud Applications via Rule-Induction Systems",
+    "doi": "10.3897/jucs.112513",
+    "year": "2023",
+    "norm_title": "distributedtracingfortroubleshootingofnativecloudapplicationsviaruleinductionsys",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Advanced AI-Driven Automation for Smarter Networks: The Modern Observability Advantage",
+    "doi": "10.1109/mcom.001.2500256",
+    "year": "2026",
+    "norm_title": "advancedaidrivenautomationforsmarternetworksthemodernobservabilityadvantage",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "AI-driven fault diagnosis from textual system logs",
+    "doi": "10.33039/ami.2025.10.003",
+    "year": "2025",
+    "norm_title": "aidrivenfaultdiagnosisfromtextualsystemlogs",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Enhancing Infrastructure Observability: Machine Learning for Proactive Monitoring and Anomaly Detection",
+    "doi": "10.5753/jisa.2024.4509",
+    "year": "2024",
+    "norm_title": "enhancinginfrastructureobservabilitymachinelearningforproactivemonitoringandanom",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Field-Deployable Kubernetes Cluster for Enhanced Computing Capabilities in Remote Environments",
+    "doi": "10.3390/app152412991",
+    "year": "2025",
+    "norm_title": "fielddeployablekubernetesclusterforenhancedcomputingcapabilitiesinremoteenvironm",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Cloud-native causal AI for supply chain KPI monitoring: A GCP framework to diagnose out-of-stock events",
+    "doi": "10.1016/j.mlwa.2025.100765",
+    "year": "2025",
+    "norm_title": "cloudnativecausalaiforsupplychainkpimonitoringagcpframeworktodiagnoseoutofstocke",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "MODIFy: A multi-modal anomaly diagnosis framework with diffusion-enhanced adaptive fusion in microservices",
+    "doi": "10.1016/j.jss.2026.112844",
+    "year": "2026",
+    "norm_title": "modifyamultimodalanomalydiagnosisframeworkwithdiffusionenhancedadaptivefusioninm",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "ENHANCING HEALTH MONITORING SYSTEM PERFORMANCE WITH GEO-IP DNS BASED LOAD BALANCING",
+    "doi": "10.24507/ijicic.17.06.1937",
+    "year": "2021",
+    "norm_title": "enhancinghealthmonitoringsystemperformancewithgeoipdnsbasedloadbalancing",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "LEMAD: LLM-Empowered Multi-Agent System for Anomaly Detection in Power Grid Services",
+    "doi": "10.3390/electronics14153008",
+    "year": "2025",
+    "norm_title": "lemadllmempoweredmultiagentsystemforanomalydetectioninpowergridservices",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Machine learning-based auto-scaling for containerized applications",
+    "doi": "10.1007/s00521-019-04507-z",
+    "year": "2020",
+    "norm_title": "machinelearningbasedautoscalingforcontainerizedapplications",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "On Optimizing Resources for Real-Time End-to-End Machine Learning in Heterogeneous Edges",
+    "doi": "10.1002/spe.3383",
+    "year": "2025",
+    "norm_title": "onoptimizingresourcesforrealtimeendtoendmachinelearninginheterogeneousedges",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A web-based app for sunn pest species recognition (Hemiptera: Scutelleridae: Eurygaster) using machine learning",
+    "doi": "10.1111/afe.70022",
+    "year": "2026",
+    "norm_title": "awebbasedappforsunnpestspeciesrecognitionhemipterascutelleridaeeurygasterusingma",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Liability and Trust Analysis Framework for Multi-Actor Dynamic Microservices",
+    "doi": "10.1109/tnsm.2024.3417934",
+    "year": "2025",
+    "norm_title": "liabilityandtrustanalysisframeworkformultiactordynamicmicroservices",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "CPU-Only Spatiotemporal Anomaly Detection in Microservice Systems via Dynamic Graph Neural Networks and LSTM",
+    "doi": "10.3390/sym18010087",
+    "year": "2026",
+    "norm_title": "cpuonlyspatiotemporalanomalydetectioninmicroservicesystemsviadynamicgraphneuraln",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Proactive resource management for cloud of services environments",
+    "doi": "10.1016/j.future.2023.08.005",
+    "year": "2024",
+    "norm_title": "proactiveresourcemanagementforcloudofservicesenvironments",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Harnessing DevOps and Microservices for Scalable Teleconsultation - A Case Study on Healthcare Information Management System (HIMS) at USTP",
+    "doi": "",
+    "year": "2024",
+    "norm_title": "harnessingdevopsandmicroservicesforscalableteleconsultationacasestudyonhealthcar",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "Microservices Data Mining for Analytics Feedback and Optimization",
+    "doi": "10.4018/ijeis.2021010102",
+    "year": "2021",
+    "norm_title": "microservicesdataminingforanalyticsfeedbackandoptimization",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  },
+  {
+    "title": "A multi-layered digital twin framework for smart agriculture and livestock: System architecture and implementation challenges",
+    "doi": "10.1016/j.infsof.2026.108139",
+    "year": "2026",
+    "norm_title": "amultilayereddigitaltwinframeworkforsmartagricultureandlivestocksystemarchitectu",
+    "found_in_dbs": [
+      "WoS"
+    ],
+    "mendeley_phase": "NEW",
+    "mendeley_tag": null
+  }
+]

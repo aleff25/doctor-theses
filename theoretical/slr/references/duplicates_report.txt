@@ -1,0 +1,468 @@
+Duplicate analysis of export.xml
+Total raw entries: 436
+Unique after deduplication: 359
+Duplicates removed: 77
+
+Detail:
+
+[TITLE] "A review of closed-loop reservoir management"
+    tag (kept)    : a-review-of-closed-loop-reservoir-management
+    tag (removed) : a-review-of-closed-loop-reservoir-management
+    db_source     : Scopus
+    DOI           : 
+
+[TITLE] "Assessing security vulnerabilities in a docker-enabled federated learning framework with hyperparameter tuning for software bug prediction"
+    tag (kept)    : assessing-security-vulnerabilities-in-a-docker-enabled-federated-learning-framework-with-h
+    tag (removed) : assessing-security-vulnerabilities-in-a-docker-enabled-federated-learning-framework-with-h
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "CURIE: Towards an Ontology and Enterprise Architecture of a CRM Conceptual Model"
+    tag (kept)    : curie:-towards-an-ontology-and-enterprise-architecture-of-a-crm-conceptual-model
+    tag (removed) : curie:-towards-an-ontology-and-enterprise-architecture-of-a-crm-conceptual-model
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "A model-based approach for converting CGMES power system models into operational networks"
+    tag (kept)    : a-model-based-approach-for-converting-cgmes-power-system-models-into-operational-networks
+    tag (removed) : a-model-based-approach-for-converting-cgmes-power-system-models-into-operational-networks
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Large-scale e-learning recommender system based on Spark and Hadoop"
+    tag (kept)    : large-scale-e-learning-recommender-system-based-on-spark-and-hadoop
+    tag (removed) : large-scale-e-learning-recommender-system-based-on-spark-and-hadoop
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "The impact of feature selection on maintainability prediction of service-oriented applications"
+    tag (kept)    : the-impact-of-feature-selection-on-maintainability-prediction-of-service-oriented-applicat
+    tag (removed) : the-impact-of-feature-selection-on-maintainability-prediction-of-service-oriented-applicat
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Industrial data ecosystems and data spaces"
+    tag (kept)    : industrial-data-ecosystems-and-data-spaces
+    tag (removed) : industrial-data-ecosystems-and-data-spaces
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "An Empirical Investigation of Relevant Changes and Automation Needs in Modern Code Review"
+    tag (kept)    : an-empirical-investigation-of-relevant-changes-and-automation-needs-in-modern-code-review
+    tag (removed) : an-empirical-investigation-of-relevant-changes-and-automation-needs-in-modern-code-review
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "A multi-model framework for semantically enhancing detection of quality-related bug report descriptions"
+    tag (kept)    : a-multi-model-framework-for-semantically-enhancing-detection-of-quality-related-bug-report
+    tag (removed) : a-multi-model-framework-for-semantically-enhancing-detection-of-quality-related-bug-report
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Topic modeling in software engineering research"
+    tag (kept)    : topic-modeling-in-software-engineering-research
+    tag (removed) : topic-modeling-in-software-engineering-research
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "An empirical study of issue-link algorithms: which issue-link algorithms should we use?"
+    tag (kept)    : an-empirical-study-of-issue-link-algorithms:-which-issue-link-algorithms-should-we-use?
+    tag (removed) : an-empirical-study-of-issue-link-algorithms:-which-issue-link-algorithms-should-we-use?
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "A No-Reference and Full-Reference image quality assessment and enhancement framework in real-time"
+    tag (kept)    : a-no-reference-and-full-reference-image-quality-assessment-and-enhancement-framework-in-re
+    tag (removed) : a-no-reference-and-full-reference-image-quality-assessment-and-enhancement-framework-in-re
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Parallel and Distributed Spatial Outlier Mining in Grid: Algorithm, Design and Application"
+    tag (kept)    : parallel-and-distributed-spatial-outlier-mining-in-grid:-algorithm,-design-and-application
+    tag (removed) : parallel-and-distributed-spatial-outlier-mining-in-grid:-algorithm,-design-and-application
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Supporting Programmable Autoscaling Rules for Containers and Virtual Machines on Clouds"
+    tag (kept)    : supporting-programmable-autoscaling-rules-for-containers-and-virtual-machines-on-clouds
+    tag (removed) : phase1_exc--supporting-programmable-autoscaling-rules-for-containers-and-virtual-machines-
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "LACE: Mitigating cold-starts in serverless with a multi-task mixture-of-experts caching"
+    tag (kept)    : lace:-mitigating-cold-starts-in-serverless-with-a-multi-task-mixture-of-experts-caching
+    tag (removed) : phase1_exc--lace:-mitigating-cold-starts-in-serverless-with-a-multi-task-mixture-of-expert
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Mining architectural information: A systematic mapping study"
+    tag (kept)    : mining-architectural-information:-a-systematic-mapping-study
+    tag (removed) : phase1_inc--mining-architectural-information:-a-systematic-mapping-study
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Towards automatic labeling of exception handling bugs: A case study of 10 years bug-fixing in Apache Hadoop"
+    tag (kept)    : towards-automatic-labeling-of-exception-handling-bugs:-a-case-study-of-10-years-bug-fixing
+    tag (removed) : phase1_exc--towards-automatic-labeling-of-exception-handling-bugs:-a-case-study-of-10-year
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Toolchain for faster iterations in quantum software development"
+    tag (kept)    : toolchain-for-faster-iterations-in-quantum-software-development
+    tag (removed) : phase1_exc--toolchain-for-faster-iterations-in-quantum-software-development
+    db_source     : Springer
+    DOI           : 
+
+[TITLE] "Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability"
+    tag (kept)    : phase1_exc--automatic-rule-checking-for-microservices:-supporting-security-analysis-with-e
+    tag (removed) : phase1_exc--automatic-rule-checking-for-microservices:-supporting-security-analysis-with-e
+    db_source     : Scopus
+    DOI           : 
+
+[TITLE] "Facilitating the migration to the microservice architecture via model-driven reverse engineering and reinforcement learning"
+    tag (kept)    : facilitating-the-migration-to-the-microservice-architecture-via-model-driven-reverse-engin
+    tag (removed) : phase1_inc--facilitating-the-migration-to-the-microservice-architecture-via-model-driven-r
+    db_source     : Springer
+    DOI           : 
+
+[DOI] "Toolchain for faster iterations in quantum software development"
+    tag (kept)    : toolchain-for-faster-iterations-in-quantum-software-development
+    tag (removed) : phase1_exc--toolchain-for-faster-iterations-in-quantum-software-development
+    db_source     : Springer
+    DOI           : 10.1007/s00607-025-01450-x
+
+[DOI] "Adaptive Resource Allocation for Cloud-native Microservice via Meta-learning and Hyper-heuristic Algorithms"
+    tag (kept)    : adaptive-resource-allocation-for-cloud-native-microservice-via-meta-learning-and-hyper-heu
+    tag (removed) : phase1_inc--adaptive-resource-allocation-for-cloud-native-microservice-via-meta-learning-a
+    db_source     : Springer
+    DOI           : 10.1007/s10723-025-09814-5
+
+[DOI] "Optimizing machine learning operations in multi-cloud infrastructure: a framework for unified deployment management and topology discovery"
+    tag (kept)    : optimizing-machine-learning-operations-in-multi-cloud-infrastructure:-a-framework-for-unif
+    tag (removed) : phase1_exc--optimizing-machine-learning-operations-in-multi-cloud-infrastructure:-a-framew
+    db_source     : Springer
+    DOI           : 10.1007/s10586-025-05584-7
+
+[DOI] "NAS: AI-Driven Network Automation for Multi-vendor Environments"
+    tag (kept)    : nas:-ai-driven-network-automation-for-multi-vendor-environments
+    tag (removed) : phase1_exc--nas:-ai-driven-network-automation-for-multi-vendor-environments
+    db_source     : Springer
+    DOI           : 10.1007/s13369-026-11319-6
+
+[DOI] "Shadowkube: enhancing Kubernetes security with behavioral monitoring and honeypot integration"
+    tag (kept)    : shadowkube:-enhancing-kubernetes-security-with-behavioral-monitoring-and-honeypot-integrat
+    tag (removed) : phase1_exc--shadowkube:-enhancing-kubernetes-security-with-behavioral-monitoring-and-honey
+    db_source     : Scopus
+    DOI           : 10.1186/s42400-025-00372-7
+
+[TITLE] "Runtime metric meets developer: building better cloud applications using feedback"
+    tag (kept)    : phase1_inc--star--runtime-metric-meets-developer---building-better-cloud-applications-usin
+    tag (removed) : phase1_inc--star--runtime-metric-meets-developer:-building-better-cloud-applications-using
+    db_source     : ACM
+    DOI           : 10.1145/2814228.2814232
+
+[TITLE] "Software Performance Engineering for Foundation Model-Powered Software"
+    tag (kept)    : software-performance-engineering-for-foundation-model-powered-software
+    tag (removed) : phase1_inc--software-performance-engineering-for-foundation-model-powered-software
+    db_source     : ACM
+    DOI           : 10.1145/3794844
+
+[DOI] "CoNode: Visualizing Workflows for Knowledge Reuse and Recombination in Team–AI Collaborative Design"
+    tag (kept)    : phase1_exc--conode:-visualizing-workflows-for-knowledge-reuse-and-recombination-in-team–ai
+    tag (removed) : phase1_exc--conode:-visualizing-workflows-for-knowledge-reuse-and-recombination-in-team–ai
+    db_source     : ACM
+    DOI           : 10.1145/3772318.3791216
+
+[DOI] "Intelligent Detection and Processing Technology of Abnormal Data in Low-Voltage Distribution Networks"
+    tag (kept)    : phase1_exc--intelligent-detection-and-processing-technology-of-abnormal-data-in-low-voltag
+    tag (removed) : phase1_exc--intelligent-detection-and-processing-technology-of-abnormal-data-in-low-voltag
+    db_source     : ACM
+    DOI           : 10.1145/3717934.3717987
+
+[DOI] "Application practice of code mapping technology in hydropower project construction management system"
+    tag (kept)    : phase1_exc--application-practice-of-code-mapping-technology-in-hydropower-project-construc
+    tag (removed) : phase1_exc--application-practice-of-code-mapping-technology-in-hydropower-project-construc
+    db_source     : ACM
+    DOI           : 10.1145/3661638.3661672
+
+[DOI] "ThreatCompass: A Tool for Identifying and Mapping Security Issues to TTPs"
+    tag (kept)    : phase1_exc--threatcompass:-a-tool-for-identifying-and-mapping-security-issues-to-ttps
+    tag (removed) : phase1_exc--threatcompass:-a-tool-for-identifying-and-mapping-security-issues-to-ttps
+    db_source     : ACM
+    DOI           : 10.1145/3733800.3763265
+
+[DOI] "The RESTless cloud"
+    tag (kept)    : phase1_exc--the-restless-cloud
+    tag (removed) : phase1_exc--the-restless-cloud
+    db_source     : ACM
+    DOI           : 10.1145/3458336.3465280
+
+[DOI] "GrandSLAm: Guaranteeing SLAs for Jobs in Microservices Execution Frameworks"
+    tag (kept)    : phase1_exc--grandslam:-guaranteeing-slas-for-jobs-in-microservices-execution-frameworks
+    tag (removed) : phase1_exc--grandslam:-guaranteeing-slas-for-jobs-in-microservices-execution-frameworks
+    db_source     : ACM
+    DOI           : 10.1145/3302424.3303958
+
+[DOI] "EcoRAN: A Novel Programmable Framework for Dynamic and Energy-Efficient Resource Optimization in Multi-Tenant, Neutral Host O-RAN Systems"
+    tag (kept)    : phase1_exc--ecoran:-a-novel-programmable-framework-for-dynamic-and-energy-efficient-resour
+    tag (removed) : phase1_exc--ecoran:-a-novel-programmable-framework-for-dynamic-and-energy-efficient-resour
+    db_source     : ACM
+    DOI           : 10.1145/3750718.3750746
+
+[DOI] "Hermes: Algorithm-System Co-design for Efficient Retrieval-Augmented Generation At-Scale"
+    tag (kept)    : hermes:-algorithm-system-co-design-for-efficient-retrieval-augmented-generation-at-scale
+    tag (removed) : phase1_exc--hermes:-algorithm-system-co-design-for-efficient-retrieval-augmented-generatio
+    db_source     : ACM
+    DOI           : 10.1145/3695053.3731076
+
+[DOI] "Augmenting graphical modeling workbenches with semantic-aware interactive features"
+    tag (kept)    : phase1_exc--augmenting-graphical-modeling-workbenches-with-semantic-aware-interactive-feat
+    tag (removed) : phase1_exc--augmenting-graphical-modeling-workbenches-with-semantic-aware-interactive-feat
+    db_source     : ACM
+    DOI           : 10.1145/3733050
+
+[DOI] "A Platform Ecosystem Providing New Data For The Energy Transition"
+    tag (kept)    : phase1_exc--a-platform-ecosystem-providing-new-data-for-the-energy-transition
+    tag (removed) : phase1_exc--a-platform-ecosystem-providing-new-data-for-the-energy-transition
+    db_source     : ACM
+    DOI           : 10.1145/3717413.3717435
+
+[DOI] "FMI: Fast and Cheap Message Passing for Serverless Functions"
+    tag (kept)    : phase1_exc--fmi:-fast-and-cheap-message-passing-for-serverless-functions
+    tag (removed) : phase1_exc--fmi:-fast-and-cheap-message-passing-for-serverless-functions
+    db_source     : ACM
+    DOI           : 10.1145/3577193.3593718
+
+[DOI] "In-Storage Domain-Specific Acceleration for Serverless Computing"
+    tag (kept)    : phase1_exc--in-storage-domain-specific-acceleration-for-serverless-computing
+    tag (removed) : phase1_exc--in-storage-domain-specific-acceleration-for-serverless-computing
+    db_source     : ACM
+    DOI           : 10.1145/3620665.3640413
+
+[DOI] "Basalt: A Rock-Solid Byzantine-Tolerant Peer Sampling for Very Large Decentralized Networks"
+    tag (kept)    : phase1_exc--basalt:-a-rock-solid-byzantine-tolerant-peer-sampling-for-very-large-decentral
+    tag (removed) : phase1_exc--basalt:-a-rock-solid-byzantine-tolerant-peer-sampling-for-very-large-decentral
+    db_source     : ACM
+    DOI           : 10.1145/3590140.3629109
+
+[DOI] "Agile C-states: A Core C-state Architecture for Latency Critical Applications Optimizing both Transition and Cold-Start Latency"
+    tag (kept)    : phase1_exc--agile-c-states:-a-core-c-state-architecture-for-latency-critical-applications-
+    tag (removed) : phase1_exc--agile-c-states:-a-core-c-state-architecture-for-latency-critical-applications-
+    db_source     : ACM
+    DOI           : 10.1145/3674734
+
+[DOI] "Environmental Footprints of Query Processing: A Vision for Sustainable Database Architectures"
+    tag (kept)    : phase1_exc--environmental-footprints-of-query-processing:-a-vision-for-sustainable-databas
+    tag (removed) : phase1_exc--environmental-footprints-of-query-processing:-a-vision-for-sustainable-databas
+    db_source     : Scopus
+    DOI           : 10.14778/3749646.3749676
+
+[DOI] "DeepFlow: A Cross-Stack Pathfinding Framework for Distributed AI Systems"
+    tag (kept)    : phase1_inc--deepflow:-a-cross-stack-pathfinding-framework-for-distributed-ai-systems
+    tag (removed) : phase1_inc--deepflow:-a-cross-stack-pathfinding-framework-for-distributed-ai-systems
+    db_source     : ACM
+    DOI           : 10.1145/3635867
+
+[DOI] "Design and Application of Intelligent Talent Selection System for Electric Power Enterprises"
+    tag (kept)    : phase1_exc--design-and-application-of-intelligent-talent-selection-system-for-electric-pow
+    tag (removed) : phase1_exc--design-and-application-of-intelligent-talent-selection-system-for-electric-pow
+    db_source     : ACM
+    DOI           : 10.1145/3773365.3773592
+
+[DOI] "Automated Log Data Analysis and Anomaly Detection Method in Intelligent Operations and Maintenance Systems"
+    tag (kept)    : phase1_inc--automated-log-data-analysis-and-anomaly-detection-method-in-intelligent-operat
+    tag (removed) : phase1_inc--automated-log-data-analysis-and-anomaly-detection-method-in-intelligent-operat
+    db_source     : ACM
+    DOI           : 10.1145/3766671.3766854
+
+[DOI] "Scaling Llama 3 Training with Efficient Parallelism Strategies"
+    tag (kept)    : phase1_exc--scaling-llama-3-training-with-efficient-parallelism-strategies
+    tag (removed) : phase1_exc--scaling-llama-3-training-with-efficient-parallelism-strategies
+    db_source     : ACM
+    DOI           : 10.1145/3695053.3731410
+
+[DOI] "Oracle AutoML: a fast and predictive AutoML pipeline"
+    tag (kept)    : phase1_inc--oracle-automl:-a-fast-and-predictive-automl-pipeline
+    tag (removed) : phase1_inc--oracle-automl:-a-fast-and-predictive-automl-pipeline
+    db_source     : Scopus
+    DOI           : 10.14778/3415478.3415542
+
+[DOI] "Groot: an event-graph-based approach for root cause analysis in industrial settings"
+    tag (kept)    : phase1_inc--groot:-an-event-graph-based-approach-for-root-cause-analysis-in-industrial-set
+    tag (removed) : phase1_inc--groot:-an-event-graph-based-approach-for-root-cause-analysis-in-industrial-set
+    db_source     : IEEE
+    DOI           : 10.1109/ase51524.2021.9678708
+
+[DOI] "Power Professional Kanban Micro-Application Based on Enterprise Middle Platform and PMS3.0 Architecture"
+    tag (kept)    : phase1_exc--power-professional-kanban-micro-application-based-on-enterprise-middle-platfor
+    tag (removed) : phase1_exc--power-professional-kanban-micro-application-based-on-enterprise-middle-platfor
+    db_source     : ACM
+    DOI           : 10.1145/3703187.3703198
+
+[DOI] "CardioLive: Empowering Video Streaming with Online Cardiac Monitoring via Audio-Visual Learning"
+    tag (kept)    : phase1_exc--cardiolive:-empowering-video-streaming-with-online-cardiac-monitoring-via-audi
+    tag (removed) : phase1_exc--cardiolive:-empowering-video-streaming-with-online-cardiac-monitoring-via-audi
+    db_source     : ACM
+    DOI           : 10.1145/3746027.3755588
+
+[DOI] "Multi-Source Data Fusion Based Identification of High-End and Scarce Meteorological Experts and Expert Database System Architecture Design"
+    tag (kept)    : phase1_exc--multi-source-data-fusion-based-identification-of-high-end-and-scarce-meteorolo
+    tag (removed) : phase1_exc--multi-source-data-fusion-based-identification-of-high-end-and-scarce-meteorolo
+    db_source     : ACM
+    DOI           : 10.1145/3795154.3795324
+
+[DOI] "Research on the Architecture and Key Technologies of the Ubiquitous Customer Service Operating System for State Grid"
+    tag (kept)    : phase1_exc--research-on-the-architecture-and-key-technologies-of-the-ubiquitous-customer-s
+    tag (removed) : phase1_exc--research-on-the-architecture-and-key-technologies-of-the-ubiquitous-customer-s
+    db_source     : ACM
+    DOI           : 10.1145/3469213.3470417
+
+[DOI] "A Transformer-based Approach for Augmenting Software Engineering Chatbots Datasets"
+    tag (kept)    : phase1_exc--a-transformer-based-approach-for-augmenting-software-engineering-chatbots-data
+    tag (removed) : a-transformer-based-approach-for-augmenting-software-engineering-chatbots-datasets
+    db_source     : ACM
+    DOI           : 10.1145/3674805.3686695
+
+[DOI] "Compliance Management of IaC-Based Cloud Deployments During Runtime"
+    tag (kept)    : phase1_exc--compliance-management-of-iac-based-cloud-deployments-during-runtime
+    tag (removed) : phase1_exc--compliance-management-of-iac-based-cloud-deployments-during-runtime
+    db_source     : ACM
+    DOI           : 10.1145/3603166.3632135
+
+[DOI] "API Rate Limit Adoption – A pattern collection"
+    tag (kept)    : phase1_exc--api-rate-limit-adoption-–-a-pattern-collection
+    tag (removed) : phase1_exc--api-rate-limit-adoption-–-a-pattern-collection
+    db_source     : ACM
+    DOI           : 10.1145/3628034.3628039
+
+[DOI] "Architecture-Based Cross-Component Issue Management and Propagation Analysis"
+    tag (kept)    : phase1_exc--architecture-based-cross-component-issue-management-and-propagation-analysis
+    tag (removed) : phase1_exc--architecture-based-cross-component-issue-management-and-propagation-analysis
+    db_source     : ACM
+    DOI           : 10.1145/3639478.3639814
+
+[DOI] "LongTale: Toward Automatic Performance Anomaly Explanation in Microservices"
+    tag (kept)    : phase1_inc--longtale:-toward-automatic-performance-anomaly-explanation-in-microservices
+    tag (removed) : phase1_inc--longtale:-toward-automatic-performance-anomaly-explanation-in-microservices
+    db_source     : ACM
+    DOI           : 10.1145/3489525.3511675
+
+[DOI] "GRAF: a graph neural network based proactive resource allocation framework for SLO-oriented microservices"
+    tag (kept)    : phase1_exc--graf:-a-graph-neural-network-based-proactive-resource-allocation-framework-for
+    tag (removed) : phase1_exc--graf:-a-graph-neural-network-based-proactive-resource-allocation-framework-for
+    db_source     : ACM
+    DOI           : 10.1145/3485983.3494866
+
+[DOI] "Past, Present, and Future of Bug Tracking in the Generative AI Era"
+    tag (kept)    : past,-present,-and-future-of-bug-tracking-in-the-generative-ai-era
+    tag (removed) : phase1_inc--past,-present,-and-future-of-bug-tracking-in-the-generative-ai-era
+    db_source     : ACM
+    DOI           : 10.1145/3806655
+
+[DOI] "A House United Within Itself: SLO-Awareness for On-Premises Containerized ML Inference Clusters via Faro"
+    tag (kept)    : phase1_exc--a-house-united-within-itself:-slo-awareness-for-on-premises-containerized-ml-i
+    tag (removed) : phase1_exc--a-house-united-within-itself:-slo-awareness-for-on-premises-containerized-ml-i
+    db_source     : ACM
+    DOI           : 10.1145/3689031.3696071
+
+[DOI] "Mystique: Enabling Accurate and Scalable Generation of Production AI Benchmarks"
+    tag (kept)    : phase1_exc--mystique:-enabling-accurate-and-scalable-generation-of-production-ai-benchmark
+    tag (removed) : phase1_exc--mystique:-enabling-accurate-and-scalable-generation-of-production-ai-benchmark
+    db_source     : ACM
+    DOI           : 10.1145/3579371.3589072
+
+[DOI] "Introducing Interactions in Multi-Objective Optimization of Software Architectures"
+    tag (kept)    : phase1_inc--star--introducing-interactions-in-multi-objective-optimization-of-software-arc
+    tag (removed) : phase1_inc--star--introducing-interactions-in-multi-objective-optimization-of-software-arc
+    db_source     : ACM
+    DOI           : 10.1145/3712185
+
+[DOI] "A Churn Prediction and Intelligent Decision Optimisation Framework for Subscription Service Platforms"
+    tag (kept)    : phase1_exc--a-churn-prediction-and-intelligent-decision-optimisation-framework-for-subscri
+    tag (removed) : phase1_exc--a-churn-prediction-and-intelligent-decision-optimisation-framework-for-subscri
+    db_source     : ACM
+    DOI           : 10.1145/3772326.3774719
+
+[TITLE] "Machine learning based generic violation waiver system with application on electromigration sign-off"
+    tag (kept)    : phase1_exc--machine-learning-based-generic-violation-waiver-system-with-application-on-ele
+    tag (removed) : phase1_exc--machine-learning-based-generic-violation-waiver-system-with-application-on-ele
+    db_source     : IEEE
+    DOI           : 
+
+[DOI] "Design of a Full-Cycle Intelligent Risk Control System for Pre-Loan, Mid-Loan, and Post-Loan Lending: AI-Driven Closed-Loop Management of Online Credit Security"
+    tag (kept)    : phase1_exc--design-of-a-full-cycle-intelligent-risk-control-system-for-pre-loan,-mid-loan,
+    tag (removed) : phase1_exc--design-of-a-full-cycle-intelligent-risk-control-system-for-pre-loan,-mid-loan,
+    db_source     : ACM
+    DOI           : 10.1145/3785706.3785866
+
+[DOI] "Efficient Attacks on Strong PUFs via Covariance and Boolean Modeling"
+    tag (kept)    : phase1_exc--efficient-attacks-on-strong-pufs-via-covariance-and-boolean-modeling
+    tag (removed) : phase1_exc--efficient-attacks-on-strong-pufs-via-covariance-and-boolean-modeling
+    db_source     : ACM
+    DOI           : 10.1145/3687469
+
+[DOI] "Automatic Rule Checking for Microservices: Supporting Security Analysis with Explainability"
+    tag (kept)    : phase1_exc--automatic-rule-checking-for-microservices:-supporting-security-analysis-with-e
+    tag (removed) : phase1_exc--automatic-rule-checking-for-microservices:-supporting-security-analysis-with-e
+    db_source     : ACM
+    DOI           : 10.1145/3771275
+
+[DOI] "Using Static Analysis to Aid Monolith to Microservice System Transformation: Tuning Fuzzy c-Means in a VAE-Based GNN Approach"
+    tag (kept)    : phase1_inc--using-static-analysis-to-aid-monolith-to-microservice-system-transformation:-t
+    tag (removed) : phase1_inc--using-static-analysis-to-aid-monolith-to-microservice-system-transformation:-t
+    db_source     : ACM
+    DOI           : 10.1145/3691621.3694933
+
+[DOI] "Model-driven run-time enforcement of complex role-based access control policies"
+    tag (kept)    : phase1_exc--model-driven-run-time-enforcement-of-complex-role-based-access-control-policie
+    tag (removed) : phase1_exc--model-driven-run-time-enforcement-of-complex-role-based-access-control-policie
+    db_source     : ACM
+    DOI           : 10.1145/3238147.3238167
+
+[DOI] "Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving"
+    tag (kept)    : phase1_exc--morphling:-fast,-near-optimal-auto-configuration-for-cloud-native-model-servin
+    tag (removed) : phase1_exc--morphling:-fast,-near-optimal-auto-configuration-for-cloud-native-model-servin
+    db_source     : ACM
+    DOI           : 10.1145/3472883.3486987
+
+[DOI] "Research on Key Technologies for Multi-Agent Collaborative Optimization in Project Feasibility Study Review Based on Large Model Driven Approach"
+    tag (kept)    : phase1_inc--research-on-key-technologies-for-multi-agent-collaborative-optimization-in-pro
+    tag (removed) : phase1_inc--research-on-key-technologies-for-multi-agent-collaborative-optimization-in-pro
+    db_source     : ACM
+    DOI           : 10.1145/3772128.3772136
+
+[DOI] "Model-Driven Right-Sizing of Offloading in Data Processing Pipelines"
+    tag (kept)    : phase1_exc--model-driven-right-sizing-of-offloading-in-data-processing-pipelines
+    tag (removed) : phase1_exc--model-driven-right-sizing-of-offloading-in-data-processing-pipelines
+    db_source     : ACM
+    DOI           : 10.1145/3736227.3736239
+
+[DOI] "LSTM model-driven data prediction and analysis system for digital economy"
+    tag (kept)    : phase1_exc--lstm-model-driven-data-prediction-and-analysis-system-for-digital-economy
+    tag (removed) : phase1_exc--lstm-model-driven-data-prediction-and-analysis-system-for-digital-economy
+    db_source     : ACM
+    DOI           : 10.1145/3762249.3762278
+
+[DOI] "PERT-GNN: Latency Prediction for Microservice-based Cloud-Native Applications via Graph Neural Networks"
+    tag (kept)    : phase1_inc--pert-gnn:-latency-prediction-for-microservice-based-cloud-native-applications-
+    tag (removed) : phase1_inc--pert-gnn:-latency-prediction-for-microservice-based-cloud-native-applications-
+    db_source     : ACM
+    DOI           : 10.1145/3580305.3599465
+
+[DOI] "Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Native Streaming Services in Tencent"
+    tag (kept)    : phase1_exc--oceanus:-enable-slo-aware-vertical-autoscaling-for-cloud-native-streaming-serv
+    tag (removed) : phase1_exc--oceanus:-enable-slo-aware-vertical-autoscaling-for-cloud-native-streaming-serv
+    db_source     : ACM
+    DOI           : 10.1145/3722212.3724445
+
+[DOI] "Design and Implementation of a Cloud-Native Project Repository System for Articulated Software Engineering Education"
+    tag (kept)    : phase1_inc--design-and-implementation-of-a-cloud-native-project-repository-system-for-arti
+    tag (removed) : phase1_inc--design-and-implementation-of-a-cloud-native-project-repository-system-for-arti
+    db_source     : ACM
+    DOI           : 10.1145/3802607.3802608
+
+[DOI] "Resource management in cloud-native systems: a survey"
+    tag (kept)    : phase1_exc--resource-management-in-cloud-native-systems:-a-survey
+    tag (removed) : phase1_exc--resource-management-in-cloud-native-systems:-a-survey
+    db_source     : Springer
+    DOI           : 10.1007/s11227-020-03524-y
