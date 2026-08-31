@@ -1,0 +1,25 @@
+[project]
+name = "aam4j"
+version = "0.2.0"
+description = "Architecture-Aware Metrics for Java, practical track of the PhD"
+requires-python = ">=3.11"
+
+# The pipeline (stages 1-3) is deliberately dependency-free: it must run on a
+# reviewer's machine with nothing but a Python install, and every artifact it
+# writes has to be diffable by hand. Third-party code is confined to the two
+# optional groups below.
+dependencies = []
+
+[project.optional-dependencies]
+api = ["fastapi>=0.110", "uvicorn>=0.27"]
+learn = ["scikit-learn>=1.4", "numpy>=1.26"]
+dev = ["pytest>=8", "httpx>=0.27"]
+
+[tool.pytest.ini_options]
+# `subjects/` holds full clones of three Java projects, two of which ship their
+# own Python test suites and conftest files. Without this, `pytest` from the
+# repository root collects *their* tests and fails on *their* dependencies.
+testpaths = ["tests"]
+norecursedirs = ["subjects", "data", ".venv", ".git"]
+pythonpath = ["extractor", "metamodel", "metrics", "api", "models"]
+addopts = "-q"

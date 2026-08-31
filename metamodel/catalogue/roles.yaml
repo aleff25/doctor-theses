@@ -1,0 +1,66 @@
+# Service role classification — catalogue data for DD-002.
+#
+# DD-002 requires the classification rule to be "explicit and auditable rather
+# than a hardcoded name list", and says to start from a name list for PetClinic
+# but record it as catalogue data. This file goes one step further: the rules
+# below are evidence predicates, and on PetClinic they reproduce the DD-002
+# table exactly with `overrides` left empty. The name list is kept as an escape
+# hatch, not as the mechanism.
+#
+# Rules are evaluated in order; the first match wins. Every classified service
+# records the id of the rule that fired, so any figure can be audited back to
+# the evidence that produced it.
+
+version: "0.1.0"
+default_role: functional
+
+rules:
+  - id: R1-config-server
+    role: infrastructure
+    rationale: >
+      A Spring Cloud Config server distributes configuration to every other
+      service. Its in-degree is a property of the platform, not of the domain.
+    when:
+      type_annotation: EnableConfigServer
+
+  - id: R2-service-registry
+    role: infrastructure
+    rationale: >
+      A Eureka server is the discovery plane. Every registering client produces
+      an edge to it, which would make it top AIS in every system trivially.
+    when:
+      maven_dependency: spring-cloud-starter-netflix-eureka-server
+
+  - id: R3-admin-console
+    role: infrastructure
+    rationale: >
+      Spring Boot Admin is an operator console. It observes the system rather
+      than participating in it.
+    when:
+      type_annotation: EnableAdminServer
+
+  - id: R4-edge-gateway
+    role: infrastructure
+    rationale: >
+      An edge gateway that actually declares routes. Both conditions are
+      required: in PetClinic, genai-service carries the gateway starter on its
+      classpath but declares no routes and is a domain service. Matching on the
+      dependency alone misclassifies it.
+    when:
+      all_of:
+        - maven_dependency_prefix: spring-cloud-starter-gateway
+        - declares_gateway_routes: true
+
+  - id: R5-no-source-module
+    role: infrastructure
+    rationale: >
+      A deployment unit with no module in the reactor is a third-party platform
+      container (Zipkin, Prometheus, Grafana). It cannot carry domain logic of
+      this system by construction.
+    when:
+      has_source_module: false
+
+# Explicit per-service overrides, applied after the rules. Empty for PetClinic:
+# every DD-002 classification is reproduced by R1-R4. An entry here is a signal
+# that the rule set has a gap worth closing.
+overrides: {}

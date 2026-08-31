@@ -1,0 +1,38 @@
+{
+  "derived_from": [
+    {
+      "snapshot": "305a1f13e4f961001d4e6cb50a9db51dc3fc5967",
+      "system": "petclinic"
+    },
+    {
+      "snapshot": "a1b9d9a45b5dfcc193cdcf53730f3901db28ef04",
+      "system": "trainticket"
+    },
+    {
+      "snapshot": "34b37f7e7be433ce72d5f9455e66922a13116749",
+      "system": "teastore"
+    }
+  ],
+  "method": "nearest-rank q=0.9 over functional services, pooled across all pinned subject systems",
+  "thresholds": {
+    "GOD": {
+      "AIS": {
+        "reason": "degenerate distribution: q=0.9 equals the minimum (0) over n=47, so the metric separates nothing",
+        "value": null
+      },
+      "NOD": {
+        "max": 6.0,
+        "min": 0.0,
+        "n": 47,
+        "value": 2.0
+      },
+      "NOE": {
+        "max": 19.0,
+        "min": 0.0,
+        "n": 47,
+        "value": 11.0
+      }
+    }
+  },
+  "version": "0.1.0"
+}
