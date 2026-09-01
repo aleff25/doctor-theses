@@ -11,11 +11,29 @@ each other or with the stored profile.
 # 2. the app
 npm install
 npm run dev                                      # http://localhost:5173
-npm run build && npm run preview                 # or a production build
+npm run build && npm run preview                 # production build, served locally
+npm run standalone                               # one self-contained .html file
 ```
 
-`npm run build` emits `dist/` with `base: './'`, so `dist/index.html` also opens by double-click,
-with no server. That is the form to hand a supervisor.
+### Which build to use
+
+`npm run build` emits `dist/`, which **needs a server**. Opening `dist/index.html` by double-click
+does not work, and the browser console says so in an alarming way:
+
+```
+Access to script at 'file:///.../assets/index-*.js' from origin 'null'
+has been blocked by CORS policy
+```
+
+That is not a bug in the build. A page loaded over `file://` has the opaque origin `null`, and
+Chrome blocks cross-origin module scripts, stylesheets and `fetch()` from there. `npm run preview`
+serves `dist/` over http and it works.
+
+`npm run standalone` is for the case where a server is not wanted: it inlines the CSS, the module
+script and the data into `dist-standalone/aam4j-dashboard.html`, about 800 KB, which opens by
+double-click on any machine with a browser and no toolchain at all. Inlining removes the fetches
+rather than working around the rule, so nothing is being bypassed. That is the form to hand a
+supervisor or attach to an email.
 
 ## What each view is for
 

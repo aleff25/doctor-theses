@@ -13,6 +13,14 @@ export function DataProvider({ children }) {
   const [state, setState] = useState({ status: 'loading' })
 
   useEffect(() => {
+    // The standalone single-file build embeds the payload, because `fetch()` on
+    // a `file://` URL is blocked by the same origin policy that blocks module
+    // and stylesheet loads there. When it is present there is nothing to fetch.
+    if (typeof window !== 'undefined' && window.__AAM4J_DATA__) {
+      setState({ status: 'ready', data: window.__AAM4J_DATA__ })
+      return undefined
+    }
+
     let cancelled = false
     fetch(`${import.meta.env.BASE_URL}dashboard.json`)
       .then((response) => {

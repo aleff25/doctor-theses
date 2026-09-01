@@ -162,8 +162,18 @@ cd dashboard && npm install && npm run dev             # http://localhost:5173
 A React application over what the pipeline stored, with five views: what was measured, every
 service with the **source code behind each of its numbers**, the metric catalogue as a hoverable
 glossary, every design decision with its cost and the condition to reopen it, and the learning
-results fold by fold. `npm run build` produces a `dist/` that also opens by double-click, with no
-server, which is the form to hand a supervisor. See `dashboard/README.md`.
+results fold by fold.
+
+To hand it to someone who will not run a toolchain:
+
+```bash
+cd dashboard && npm run standalone     # dist-standalone/aam4j-dashboard.html
+```
+
+One file, about 800 KB, that opens by double-click. Note that the ordinary `npm run build` output
+in `dist/` does **not** open that way: `file://` pages have the opaque origin `null` and Chrome
+blocks the module script, the stylesheet and the data fetch from there. Use `npm run preview` to
+serve `dist/` locally, or the standalone build. See `dashboard/README.md`.
 
 Node 20 or newer. This is the only part of the repository that needs a JavaScript toolchain, and
 nothing else depends on it.
