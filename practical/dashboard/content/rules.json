@@ -1,0 +1,179 @@
+{
+  "rules": [
+    {
+      "id": "DD-001",
+      "kind": "design-decision",
+      "title": "Element identity has no snapshot component",
+      "date": "2026-08-17",
+      "decision": "Element IDs are <system>/<kind>/<stable-name>, where stable-name comes from the deployment or module name, never from a fully qualified class name. The snapshot is a property of the model instance, not of any element.",
+      "why": "Everything downstream references these IDs: metric profiles, labels, attributions, explanations. If the ID carried the snapshot, no element could be compared across two snapshots and nothing could be tracked over time. Deployment names beat FQCNs because FQCNs move under refactoring, while the deployment unit is what the architecture is actually described in.",
+      "cost": "A service renamed between snapshots reads as one element disappearing and another appearing. There is no alias table yet.",
+      "revisit": "Add an alias table the first time a subject system renames a service. Revisit the scheme entirely if the thesis ever analyses a system where one deployment unit hosts several logical services, since the stable-name assumption breaks there.",
+      "refs": [],
+      "source": "metamodel/aam4j_model/ids.py"
+    },
+    {
+      "id": "DD-002",
+      "kind": "design-decision",
+      "title": "Model everything, filter infrastructure at metric time",
+      "date": "2026-08-17",
+      "decision": "Every service carries role in {functional, infrastructure}. The default graph G contains functional services only. Metrics may opt in to infrastructure explicitly, and any figure that includes them must say so.",
+      "why": "Discovery and config servers are touched by nearly every service. Including them in G would make them top the AIS and betweenness rankings of every system, a result that is true and completely useless, and it would corrupt the god-service and bottleneck predicates. Extracting them and filtering later is strictly more informative than not extracting them.",
+      "cost": "Every metric now depends on a classification step, so a misclassified service silently changes its numbers. Filtering a node also removes every edge incident to it, which can break a cycle that a full-model view would show.",
+      "revisit": "The classification is catalogue data (roles.yaml), not code, precisely so it can be revised without touching the metric layer. Revisit when a subject system has a service that is both platform and domain, which a two-valued role cannot express. DD-004 already forced a third value, telemetry.",
+      "refs": [],
+      "source": "metrics/aam4j_metrics/graph.py"
+    },
+    {
+      "id": "DD-003",
+      "kind": "design-decision",
+      "title": "Train Ticket pinned to refactor/v2",
+      "date": "2026-08-17",
+      "decision": "Train Ticket is analysed at branch refactor/v2 rather than the frozen master.",
+      "why": "Candidate's call, overriding the earlier recommendation of master. v2 is the maintained line of the benchmark.",
+      "cost": "33 modules instead of 47, loss of like-for-like comparability with the SLR-corpus studies that used master, and fault-injection labels that must be re-verified against the v2 layout before they can be used.",
+      "revisit": "Revisit if the fault-injection dataset turns out to be defined only against master. The label source is the reason this system is in the study at all, so it outranks the branch preference.",
+      "refs": [],
+      "source": "subjects/subjects.lock.json"
+    },
+    {
+      "id": "DD-004",
+      "kind": "design-decision",
+      "title": "Telemetry transport is not application communication",
+      "date": "2026-08-17",
+      "decision": "A messaging dependency counts as application communication only if both endpoints are application code. Anything whose counterparty is an instrumentation agent, collector or telemetry sink is excluded from G and from ASYNC%. Exclusion is by rule, never by a name list.",
+      "why": "TeaStore contains 26 files referencing AMQP or RabbitMQ, and every one belongs to Kieker's telemetry transport. An extractor grepping for rabbitmq|kafka|amqp|jms would emit phantom async edges in the one subject system that has no application-level async at all. The failure mode is worse than a wrong number: ASYNC% would become a measurement of the observability stack, contaminating a feature with the very instrumentation used to compute the others.",
+      "cost": "role becomes at least three-valued, and DD-002's classification table does not yet contemplate telemetry nodes.",
+      "revisit": "ASYNC% has real variance in exactly one of the three subject systems, so it stays a reporting metric rather than a model feature until an event-driven subject system joins the set.",
+      "refs": [
+        "taibi2018"
+      ],
+      "source": "docs/06-design-decisions.md"
+    },
+    {
+      "id": "DD-005",
+      "kind": "design-decision",
+      "title": "Domain entities are metamodel elements",
+      "date": "2026-08-31",
+      "decision": "DomainEntity (id, service, java_type, table) joins the metamodel; METAMODEL_VERSION goes to 0.2.0-json. Entity IDs use the Java type, not the table.",
+      "why": "NOD counts entities owned by a service and is a conjunct of the god-service predicate, and the extractor was already producing the facts that stage 2 dropped on the floor. Recomputing them at metric time would have put parsing behind the metric layer and broken the stage contract. The type rather than the table, because the table is the mapping and can change without the domain concept changing.",
+      "cost": "Profiles written before this change carry no NOD, so metamodel versions must not be mixed inside one dataset.",
+      "revisit": "The catalogue asks for aggregate roots and the extractor sees persisted types. Closing that gap needs an analyser that understands aggregate boundaries, which is the same JVM analyser the dependency extraction is waiting for.",
+      "refs": [
+        "neri2020"
+      ],
+      "source": "metamodel/aam4j_model/model.py"
+    },
+    {
+      "id": "DD-006",
+      "kind": "design-decision",
+      "title": "Thresholds are derived data, and the derivation may refuse",
+      "date": "2026-08-31",
+      "decision": "Group-E thresholds live in metrics/catalogue/thresholds.json, are produced as a nearest-rank quantile over the pooled subject-system distributions, and carry their method and provenance. If the quantile equals the minimum of the distribution, no threshold is emitted and the reason is stored in its place. A predicate needing an unemitted threshold reports undetermined for every element.",
+      "why": "Thresholds are the weak point of every smell catalogue and the first thing a reviewer attacks. Three failure modes close at once: magic numbers in code (they are catalogue data, versioned with catalogue_version), unstated derivation (the file records the method and the exact snapshots), and a threshold derived from a distribution that cannot support one. Nearest-rank rather than an interpolating quantile, because the inputs are counts and no service can have 2.4 endpoints.",
+      "cost": "GOD is undetermined on every service of every system today, so the catalogue has a smell it cannot fire. That is the honest state, and it is louder than a wrong verdict would have been.",
+      "revisit": "The refusal fires on AIS because the regex analyser recovers almost no dependencies outside PetClinic, so q=0.9 equals the minimum, 0. It is a finding about stage 1, not about the systems: re-derive once a JVM analyser lands. The quantile itself (0.9) is a convention, not a result. Deriving thresholds from a wider corpus of systems, as Bogner et al. do for RESTful API metrics, would be a stronger basis than three subjects.",
+      "refs": [
+        "bogner2020",
+        "taibi2018"
+      ],
+      "source": "metrics/derive_thresholds.py"
+    },
+    {
+      "id": "DD-007",
+      "kind": "design-decision",
+      "title": "The API is read-only and offers no assessment at T0",
+      "date": "2026-08-31",
+      "decision": "The API serves artifacts the pipeline wrote and never recomputes them. Every response carries the trust level, the LLM state and the metamodel, catalogue and threshold-set versions. The service view returns assessment.available = false with a reason until stage 4 ships a trained model.",
+      "why": "A served number and a stored number that can disagree is a reproducibility hole, and the pipeline stages have to stay usable with no server running. On the assessment: the review requires that switching the LLM off leaves a working system, and the corollary nobody states is that switching the model off must leave an honest one. An API that invented a verdict from metrics alone would be exactly the unfalsifiable output the review criticises.",
+      "cost": "Every client, this dashboard included, must handle a null assessment as a first-class case rather than as an error.",
+      "revisit": "The explicit available:false is the seam stage 4 plugs into. When a model is deployed, the trust level moves to T1 only once the grounding, consistency and contradiction checks exist, not when the model does.",
+      "refs": [
+        "rudin2019"
+      ],
+      "source": "api/aam4j_api/app.py"
+    },
+    {
+      "id": "DD-008",
+      "kind": "design-decision",
+      "title": "Synthetic supervision is admissible, with two guards",
+      "date": "2026-08-31",
+      "decision": "Architectural mutants labelled by construction are the first label source, subject to two guards enforced in code: the deterministic detector of an injected property is excluded from the feature set for that task, and a negative that could not be verified against a detector is marked unverified in the label file itself.",
+      "why": "The subject systems' git histories are not defect histories, Train Ticket's fault-injection labels need re-verification, and TeaStore's performance labels cost experiment time. Mutation is the one source that could start immediately. Both guards are needed: the first stops the model from reading its own answer key, the second stops the label file from asserting more than the operator guaranteed. Either one alone still produces a defensible-looking number that means nothing.",
+      "cost": "Mutants are not drawn from the distribution of real architectural decay. Results transfer to 'does the metric detect this property', never to 'does this predict real-world failure'.",
+      "revisit": "This is scaffolding, not the answer to RQ3. It should be replaced, or at least joined, by the Train Ticket fault-injection labels once their granularity is verified. The threat above belongs in threats to validity either way.",
+      "refs": [
+        "jia2011",
+        "kapoor2023"
+      ],
+      "source": "models/aam4j_models/mutate.py"
+    },
+    {
+      "id": "P1",
+      "kind": "practice",
+      "title": "Undetermined is never zero",
+      "date": "2026-08-17",
+      "decision": "A metric that cannot be computed returns determined=false with a reason, and reaches every consumer as null plus a note. Zero is reserved for a measured zero.",
+      "why": "SHARED_DB is the case that forces it: on a snapshot with no store identity, 0 reads as 'no shared database' when the truth is 'no evidence'. The same applies to ASYNC% on a service with no edges, and to GOD with an underivable threshold. Reporting a number there converts missing evidence into a clean bill of health, which is the most damaging thing a quality tool can do.",
+      "cost": "Every consumer, the learning pipeline and this dashboard included, handles three states instead of two.",
+      "revisit": "Not a candidate for revision. If anything it should go further: the note is free text today and would be more useful as a typed reason code.",
+      "refs": [],
+      "source": "metrics/aam4j_metrics/catalogue.py"
+    },
+    {
+      "id": "P2",
+      "kind": "practice",
+      "title": "Split by system, never randomly by row",
+      "date": "2026-08-31",
+      "decision": "leave_one_system_out is the only splitter the dataset module offers. Folds with no positive example in the held-out system are still returned and reported rather than dropped.",
+      "why": "Two variants of one system share almost all of their structure, so a random row split lets a model memorise the service instead of learning the relationship, and reports an accuracy that will not survive review. Leakage of exactly this kind is the most common cause of irreproducible machine-learning results across scientific fields.",
+      "cost": "With three systems there are three folds, each tiny. The numbers are noisy by construction and must be read per fold, never averaged into a headline.",
+      "revisit": "Revisit when there are enough systems for grouped cross-validation to be meaningful. The rule gets stricter, not looser, as the dataset grows.",
+      "refs": [
+        "kapoor2023"
+      ],
+      "source": "models/aam4j_models/dataset.py"
+    },
+    {
+      "id": "P3",
+      "kind": "practice",
+      "title": "Imputation statistics are fitted on the training fold only",
+      "date": "2026-08-31",
+      "decision": "An undetermined metric is filled with the median of the training fold and flagged by an explicit <metric>__undetermined indicator column.",
+      "why": "Imputing from the whole dataset leaks the held-out system's distribution into training, which is the subtlest common form of the leakage above. The indicator column is itself architectural: it says evidence for this metric is missing on this element, which is a fact about the element, so it satisfies the feature-membership rule.",
+      "cost": "Doubles the width of the feature matrix, and an indicator can become the model's strongest feature, which then says more about extraction coverage than about architecture.",
+      "revisit": "Watch the attributions. If an __undetermined indicator dominates, the finding is about stage 1, and the feature set should shrink rather than the model be tuned.",
+      "refs": [
+        "kapoor2023"
+      ],
+      "source": "models/aam4j_models/dataset.py"
+    },
+    {
+      "id": "P4",
+      "kind": "practice",
+      "title": "Every artifact is byte-reproducible",
+      "date": "2026-08-17",
+      "decision": "No emitted artifact contains a timestamp or an absolute path. Mutation operators pick their targets by sorted element ID, never at random. Re-running on the same pinned commit produces byte-identical files.",
+      "why": "The review found that only about 14% of its corpus ships a reproducible artifact. Making the property byte-exact turns a diff after a second run into a bug rather than noise, which makes it testable instead of aspirational.",
+      "cost": "Rules out conveniences that would be natural otherwise, such as stamping a generation time into an output.",
+      "revisit": "Not a candidate for revision. Provenance that must be recorded goes into a lockfile or a run record, which is versioned deliberately, rather than into every artifact.",
+      "refs": [],
+      "source": "run_pipeline.py"
+    },
+    {
+      "id": "P5",
+      "kind": "practice",
+      "title": "Interpretable by design, not explained after the fact",
+      "date": "2026-08-31",
+      "decision": "Model families are chosen so that decisions decompose over inputs: regularised linear first, then gradient-boosted trees with SHAP over metric features. Deep baselines are trained only to price the interpretability, and the price is reported rather than hidden.",
+      "why": "The linear baseline's attribution is exact: the contribution of a feature is coef_j times z_j, not an estimate of it, so the stage 4 to 5 contract is satisfied with no approximation error to report separately. The argument for choosing an interpretable model over explaining a black box is not this project's; it is a standard position in the literature.",
+      "cost": "An accuracy ceiling, which has to be measured against a deep baseline rather than assumed away.",
+      "revisit": "If the interpretability cost turns out to be large on a real label set, the honest response is to report it, not to switch to post-hoc explanation of a black box.",
+      "refs": [
+        "rudin2019",
+        "lundberg2017"
+      ],
+      "source": "models/train_baseline.py"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "references": {
+    "rud2006": {
+      "authors": "Rud, D., Schmietendorf, A., Dumke, R.",
+      "year": 2006,
+      "title": "Product metrics for service-oriented infrastructures",
+      "venue": "IWSM/MetriKon 2006",
+      "url": "https://arxiv.org/abs/2103.04674",
+      "note": "Origin of AIS, ADS and ACS. The attribution and the ACS = AIS x ADS definition were confirmed against Panichella, Rahman and Taibi, Structural Coupling for Microservices (arXiv:2103.04674), which cites Rud et al. for them; the URL points there rather than at a paywalled proceedings copy."
+    },
+    "perepletchikov2007": {
+      "authors": "Perepletchikov, M., Ryan, C., Frampton, K., Tari, Z.",
+      "year": 2007,
+      "title": "Coupling Metrics for Predicting Maintainability in Service-Oriented Designs",
+      "venue": "ASWEC 2007, pp. 329-340",
+      "doi": "10.1109/ASWEC.2007.17",
+      "url": "https://doi.org/10.1109/ASWEC.2007.17",
+      "note": "The systematic treatment of coupling in service-oriented design that system-level density metrics sit inside."
+    },
+    "abreu1996": {
+      "authors": "Brito e Abreu, F., Melo, W.",
+      "year": 1996,
+      "title": "Evaluating the impact of object-oriented design on software quality",
+      "venue": "3rd International Software Metrics Symposium (METRICS'96)",
+      "doi": "10.1109/METRIC.1996.492446",
+      "url": "https://doi.org/10.1109/METRIC.1996.492446",
+      "note": "The MOOD suite, whose Coupling Factor has the same actual-over-possible-couplings shape SCF uses. SCF inherits its criticisms too."
+    },
+    "bogner2017": {
+      "authors": "Bogner, J., Wagner, S., Zimmermann, A.",
+      "year": 2017,
+      "title": "Automatically measuring the maintainability of service- and microservice-based systems",
+      "venue": "IWSM/Mensura 2017",
+      "doi": "10.1145/3143434.3143443",
+      "url": "https://doi.org/10.1145/3143434.3143443",
+      "note": "Collects the service-oriented maintainability metrics, AIS and ADS among them, and is where their microservice-era reuse is argued."
+    },
+    "bogner2020": {
+      "authors": "Bogner, J., Wagner, S., Zimmermann, A.",
+      "year": 2020,
+      "title": "Collecting Service-Based Maintainability Metrics from RESTful API Descriptions: Static Analysis and Threshold Derivation",
+      "venue": "ECSA 2020 Companion, Springer",
+      "doi": "10.1007/978-3-030-59155-7_16",
+      "url": "https://doi.org/10.1007/978-3-030-59155-7_16",
+      "note": "Directly relevant to DD-006: derives metric thresholds empirically from a corpus of systems rather than asserting them, which is the stronger version of what derive_thresholds.py does over three subjects."
+    },
+    "taibi2018": {
+      "authors": "Taibi, D., Lenarduzzi, V.",
+      "year": 2018,
+      "title": "On the Definition of Microservice Bad Smells",
+      "venue": "IEEE Software 35(3), pp. 56-62",
+      "doi": "10.1109/MS.2018.2141031",
+      "url": "https://doi.org/10.1109/MS.2018.2141031",
+      "note": "The reference catalogue of microservice bad smells, including shared persistence, cyclic dependency and megaservice, derived from practitioner interviews."
+    },
+    "neri2020": {
+      "authors": "Neri, D., Soldani, J., Zimmermann, O., Brogi, A.",
+      "year": 2020,
+      "title": "Design principles, architectural smells and refactorings for microservices: a multivocal review",
+      "venue": "SICS Software-Intensive Cyber-Physical Systems 35, pp. 3-15",
+      "doi": "10.1007/s00450-019-00407-8",
+      "url": "https://doi.org/10.1007/s00450-019-00407-8",
+      "note": "Pairs each smell with the refactorings that resolve it, which is what a counterfactual explanation has to produce to be actionable."
+    },
+    "freeman1977": {
+      "authors": "Freeman, L. C.",
+      "year": 1977,
+      "title": "A Set of Measures of Centrality Based on Betweenness",
+      "venue": "Sociometry 40(1), pp. 35-41",
+      "doi": "10.2307/3033543",
+      "url": "https://doi.org/10.2307/3033543",
+      "note": "The definition of betweenness, and the normalisation by the number of ordered pairs a node can sit between."
+    },
+    "brandes2001": {
+      "authors": "Brandes, U.",
+      "year": 2001,
+      "title": "A faster algorithm for betweenness centrality",
+      "venue": "Journal of Mathematical Sociology 25(2), pp. 163-177",
+      "doi": "10.1080/0022250X.2001.9990249",
+      "url": "https://doi.org/10.1080/0022250X.2001.9990249",
+      "note": "The algorithm implemented in metrics/aam4j_metrics/graph.py, which is what makes betweenness affordable to recompute on every snapshot."
+    },
+    "rudin2019": {
+      "authors": "Rudin, C.",
+      "year": 2019,
+      "title": "Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead",
+      "venue": "Nature Machine Intelligence 1, pp. 206-215",
+      "doi": "10.1038/s42256-019-0048-x",
+      "url": "https://doi.org/10.1038/s42256-019-0048-x",
+      "note": "The position P5 and DD-007 rest on: prefer a model whose decisions decompose over an explanation layered onto one whose do not."
+    },
+    "lundberg2017": {
+      "authors": "Lundberg, S. M., Lee, S.-I.",
+      "year": 2017,
+      "title": "A Unified Approach to Interpreting Model Predictions",
+      "venue": "NeurIPS 2017",
+      "url": "https://arxiv.org/abs/1705.07874",
+      "note": "SHAP, the attribution method planned for the gradient-boosted arm. Its estimates carry sampling error; the linear baseline's attributions do not, which is why the linear model comes first."
+    },
+    "jia2011": {
+      "authors": "Jia, Y., Harman, M.",
+      "year": 2011,
+      "title": "An Analysis and Survey of the Development of Mutation Testing",
+      "venue": "IEEE Transactions on Software Engineering 37(5), pp. 649-678",
+      "doi": "10.1109/TSE.2010.62",
+      "url": "https://doi.org/10.1109/TSE.2010.62",
+      "note": "The mutation-testing tradition DD-008 borrows from. The borrowing is analogical: those operators mutate code to test a test suite, these mutate an architecture to label a dataset, and the distribution objection applies to the second in a way it does not to the first."
+    },
+    "kapoor2023": {
+      "authors": "Kapoor, S., Narayanan, A.",
+      "year": 2023,
+      "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+      "venue": "Patterns 4(9), 100804",
+      "doi": "10.1016/j.patter.2023.100804",
+      "url": "https://doi.org/10.1016/j.patter.2023.100804",
+      "note": "The survey behind P2 and P3. It catalogues the leakage types that produce irreproducible results across fields, including train-test contamination through preprocessing fitted on all the data."
+    }
+  }
+}

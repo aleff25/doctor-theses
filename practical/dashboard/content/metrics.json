@@ -1,0 +1,294 @@
+{
+  "metrics": [
+    {
+      "id": "AIS",
+      "name": "Absolute Importance of a Service",
+      "group": "A. Inter-service coupling",
+      "level": "service",
+      "formula": "AIS(s) = |{t : (t,s) in D}|",
+      "plain": "How many other services call this one.",
+      "reads": [
+        "static",
+        "configuration"
+      ],
+      "high_means": "Many services depend on this one, so a breaking change here propagates widely.",
+      "hypothesis": "Higher AIS is hypothesised to reduce modifiability: the service is harder to change without coordinating with its callers.",
+      "limitation": "Counts declared edges only. A caller that exists in code but never fires at runtime counts the same as one on the hot path. The declared/observed delta is itself the finding, and needs telemetry to compute.",
+      "status": "implemented",
+      "refs": [
+        "rud2006",
+        "bogner2017"
+      ]
+    },
+    {
+      "id": "ADS",
+      "name": "Absolute Dependence of a Service",
+      "group": "A. Inter-service coupling",
+      "level": "service",
+      "formula": "ADS(s) = |{t : (s,t) in D}|",
+      "plain": "How many other services this one calls.",
+      "reads": [
+        "static",
+        "configuration"
+      ],
+      "high_means": "The service cannot do its job alone; its availability is the product of its dependencies'.",
+      "hypothesis": "Higher ADS is hypothesised to reduce reliability and testability, since more collaborators must be present or mocked.",
+      "limitation": "Same declared-only limit as AIS. Also blind to call frequency: one call per request and one call per year count alike.",
+      "status": "implemented",
+      "refs": [
+        "rud2006",
+        "bogner2017"
+      ]
+    },
+    {
+      "id": "ACS",
+      "name": "Absolute Criticality of a Service",
+      "group": "A. Inter-service coupling",
+      "level": "service",
+      "formula": "ACS(s) = AIS(s) x ADS(s)",
+      "plain": "Importance times dependence: services that are both called and calling.",
+      "reads": [
+        "derived"
+      ],
+      "high_means": "The service sits on a path rather than at an end of one, so a failure both affects callers and is affected by callees.",
+      "hypothesis": "Higher ACS is hypothesised to concentrate failure impact, making the service a candidate for extra resilience work.",
+      "limitation": "A product is zero whenever either factor is zero, so a heavily called leaf service scores 0. That is the intended reading (criticality here means on-a-path, not important) but it is easy to misread.",
+      "status": "implemented",
+      "refs": [
+        "rud2006"
+      ]
+    },
+    {
+      "id": "SCF",
+      "name": "Service Coupling Factor",
+      "group": "A. Inter-service coupling",
+      "level": "system",
+      "formula": "SCF = |D| / (|S|^2 - |S|)",
+      "plain": "Density of the service graph: what fraction of all possible directed pairs actually communicate.",
+      "reads": [
+        "derived"
+      ],
+      "high_means": "The system tends towards a mesh rather than layers, so no service can be reasoned about in isolation.",
+      "hypothesis": "Higher SCF is hypothesised to reduce modifiability at the system level.",
+      "limitation": "Sensitive to |S| in a way that makes cross-system comparison delicate: splitting one service into two lowers SCF without changing any real coupling. Directly inherited from the object-oriented Coupling Factor, and inherits its criticisms.",
+      "status": "implemented",
+      "refs": [
+        "abreu1996",
+        "perepletchikov2007"
+      ]
+    },
+    {
+      "id": "ASYNC%",
+      "name": "Asynchrony ratio",
+      "group": "A. Inter-service coupling",
+      "level": "service",
+      "formula": "ASYNC%(s) = |async edge elements incident to s| / |edge elements incident to s|",
+      "plain": "What share of this service's communication is asynchronous rather than a blocking call.",
+      "reads": [
+        "static",
+        "configuration"
+      ],
+      "high_means": "The service is temporally decoupled from its collaborators, which usually helps availability and hurts traceability.",
+      "hypothesis": "Higher asynchrony is hypothesised to improve availability and complicate debugging and end-to-end latency accounting.",
+      "limitation": "Undetermined for a service with no edges, since a ratio over zero edges is not zero. DD-004 governs what may count as async at all: without that rule this metric measures the observability stack instead of the application.",
+      "status": "implemented",
+      "refs": [
+        "taibi2018"
+      ]
+    },
+    {
+      "id": "DEG",
+      "name": "Degree centrality",
+      "group": "D. Centrality",
+      "level": "service",
+      "formula": "DEG(s) = |neighbours(s)| / (|S| - 1)",
+      "plain": "How many distinct services this one talks to, as a fraction of how many it could.",
+      "reads": [
+        "derived"
+      ],
+      "high_means": "A hub. It participates in a large share of the system's conversations.",
+      "hypothesis": "Higher degree centrality is hypothesised to correlate with change-proneness and with blast radius during incidents.",
+      "limitation": "Undirected, so it cannot tell a service everyone calls from one that calls everyone. Normalised by graph size, which makes it comparable across systems but hides absolute scale.",
+      "status": "implemented",
+      "refs": [
+        "freeman1977"
+      ]
+    },
+    {
+      "id": "BTW",
+      "name": "Betweenness centrality",
+      "group": "D. Centrality",
+      "level": "service",
+      "formula": "BTW(s) = sum over pairs of the fraction of shortest paths through s, normalised by (|S|-1)(|S|-2)",
+      "plain": "How often this service sits on the shortest path between two others.",
+      "reads": [
+        "derived"
+      ],
+      "high_means": "A broker or a bottleneck: traffic between other services routes through it.",
+      "hypothesis": "High betweenness with no replication in the deployment model is the bottleneck smell; it is hypothesised to predict availability incidents.",
+      "limitation": "Computed unweighted, because this evidence configuration has no observed call volume. The catalogue asks for volume weighting, so today's value answers a weaker question than the one the catalogue poses, and the profile says so in its note.",
+      "status": "implemented",
+      "refs": [
+        "freeman1977",
+        "brandes2001"
+      ]
+    },
+    {
+      "id": "NOE",
+      "name": "Number of endpoints",
+      "group": "C. Service granularity",
+      "level": "service",
+      "formula": "NOE(s) = |E(s)|",
+      "plain": "How many HTTP endpoints the service exposes.",
+      "reads": [
+        "static"
+      ],
+      "high_means": "A wide public surface, which usually means the service carries several responsibilities.",
+      "hypothesis": "Higher NOE is hypothesised to indicate coarser granularity and lower cohesion.",
+      "limitation": "Counts endpoint elements, so two HTTP methods on one route count as two. That is what DD-001's identity scheme forces; the catalogue does not say either way, and a different reading would change every NOE in the dataset.",
+      "status": "implemented",
+      "refs": [
+        "bogner2017",
+        "taibi2018"
+      ]
+    },
+    {
+      "id": "NOD",
+      "name": "Number of domain entities owned",
+      "group": "C. Service granularity",
+      "level": "service",
+      "formula": "NOD(s) = |{e : owner(e) = s}|",
+      "plain": "How many persisted domain types the service owns.",
+      "reads": [
+        "static"
+      ],
+      "high_means": "The service owns a large slice of the domain model, which is the data-side signal of a service doing too much.",
+      "hypothesis": "Higher NOD is hypothesised to indicate a bounded context that was drawn too wide.",
+      "limitation": "The catalogue asks for aggregate roots; the extractor sees persisted types, which over-counts an aggregate spread over several tables. This is a construct-validity gap, not a bug, and it needs a domain-model-aware analyser to close.",
+      "status": "implemented",
+      "refs": [
+        "neri2020"
+      ]
+    },
+    {
+      "id": "CYC",
+      "name": "Cyclic dependency",
+      "group": "E. Architectural smells",
+      "level": "service",
+      "formula": "CYC(s) = 1 if s belongs to a strongly connected component of size > 1, else 0",
+      "plain": "Is this service part of a dependency cycle?",
+      "reads": [
+        "derived"
+      ],
+      "high_means": "The services in the cycle cannot be deployed, versioned or reasoned about independently.",
+      "hypothesis": "Cycles are hypothesised to block independent deployability, the property microservices exist to buy.",
+      "limitation": "A predicate over declared edges. A cycle that only closes at runtime, through a message broker or a shared database, is invisible here. Filtering infrastructure out of the graph (DD-002) can also break a cycle that a full-model view would show.",
+      "status": "implemented",
+      "refs": [
+        "taibi2018",
+        "neri2020"
+      ]
+    },
+    {
+      "id": "SHARED_DB",
+      "name": "Shared persistence",
+      "group": "E. Architectural smells",
+      "level": "service",
+      "formula": "SHARED_DB(s) = 1 if exists p in P(s) shared with another service, else 0",
+      "plain": "Does this service share a database with another service?",
+      "reads": [
+        "static"
+      ],
+      "high_means": "Two services are coupled through their data, so neither owns its schema and neither can migrate alone.",
+      "hypothesis": "Shared persistence is hypothesised to be the strongest single predictor of coupled deployments in a microservice system.",
+      "limitation": "Evaluated within a vendor, since two vendors' DDL are alternative deployments of one service rather than two live stores. Reports undetermined, never 0, when the snapshot does not identify the store: that case is common and it is where a naive implementation reports a clean bill of health.",
+      "status": "implemented",
+      "refs": [
+        "taibi2018",
+        "neri2020"
+      ]
+    },
+    {
+      "id": "GOD",
+      "name": "God service",
+      "group": "E. Architectural smells",
+      "level": "service",
+      "formula": "GOD(s) = AIS(s) > t1 and NOE(s) > t2 and NOD(s) > t3",
+      "plain": "Is this service too important, too wide and too data-heavy at the same time?",
+      "reads": [
+        "derived"
+      ],
+      "high_means": "A service that concentrates the system's coupling, surface and domain data at once.",
+      "hypothesis": "God services are hypothesised to be the dominant source of coordination cost in a microservice codebase.",
+      "limitation": "Entirely threshold-dependent, and the thresholds are the part of any smell catalogue reviewers attack first. Currently undetermined on every service, because the AIS threshold could not be derived (see DD-006).",
+      "status": "undetermined",
+      "refs": [
+        "taibi2018",
+        "neri2020",
+        "bogner2020"
+      ]
+    }
+  ],
+  "absent": [
+    {
+      "id": "PR",
+      "name": "PageRank",
+      "group": "D. Centrality",
+      "why_absent": "The catalogue defines it as weighted by observed call volume. No subject system is instrumented yet, and an unweighted PageRank is a different metric wearing the same name."
+    },
+    {
+      "id": "LOC_s",
+      "name": "Size in lines of code",
+      "group": "C. Service granularity",
+      "why_absent": "The extractor emits no LOC facts. Adding them is easy; doing it before the JVM analyser lands would mean counting lines with a regex."
+    },
+    {
+      "id": "SGI",
+      "name": "Service Granularity Index",
+      "group": "C. Service granularity",
+      "why_absent": "A weighted composite of NOE, NOD and LOC_s. Its weighting is an open decision that the catalogue says not to freeze before a sensitivity analysis, and LOC_s does not exist yet."
+    },
+    {
+      "id": "NANO",
+      "name": "Nano service",
+      "group": "E. Architectural smells",
+      "why_absent": "Defined as NOE = 1 and LOC_s below a threshold. Blocked on LOC_s."
+    },
+    {
+      "id": "BOTTLE",
+      "name": "Bottleneck",
+      "group": "E. Architectural smells",
+      "why_absent": "Needs betweenness in the top decile plus replication facts from the deployment model. The deployment model exists; the replication facts do not."
+    },
+    {
+      "id": "CPL",
+      "name": "Call path length",
+      "group": "B. Communication complexity",
+      "why_absent": "Trace-only. The whole of group B needs distributed tracing, and no subject system is instrumented in this configuration."
+    },
+    {
+      "id": "CPL_max",
+      "name": "Deepest call path",
+      "group": "B. Communication complexity",
+      "why_absent": "Trace-only."
+    },
+    {
+      "id": "CHAT",
+      "name": "Chattiness",
+      "group": "B. Communication complexity",
+      "why_absent": "Trace-only."
+    },
+    {
+      "id": "FANOUT_r",
+      "name": "Request fan-out",
+      "group": "B. Communication complexity",
+      "why_absent": "Trace-only."
+    },
+    {
+      "id": "CHATTY",
+      "name": "Chatty communication",
+      "group": "E. Architectural smells",
+      "why_absent": "Defined in terms of CHAT, which is trace-only."
+    }
+  ]
+}

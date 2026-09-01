@@ -20,6 +20,7 @@ here exists because the SLR says something is missing from the literature — no
 | `extractor/` | Obj. 3 / T4 | — | Builds metamodel instances from Java code, configuration and deployment descriptors |
 | `models/` | Obj. 4 / T5 | G3 | Hybrid metric+AI models, interpretable-by-design, and the supervision they need |
 | `api/` | Obj. 5 / T6 | G4 | REST/export backbone + developer-facing feedback (trust level T0) |
+| `dashboard/` | Obj. 5 / T6 | G4 | React view of the results, each number traced back to its source code |
 | `subjects/` | all | — | The three subject systems the whole chain is evaluated on |
 | `data/` | Obj. 4–5 | — | Extracted models, metric profiles, labels, train/test splits |
 
@@ -151,7 +152,23 @@ curl -s localhost:8000/systems/petclinic/services/customers-service
 
 The API serves a different data root if you point `AAM4J_ROOT` at one.
 
-### 8. Run the tests
+### 8. Open the dashboard
+
+```bash
+./.venv/bin/python dashboard/build_dashboard_data.py   # writes dashboard/public/dashboard.json
+cd dashboard && npm install && npm run dev             # http://localhost:5173
+```
+
+A React application over what the pipeline stored, with five views: what was measured, every
+service with the **source code behind each of its numbers**, the metric catalogue as a hoverable
+glossary, every design decision with its cost and the condition to reopen it, and the learning
+results fold by fold. `npm run build` produces a `dist/` that also opens by double-click, with no
+server, which is the form to hand a supervisor. See `dashboard/README.md`.
+
+Node 20 or newer. This is the only part of the repository that needs a JavaScript toolchain, and
+nothing else depends on it.
+
+### 9. Run the tests
 
 ```bash
 ./.venv/bin/pytest
@@ -169,6 +186,7 @@ collected and fail on their own dependencies.
 | `wc -l data/processed/*/*/metric_profile.csv` | 46, 145 and 332 lines for petclinic, teastore and trainticket, one header plus 11 service metrics per functional service plus one system-level `SCF` row |
 | `metrics/catalogue/thresholds.json` | `GOD.AIS` present with `"value": null` and a `reason` |
 | `models/build_dataset.py` | 12 mutants, 194 labelled rows, three task datasets |
+| `dashboard/build_dashboard_data.py` | 12 implemented metrics, 13 rule cards, 13 references, 0 dangling citations |
 | Re-running everything | byte-identical outputs. No artifact contains a timestamp or an absolute path, so a diff after a second run is a bug, not noise. |
 
 ### If something goes wrong
@@ -204,6 +222,7 @@ rationale as its own artifact) is still folded into the attribution records the 
 | ④ models | Mutation-based labels + `logreg-l2/0.1.0` baseline, leave-one-system-out. |
 | ⑤ explanation | Exact attributions from the linear model; no separate rationale artifact yet. |
 | ⑥ api | FastAPI, read-only, trust level **T0**: no LLM, and no assessment at all until stage ④ ships a model. |
+| ⑥ dashboard | React over the stored artifacts. Shows the metric profile, the evidence and the code behind each number, the rules with their costs, and the folds. Recomputes nothing. |
 
 **The one number that governs the next months of work.** The extractor recovers almost no
 dependencies outside PetClinic, and three consequences follow immediately: `AIS` has a degenerate
