@@ -32,8 +32,9 @@ upstream stage has a frozen version.
 ## Reproducing the artifact
 
 Everything needed to run the pipeline on any machine is in
-[`practical/README.md`](practical/README.md#running-it-on-any-machine). Stages 1 to 3 have no
-third-party dependencies at all: Python and git are enough.
+[`practical/README.md`](practical/README.md#running-it-on-any-machine). Stages 1 to 3 need Python,
+git and a single third-party package (PyYAML); the API and the learning baseline are optional
+extras.
 
 ## What is deliberately not in this repository
 

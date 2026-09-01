@@ -44,16 +44,18 @@ exact commit of each, for reproducibility).
 
 ## Running it on any machine
 
-Stages 1 to 3 have **no third-party dependencies at all**: a reviewer with a Python install and git
-can reproduce every stored artifact, byte for byte. The API and the learning baseline are optional
-extras. There is no Docker, no Maven and no JDK in the loop: the pipeline reads the subject systems'
-sources and descriptors, it never builds or runs them.
+Stages 1 to 3 need **one third-party package, PyYAML**: the extractor parses `application.yml` and
+`docker-compose.yml`, and the DD-002 role catalogue is YAML. Nothing else. A reviewer with Python,
+git and that one package reproduces every stored artifact, byte for byte. The API and the learning
+baseline are optional extras. There is no Docker, no Maven and no JDK in the loop: the pipeline
+reads the subject systems' sources and descriptors, it never builds or runs them.
 
 ### Prerequisites
 
 | Need | Why |
 |---|---|
 | Python 3.10 or newer | tested on 3.10 and 3.14 |
+| pip 23.1 or newer | older pip cannot do an editable install from `pyproject.toml` alone |
 | git | to fetch the three subject systems at their pinned commits |
 | About 1.5 GB of free disk | the three clones; the pipeline's own outputs are a few hundred KB |
 | Network access, once | for the clones and, if you want them, the optional extras |
@@ -180,6 +182,13 @@ collected and fail on their own dependencies.
   Do not re-pin silently: a changed SHA invalidates every stored profile that claims to describe it.
 - **`'system' is not in subjects.lock.json`.** Only the three pinned names are accepted, which is
   what stops an unpinned working copy from being analysed as if it were the subject system.
+- **`Multiple top-level packages discovered in a flat-layout`** from pip. An old checkout, from
+  before the packages were declared explicitly in `pyproject.toml`. Pull and retry: setuptools
+  cannot tell `docs/`, `data/` and `subjects/` from importable packages, and refuses to guess.
+- **`No module named 'yaml'`** when running the pipeline. The environment was never installed, or
+  the wrong `python` is being used. `./.venv/bin/pip install -e .` is the minimum.
+- **A `scikit-learn` build from source that fails.** Only `models/train_baseline.py` needs it.
+  Install without that extra (`pip install -e '.[api,dev]'`); everything else still runs.
 
 ## Current status
 

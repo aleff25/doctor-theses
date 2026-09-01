@@ -25,6 +25,9 @@ build/
 *.jar
 
 # Python
+*.egg-info/
+build/
+dist/
 __pycache__/
 .pytest_cache/
 .venv/
