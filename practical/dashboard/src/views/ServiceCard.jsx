@@ -97,7 +97,7 @@ export default function ServiceCard({ service }) {
 
       {service.evidence.outbound.length > 0 ? (
         <>
-          <div className="section-label">Calls out ({service.evidence.outbound.length}) · this is ADS</div>
+          <EdgeHeading edges={service.evidence.outbound} metric="ADS" verb="Calls out" />
           {service.evidence.outbound.map((edge) => (
             <EdgeBlock key={edge.other + edge.kind} edge={edge} direction="to" />
           ))}
@@ -106,7 +106,7 @@ export default function ServiceCard({ service }) {
 
       {service.evidence.inbound.length > 0 ? (
         <>
-          <div className="section-label">Called by ({service.evidence.inbound.length}) · this is AIS</div>
+          <EdgeHeading edges={service.evidence.inbound} metric="AIS" verb="Called by" />
           {service.evidence.inbound.map((edge) => (
             <EdgeBlock key={edge.other + edge.kind} edge={edge} direction="from" />
           ))}
@@ -189,6 +189,26 @@ export default function ServiceCard({ service }) {
   )
 }
 
+/**
+ * The count in the heading is not the metric.
+ *
+ * A service can declare four dependencies and have ADS = 2, because DD-002
+ * keeps edges to infrastructure out of the graph the metric is computed over.
+ * Labelling the whole list "this is ADS" would make the card contradict its own
+ * metric table two sections above, so the heading states both numbers whenever
+ * they differ.
+ */
+function EdgeHeading({ edges, metric, verb }) {
+  const inGraph = edges.filter((edge) => edge.in_graph).length
+  return (
+    <div className="section-label">
+      {verb} ({edges.length} modelled
+      {inGraph === edges.length ? '' : `, ${inGraph} in the graph`}) · {metric} counts the{' '}
+      {inGraph} in the graph
+    </div>
+  )
+}
+
 function EdgeBlock({ edge, direction }) {
   return (
     <div className="card" style={{ marginTop: 8 }}>
@@ -198,6 +218,9 @@ function EdgeBlock({ edge, direction }) {
         </span>
         <span className="chip">{edge.kind}</span>
         <span className="chip">{edge.provenance}</span>
+        {edge.in_graph ? null : (
+          <span className="chip warn">not in G · DD-002</span>
+        )}
         {edge.mechanisms.map((mechanism) => (
           <span key={mechanism} className="chip mono">
             {mechanism}

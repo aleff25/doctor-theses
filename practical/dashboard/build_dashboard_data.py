@@ -41,7 +41,7 @@ for package_dir in ("extractor", "metamodel", "metrics", "models"):
 
 from aam4j_metrics.catalogue import CATALOGUE_VERSION, METRICS  # noqa: E402
 from aam4j_metrics.thresholds import Thresholds  # noqa: E402
-from aam4j_model.model import METAMODEL_VERSION  # noqa: E402
+from aam4j_model.model import FUNCTIONAL, METAMODEL_VERSION  # noqa: E402
 
 SNIPPET_CONTEXT = 4
 ENDPOINT_SNIPPET_BUDGET = 12  # per service; the rest keep file and line only
@@ -173,6 +173,8 @@ def build_system(subject: dict, data_root: str) -> dict:
 
     modules_by_name = {m["service_name"]: m for m in manifest["modules"]}
 
+    in_graph_ids = {s["id"] for s in model["services"] if s["role"] == FUNCTIONAL}
+
     services = []
     for record in model["services"]:
         name = record["name"]
@@ -184,6 +186,13 @@ def build_system(subject: dict, data_root: str) -> dict:
                     {
                         "other": dependency["target"],
                         "other_name": target,
+                        # Whether this edge is in G at all. A service can declare
+                        # four dependencies and have ADS = 2: DD-002 keeps edges
+                        # to infrastructure out of the graph the metric counts.
+                        # Labelling the whole list "this is ADS" would make the
+                        # card contradict its own metric table.
+                        "in_graph": dependency["target"] in in_graph_ids
+                        and record["id"] in in_graph_ids,
                         "kind": dependency["kind"],
                         "provenance": dependency["provenance"],
                         "mechanisms": dependency["mechanisms"],
@@ -196,6 +205,8 @@ def build_system(subject: dict, data_root: str) -> dict:
                     {
                         "other": dependency["source"],
                         "other_name": source,
+                        "in_graph": dependency["source"] in in_graph_ids
+                        and record["id"] in in_graph_ids,
                         "kind": dependency["kind"],
                         "provenance": dependency["provenance"],
                         "mechanisms": dependency["mechanisms"],
