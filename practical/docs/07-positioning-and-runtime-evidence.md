@@ -149,11 +149,36 @@ Three ways out, in order of honesty rather than convenience:
    fourth subject system. Costs a new extraction target and loses the alignment with the
    fault-diagnosis literature that Train Ticket was chosen for.
 
-**What decides it is one measurement that has not been made yet:** which service names actually
-appear in the AnoMod traces. The archive is 201.9 MB on Zenodo, and Zenodo is blocked from both this
-session's container and the device bridge, so it has to be fetched by hand. Listing the distinct
-`serviceName` values in the trace files answers the question in minutes and settles routes and
-pinning together. Nothing else should be built before that.
+### The measurement, made 2026-09-02
+
+The archive is on disk at `data/external/anomod/` (see that directory's README for provenance and licence) and `subjects/inspect_anomod.py` has been run against it. The traces are
+**Apache SkyWalking** exports, not Zipkin or Jaeger: each file carries a `metadata.services_discovered`
+list and spans keyed by `service_code`, with parent and child node ids, depth, duration and an error
+flag. That shape is better than expected, because a parent-to-child pair of `service_code` values is
+an observed dependency directly, and `depth` plus the span tree give call path length and fan-out
+without further work.
+
+Thirteen runs for Train Ticket: one normal case and twelve injected faults, named by level
+(`Lv_P_` performance, `Lv_S_` service, `Lv_D_` database, `Lv_C_` code), each with traces, logs,
+metrics, API responses and coverage.
+
+**35 distinct Train Ticket services appear in the traces.** The join:
+
+| Pinned at | Services matched | |
+|---|---:|---|
+| `refactor/v2` (DD-003, today) | 24 / 35 | **69%** |
+| `master` | 35 / 35 | **100%** |
+
+Not one traced service is missing a module on `master`. The eleven unmatched under `refactor/v2` are
+not marginal either: `ts-route-service` (12,740 spans), `ts-order-other-service` (10,790),
+`ts-price-service` (3,308), `ts-station-food-service` (3,792), `ts-food-service` (2,470),
+`ts-train-food-service` (2,527), `ts-notification-service` (2,080) and four others. Thirteen of our
+functional services, the `refactor/v2`-only ones, never appear in a trace at all.
+
+This is conclusive: **the dataset was collected on a Train Ticket whose service naming is `master`,
+not `refactor/v2`.** DD-003's own revisit clause fires, word for word: *"Revisit if the
+fault-injection dataset turns out to be defined only against master. The label source is the reason
+this system is in the study at all, so it outranks the branch preference."*
 
 ### Both routes need the same new capability
 

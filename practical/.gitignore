@@ -3,6 +3,12 @@ subjects/petclinic/
 subjects/trainticket/
 subjects/teastore/
 
+# Third-party datasets. Downloaded, not produced here, and far too large for a
+# repository: AnoMod alone is 3 GB on disk. Provenance and the exact download
+# instructions live in data/external/README.md, which is tracked.
+data/external/*
+!data/external/README.md
+
 # Generated data — provenance lives in each dir's README, contents are reproducible
 data/raw/*
 data/interim/*

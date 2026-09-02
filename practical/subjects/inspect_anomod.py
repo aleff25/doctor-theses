@@ -54,7 +54,18 @@ NAME_PATTERNS = [
     # reach across a little JSON rather than sit next to it.
     re.compile(rb'"service\.name".{0,80}?"stringValue"\s*:\s*"([^"]{1,120})"', re.DOTALL),
     re.compile(rb'"service_name"\s*:\s*"([^"]{1,120})"'),
+    # SkyWalking, which is what AnoMod actually exports. Its spans carry
+    # `service_code`, and each file also lists `services_discovered` and, per
+    # trace, `services_involved`.
+    re.compile(rb'"service_code"\s*:\s*"([^"]{1,120})"'),
 ]
+
+#: Arrays of bare service names that some exports carry alongside the spans.
+NAME_ARRAY_KEYS = (b"services_discovered", b"services_involved")
+ARRAY_PATTERN = re.compile(
+    rb'"(?:' + b"|".join(NAME_ARRAY_KEYS) + rb')"\s*:\s*\[([^\]]{0,20000})\]'
+)
+ARRAY_ITEM = re.compile(rb'"([^"]{1,120})"')
 
 TEXT_SUFFIXES = (".json", ".ndjson", ".jsonl", ".csv", ".tsv", ".log", ".txt")
 SCAN_BUDGET = 64 * 1024 * 1024  # per file; the names repeat, the tail adds nothing
@@ -87,6 +98,12 @@ def scan_bytes(blob: bytes) -> collections.Counter:
     for pattern in NAME_PATTERNS:
         for match in pattern.finditer(blob):
             found[match.group(1).decode("utf-8", "replace")] += 1
+    # Names listed in an array rather than on a span. Counted once each, not per
+    # occurrence: they are a declaration of what was present, not a measurement
+    # of how often it was called.
+    for match in ARRAY_PATTERN.finditer(blob):
+        for item in ARRAY_ITEM.finditer(match.group(1)):
+            found.setdefault(item.group(1).decode("utf-8", "replace"), 0)
     return found
 
 
