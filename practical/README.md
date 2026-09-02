@@ -240,7 +240,10 @@ distribution, so `derive_thresholds.py` *refuses* to emit a threshold for it and
 undetermined everywhere; the `cycle` and `shared-persistence` tasks have labels for PetClinic only,
 so neither can be evaluated leave-one-system-out; and any centrality figure outside PetClinic is
 currently a picture of missing evidence. A JVM analyser behind the existing seam (`extractor/spi.py`)
-is therefore the highest-value next piece of work, ahead of any modelling.
+is therefore the highest-value next piece of work on the **declared** side of the graph. Whether it
+comes before or after runtime evidence is now an open question, and the argument is in
+`docs/07-positioning-and-runtime-evidence.md`: the observed side is what distinguishes this artifact
+from tools a reviewer can buy, and the declared side is what makes it accurate.
 
 ## Documents
 
@@ -250,3 +253,4 @@ is therefore the highest-value next piece of work, ahead of any modelling.
 - `docs/04-pattern-catalogue.md` — the ~10 reference patterns/anti-patterns that form the regression ground truth (SLR §5.4)
 - `docs/05-labels-and-datasets.md` — where the training labels come from, per system
 - `docs/06-design-decisions.md` — numbered, dated decisions (DD-001 …). Downstream work relies on these; reversing one is a versioned change, not an edit.
+- `docs/07-positioning-and-runtime-evidence.md` — what this does that SonarQube and Azure do not, why that answer depends on runtime evidence that does not exist yet, and the two routes to getting it
