@@ -37,7 +37,7 @@ label* (see `docs/02-subject-systems.md` for the full rationale):
 | System | Services | Role in the thesis |
 |---|---|---|
 | Spring PetClinic Microservices | 8 modules (vets, visits/appointments, customers, gateway, config, discovery, admin, genai) | Reference/control system; full Prometheus+Grafana+Zipkin stack; pattern ground truth |
-| FudanSELab Train Ticket | 33 `ts-*` modules (`refactor/v2`) | Scale; **label source unresolved — see `docs/05`** |
+| FudanSELab Train Ticket | 47 `ts-*` modules (`master`, DD-009) | Scale, and the label source: the AnoMod fault-injection traces name this branch's services |
 | Descartes TeaStore | 5 services + registry | Performance/energy labels; built for model extraction, so it validates RQ1 |
 
 Fetch them with `./subjects/fetch_subjects.sh` (clones + writes `subjects.lock.json` recording the
@@ -193,9 +193,9 @@ collected and fail on their own dependencies.
 | Check | Expected |
 |---|---|
 | `pytest` | 76 passed. The API tests skip if the `api` extra is not installed, and tests needing PetClinic skip until the pipeline has run once. |
-| `wc -l data/processed/*/*/metric_profile.csv` | 46, 145 and 332 lines for petclinic, teastore and trainticket, one header plus 11 service metrics per functional service plus one system-level `SCF` row |
+| `wc -l data/processed/*/*/metric_profile.csv` | 46, 145 and 464 lines for petclinic, teastore and trainticket, one header plus 11 service metrics per functional service plus one system-level `SCF` row |
 | `metrics/catalogue/thresholds.json` | `GOD.AIS` present with `"value": null` and a `reason` |
-| `models/build_dataset.py` | 12 mutants, 194 labelled rows, three task datasets |
+| `models/build_dataset.py` | 14 mutants, 368 labelled rows, three task datasets |
 | `dashboard/build_dashboard_data.py` | 12 implemented metrics, 13 rule cards, 13 references, 0 dangling citations |
 | Re-running everything | byte-identical outputs. No artifact contains a timestamp or an absolute path, so a diff after a second run is a bug, not noise. |
 
@@ -234,12 +234,12 @@ rationale as its own artifact) is still folded into the attribution records the 
 | ⑥ api | FastAPI, read-only, trust level **T0**: no LLM, and no assessment at all until stage ④ ships a model. |
 | ⑥ dashboard | React over the stored artifacts. Shows the metric profile, the evidence and the code behind each number, the rules with their costs, and the folds. Recomputes nothing. |
 
-**The one number that governs the next months of work.** The extractor recovers almost no
-dependencies outside PetClinic, and three consequences follow immediately: `AIS` has a degenerate
+**The one number that governs the next months of work.** The extractor recovers 7 call sites across
+all three systems, and after DD-002 filtering the graph the metrics are computed over holds **4
+edges across 59 functional services**. Two consequences follow immediately: `AIS` has a degenerate
 distribution, so `derive_thresholds.py` *refuses* to emit a threshold for it and `GOD` is
-undetermined everywhere; the `cycle` and `shared-persistence` tasks have labels for PetClinic only,
-so neither can be evaluated leave-one-system-out; and any centrality figure outside PetClinic is
-currently a picture of missing evidence. A JVM analyser behind the existing seam (`extractor/spi.py`)
+undetermined everywhere; and any centrality figure is currently a picture of missing evidence rather
+than of architecture. A JVM analyser behind the existing seam (`extractor/spi.py`)
 is therefore the highest-value next piece of work on the **declared** side of the graph. Whether it
 comes before or after runtime evidence is now an open question, and the argument is in
 `docs/07-positioning-and-runtime-evidence.md`: the observed side is what distinguishes this artifact

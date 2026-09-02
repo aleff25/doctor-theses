@@ -144,7 +144,7 @@ can have 2.4 endpoints.
 
 The script refuses to emit a threshold whose quantile equals the minimum of the distribution: such
 a threshold separates nothing. On the current profiles this fires on `AIS` (q=0.9 equals 0 over
-n=47 services), so `GOD` reports **undetermined** on every service rather than a verdict. The cause
+n=59 services), so `GOD` reports **undetermined** on every service rather than a verdict. The cause
 is the regex static analyser recovering almost no dependencies outside PetClinic, which makes this
 a finding about stage ①, not about the subject systems. A conjunctive predicate evaluated with two
 of its three conjuncts is a looser predicate, so `GOD` is all-or-nothing by construction.

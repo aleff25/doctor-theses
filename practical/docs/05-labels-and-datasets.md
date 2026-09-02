@@ -121,12 +121,15 @@ leave-one-system-out split.
 
 | Task | Rows | Positives | Systems with labels |
 |---|---|---|---|
-| `oversized-service` | 179 | 9 | petclinic, teastore, trainticket |
-| `cycle` | 12 | 4 | petclinic only |
+| `oversized-service` | 227 | 9 | petclinic, teastore, trainticket |
+| `cycle` | 138 | 8 | petclinic, trainticket |
 | `shared-persistence` | 3 | 2 | petclinic only |
 
-Only one of the three tasks can be evaluated leave-one-system-out at all, and the reason is the
-same one that blocks `GOD`: the regex analyser recovers 4 declared dependencies in PetClinic, 1 in
+(Figures after DD-009 re-pinned Train Ticket to `master`. Before it, `cycle` had 12 rows in one
+system and could not be evaluated leave-one-system-out at all.)
+
+Two of the three tasks can now be evaluated leave-one-system-out, and the one that cannot is blocked
+by the same thing that blocks `GOD`: the regex analyser recovers 4 call sites in PetClinic, 3 in
 Train Ticket and 0 in TeaStore, and two of the three operators need dependencies or persistence
 links to have something to damage. A JVM static analyser behind the existing `StaticAnalyser` seam
 is therefore a prerequisite for supervision, not only for the metrics.
@@ -135,3 +138,29 @@ is therefore a prerequisite for supervision, not only for the metrics.
 prediction records in the 4 -> 5 contract shape. Its numbers are a wiring test: they show whether
 the metrics respond to an injected architectural change, and say nothing about real-world quality
 outcomes. That sentence belongs in threats to validity, as this document already required.
+
+---
+
+## Resolved: the label source (2026-09-02)
+
+The open action at the top of the Train Ticket section, *verify which fault-injection dataset is
+current and what exactly it labels*, is closed.
+
+**AnoMod** (Ping, K., Bin Mazhar, H., Wang, Y., Song, Y., Mäntylä, M. V., 2026, MSR '26,
+[doi:10.1145/3793302.3793324](https://doi.org/10.1145/3793302.3793324), data
+[doi:10.5281/zenodo.18342898](https://doi.org/10.5281/zenodo.18342898), CC-BY-4.0). Thirteen Train
+Ticket runs, one normal and twelve with injected faults across four levels: performance
+(`Lv_P_`), service (`Lv_S_`), database (`Lv_D_`) and code (`Lv_C_`). Each run carries traces, logs,
+metrics, API responses and coverage.
+
+**Label granularity, which this document said to establish before designing the feature pipeline:**
+service level and code region. Service level is what this pipeline's elements are, so the join is
+direct. Code-region labels are finer than any element in the metamodel and are not usable without
+adding one.
+
+**Traces are Apache SkyWalking**, which is better than the Zipkin or Jaeger assumed here: spans
+carry `service_code` with parent and child node ids and depth, so an observed dependency is a
+parent-to-child pair and the span tree yields call path length and fan-out for group B directly.
+
+The dataset lives at `data/external/anomod/`, gitignored, with provenance and licence in that
+directory's README. Attribution is required by CC-BY-4.0 for any figure derived from it.

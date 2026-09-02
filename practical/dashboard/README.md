@@ -87,6 +87,6 @@ says which secondary source confirms the attribution.
 - **No averaging across folds.** With three systems and single-digit positives, a headline number
   would flatter the result into meaninglessness. Each fold is shown against its own majority-class
   rate.
-- **No chart of the service graph.** With 2 edges across 47 functional services, a graph drawing
+- **No chart of the service graph.** With 4 edges across 59 functional services, a graph drawing
   would be a picture of the extractor's coverage rather than of any architecture. It becomes worth
-  drawing when the JVM analyser lands.
+  drawing when the JVM analyser lands, or when the AnoMod traces supply observed edges.

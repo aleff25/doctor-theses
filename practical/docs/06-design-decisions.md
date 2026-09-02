@@ -97,13 +97,18 @@ Treat it as a reporting metric, not a model feature, until an event-driven subje
 
 ---
 
-## DD-003 — Train Ticket pinned to `refactor/v2` · 2026-08-17
+## DD-003 — Train Ticket pinned to `refactor/v2` · 2026-08-17 · **SUPERSEDED by DD-009 (2026-09-02)**
 
 **Decision.** Candidate's call, overriding the earlier recommendation of `master`.
 
 See `02-subject-systems.md` for the consequences: 33 modules rather than 47, loss of like-for-like
 comparability with SLR-corpus studies, and fault-injection labels that must be re-verified against
 the v2 layout.
+
+**Outcome.** The re-verification happened on 2026-09-02 and the labels did not survive it. Reversed
+by DD-009. This entry stays in place because a decision that was made, acted on and then overturned
+by evidence is part of the record, and the revisit clause above is what made the reversal a
+procedure rather than a change of mind.
 
 ---
 
@@ -153,6 +158,20 @@ derivable.
 every response the API serves. It is a versioned change, not a tuning knob to be turned quietly
 before a figure is drawn.
 
+**Known defect, found 2026-09-02.** The metric profile does *not* carry the threshold set version.
+It stamps `metamodel_version` and `catalogue_version` only, and `derive_thresholds.py` changes
+catalogue data without touching either. Re-deriving the thresholds therefore silently invalidates
+every stored profile, because `GOD`'s note embeds the refusal reason, and a stale profile is
+indistinguishable from a fresh one by its own provenance. This surfaced when a determinism check
+diffed a PetClinic profile computed under the previous threshold set against one computed under the
+new one and reported a change that looked like non-determinism.
+
+The fix is one column: add `threshold_set_version` to `metrics/aam4j_metrics/profile.py` and to the
+API's row typing, so a profile states every input that produced it. Until then, re-run
+`run_pipeline.py` for **every** system after any `derive_thresholds.py` run, and treat mixed
+profiles as invalid. Constraint 4 of `docs/01-pipeline.md` says everything is versioned; this is a
+place where it is not, and the gap was found by the practice in P4 rather than by review.
+
 ---
 
 ## DD-007 — The API is read-only and offers no assessment at T0 · 2026-08-31
@@ -196,3 +215,48 @@ asserting more than the operator guaranteed.
 Results transfer to "does the metric detect this property", never to "does this predict real-world
 failure", and that sentence goes in threats to validity rather than waiting for a reviewer to say
 it first.
+
+---
+
+## DD-009 — Train Ticket re-pinned to `master` · 2026-09-02
+
+**Decision.** Reverses DD-003. Train Ticket is analysed at `master`,
+`313886e99befb94be6cd45f085c98e0019f59829`, committed 2022-11-01.
+
+**What forced it.** The AnoMod dataset (Ping et al., MSR 2026) is the current fault-injection
+source for this benchmark, and its traces name `master`'s services. Measured with
+`subjects/inspect_anomod.py` over the 13 Train Ticket runs:
+
+| Pinned at | Traced services with a modelled element |
+|---|---|
+| `refactor/v2` | 24 / 35 (69%) |
+| `master` | **35 / 35 (100%)** |
+
+The eleven unmatched services under `refactor/v2` were not marginal: `ts-route-service` alone
+carries 12,740 spans, `ts-order-other-service` 10,790. Thirteen `refactor/v2`-only services never
+appeared in a trace at all. DD-003's own revisit clause named this exact condition, so the reversal
+is the procedure working rather than a reconsideration.
+
+**What it costs, and this is the uncomfortable half.** `master` is frozen: its head commit is from
+**2022-11-01**. Trading an actively maintained branch for a four-year-old snapshot is a real loss,
+and it is the reason DD-003 chose `refactor/v2` in the first place. Three consequences to state
+rather than discover later:
+
+1. Every finding about Train Ticket describes a 2022 system. Any claim about "current microservice
+   practice" cannot lean on it.
+2. The pinned code and the AnoMod traces are still not the same build. The dataset was collected in
+   November 2025 from a deployment of `master`; we analyse `master`'s source. Service names join
+   completely, which is what the metrics need, but this is version alignment, not identity, and it
+   belongs in threats to validity.
+3. Comparability with the SLR corpus improves, since the fault-diagnosis literature overwhelmingly
+   uses `master`.
+
+**Consequence for stored artifacts.** Every Train Ticket profile, model and label written before
+this date describes a different snapshot and is not comparable with what follows. They were
+regenerated rather than migrated. The counts moved accordingly: 42 functional services instead of
+30, 262 endpoints instead of 219, and the `cycle` learning task gained a second system, so it can be
+evaluated leave-one-system-out for the first time.
+
+**When this should change.** If `refactor/v2` ever acquires a published fault-injection dataset of
+its own, the argument reverses again and the maintained branch wins. The deciding question is always
+the same one: where do the labels come from.

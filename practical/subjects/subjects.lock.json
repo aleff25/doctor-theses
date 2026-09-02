@@ -1,8 +1,8 @@
 {
-  "pinned_at": "2026-08-17T14:00:03Z",
+  "pinned_at": "2026-09-02T09:02:47Z",
   "subjects": [
     { "name": "petclinic", "url": "https://github.com/spring-petclinic/spring-petclinic-microservices.git", "branch": "main", "commit": "305a1f13e4f961001d4e6cb50a9db51dc3fc5967", "committed_at": "2026-05-17T20:20:39+02:00" },
-    { "name": "trainticket", "url": "https://github.com/FudanSELab/train-ticket.git", "branch": "refactor/v2", "commit": "a1b9d9a45b5dfcc193cdcf53730f3901db28ef04", "committed_at": "2025-11-21T12:33:07+08:00" },
+    { "name": "trainticket", "url": "https://github.com/FudanSELab/train-ticket.git", "branch": "master", "commit": "313886e99befb94be6cd45f085c98e0019f59829", "committed_at": "2022-11-01T16:21:39+08:00" },
     { "name": "teastore", "url": "https://github.com/DescartesResearch/TeaStore.git", "branch": "master", "commit": "34b37f7e7be433ce72d5f9455e66922a13116749", "committed_at": "2025-01-08T16:29:45Z" }
   ]
 }

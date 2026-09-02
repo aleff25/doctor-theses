@@ -1,7 +1,7 @@
-# Subject system clones — pinned by subjects/subjects.lock.json, not vendored
-subjects/petclinic/
-subjects/trainticket/
-subjects/teastore/
+# Subject system clones — pinned by subjects/subjects.lock.json, not vendored.
+# Any directory under subjects/ is a clone or a superseded one kept aside; the
+# script and the lockfile are the only tracked things there.
+subjects/*/
 
 # Third-party datasets. Downloaded, not produced here, and far too large for a
 # repository: AnoMod alone is 3 GB on disk. Provenance and the exact download

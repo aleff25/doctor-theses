@@ -20,8 +20,9 @@ UPDATE=0
 # name|url|branch
 SUBJECTS=(
   "petclinic|https://github.com/spring-petclinic/spring-petclinic-microservices.git|main"
-  # refactor/v2 chosen over the frozen master (2022-11-01) — see docs/02-subject-systems.md
-  "trainticket|https://github.com/FudanSELab/train-ticket.git|refactor/v2"
+  # master, reversing DD-003: the AnoMod traces name master's services and join
+  # 35/35 against it, versus 24/35 against refactor/v2. See DD-009.
+  "trainticket|https://github.com/FudanSELab/train-ticket.git|master"
   "teastore|https://github.com/DescartesResearch/TeaStore.git|master"
 )
 

@@ -26,10 +26,9 @@ mutant (`base` is the unmutated model).
   task's rows entirely, because its true label is unknown.
 - `note = "unverified negative..."` marks a negative that no deterministic detector could confirm,
   which is currently every negative of the `oversized-service` task.
-- The `cycle` and `shared-persistence` tasks have labels for PetClinic only. Train Ticket and
-  TeaStore yield too few extracted dependencies and persistence links for the operators to have
-  anything to damage. That is a limitation of stage 1, and it is the reason those two tasks cannot
-  be evaluated leave-one-system-out yet.
+- `shared-persistence` has labels for PetClinic only, and `cycle` for PetClinic and Train Ticket.
+  TeaStore yields no extracted dependencies at all, so the operators have nothing to damage there.
+  That is a limitation of stage 1 rather than of the systems.
 
 **Standing threat to validity.** Mutants are not drawn from the distribution of real architectural
 decay. Results transfer to "does the metric detect this property", not to "does this predict

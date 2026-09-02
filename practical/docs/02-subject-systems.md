@@ -45,23 +45,33 @@ addition and worth checking before including it in a snapshot — it may skew th
 47 `ts-*` modules (one of which, `ts-common`, is a shared library, not a service — the extractor
 must not count it as one). Mostly Java/Spring Boot with a few non-Java components.
 
-> **Branch decision — DECIDED 2026-08-17: `refactor/v2`.** `master` HEAD is frozen at 2022-11-01;
-> active development is on `refactor/v2` (last commit 2025-11-21). Pinned to `refactor/v2` by
-> candidate decision. Consequences to carry into the thesis:
+> **Branch decision — REVERSED 2026-09-02: `master` (DD-009).**
 >
-> - **The module count differs by branch.** `master` has 47 `ts-*` dirs; `refactor/v2` has **33**
->   (plus a `refactor/` directory and a `ts-client-sdk` module that is a client library, not a
->   service). Any figure quoting "41 / 47 microservices" from the literature refers to `master` —
->   do not reuse those numbers.
-> - **Comparability with prior work is now a threat to validity**, not a given. SLR-corpus studies
->   that evaluate on Train Ticket used the older layout. State the pinned SHA and note that
->   cross-study comparisons are indicative rather than like-for-like.
-> - **Fault-injection labels must be re-verified against v2** (see `05-labels-and-datasets.md`).
->   Published fault datasets generally target the older layout; if they do not port, this decision
->   has to be revisited or the label source changed.
+> It was pinned to `refactor/v2` on 2026-08-17 by candidate decision, because `master` HEAD is
+> frozen at 2022-11-01 while `refactor/v2` was still moving (last commit 2025-11-21). The third
+> bullet of that decision said the fault-injection labels had to be re-verified against v2, and that
+> if they did not port, the decision had to be revisited. They did not port.
 >
-> `refactor/v2` is a *branch under active development*, so re-running `--update` can move it. Pin
-> once, work from the pinned SHA, and re-pin deliberately rather than incidentally.
+> The AnoMod dataset (Ping et al., MSR 2026), which is the current fault-injection source for this
+> benchmark, names `master`'s services. Measured over its 13 Train Ticket runs: **35 of 35** traced
+> services have an element in the model when pinned to `master`, against **24 of 35** on
+> `refactor/v2`. Eleven high-traffic services, `ts-route-service` among them with 12,740 spans, had
+> nowhere to attach.
+>
+> What the reversal costs, and it is not small:
+>
+> - **The pinned snapshot is from 2022-11-01.** Every Train Ticket finding now describes a
+>   four-year-old system, and no claim about current microservice practice can lean on it.
+> - **The pinned source and the traces are still different builds.** AnoMod was collected in
+>   November 2025 from a deployment of `master`; we analyse `master`'s source. The names join
+>   completely, which is what the metrics need, but that is version alignment and not identity.
+>   It belongs in threats to validity.
+>
+> What it buys: the label source, and like-for-like comparability with the SLR-corpus studies, which
+> overwhelmingly evaluate on `master`. Figures quoting "41 / 47 microservices" from the literature
+> now refer to the same branch this thesis analyses.
+>
+> `master` being frozen has one advantage worth naming: re-running `--update` cannot move it.
 
 This is the de facto benchmark of the microservice fault-analysis literature, and several studies
 in the SLR corpus evaluate on it. Two consequences: the thesis gets **comparability** with existing
@@ -118,7 +128,7 @@ Re-run with `--update` to refresh and re-pin. The clones are gitignored; the loc
 | System | Commit | Commit date | Confirmed structure |
 |---|---|---|---|
 | petclinic | `305a1f13` | 2026-05-17 | 8 `spring-petclinic-*` modules |
-| trainticket | `a1b9d9a4` | 2025-11-21 | 33 `ts-*` modules on `refactor/v2` (incl. `ts-common`, `ts-client-sdk` — libraries, not services) |
+| trainticket | `313886e9` | 2022-11-01 | 47 `ts-*` modules on `master` (incl. `ts-common` — a library, not a service). 42 classified functional, 262 endpoints, 26 entities |
 | teastore | `34b37f7e` | 2025-01-08 | 6 services under `services/` (auth, image, persistence, recommender, registry, webui) |
 
 TeaStore has a `registry` service in addition to the five functional ones — the extractor should

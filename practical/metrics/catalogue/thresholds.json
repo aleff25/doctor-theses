@@ -5,7 +5,7 @@
       "system": "petclinic"
     },
     {
-      "snapshot": "a1b9d9a45b5dfcc193cdcf53730f3901db28ef04",
+      "snapshot": "313886e99befb94be6cd45f085c98e0019f59829",
       "system": "trainticket"
     },
     {
@@ -17,20 +17,20 @@
   "thresholds": {
     "GOD": {
       "AIS": {
-        "reason": "degenerate distribution: q=0.9 equals the minimum (0) over n=47, so the metric separates nothing",
+        "reason": "degenerate distribution: q=0.9 equals the minimum (0) over n=59, so the metric separates nothing",
         "value": null
       },
       "NOD": {
         "max": 6.0,
         "min": 0.0,
-        "n": 47,
-        "value": 2.0
+        "n": 59,
+        "value": 1.0
       },
       "NOE": {
-        "max": 19.0,
+        "max": 21.0,
         "min": 0.0,
-        "n": 47,
-        "value": 11.0
+        "n": 59,
+        "value": 9.0
       }
     }
   },
